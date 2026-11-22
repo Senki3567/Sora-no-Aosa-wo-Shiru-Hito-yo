@@ -9,10 +9,11 @@
 Fonts/
 [Ff]onts/
 
-# Backups & Torrents
+# Backups, Zips & Torrents
 *.bak
 *.tmp
 *.torrent
+*.zip
 
 # Audio rips & Temp files
 *.opus
