@@ -1,0 +1,24 @@
+# Video raw files
+*.mkv
+*.mp4
+*.avi
+*.webm
+*.ts
+
+# Fonts
+Fonts/
+[Ff]onts/
+
+# Backups & Torrents
+*.bak
+*.tmp
+*.torrent
+
+# Audio rips & Temp files
+*.opus
+*.wav
+*.flac
+*.aac
+__pycache__/
+*.pyc
+.DS_Store
