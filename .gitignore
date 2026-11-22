@@ -9,11 +9,12 @@
 Fonts/
 [Ff]onts/
 
-# Backups, Zips & Torrents
+# Backups & Torrents
 *.bak
 *.tmp
 *.torrent
 *.zip
+!ass-studio-skill.zip
 
 # Audio rips & Temp files
 *.opus

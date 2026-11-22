@@ -12,6 +12,7 @@ Dự án tái lập và hoàn thiện bản phụ đề chuẩn xưởng cho mov
   - Đã thẩm định và xác thực 100% người nói (`Actor`) khớp theo Netflix Closed Captions và kịch bản Blu-ray.
 - **Tài liệu bàn giao Phase 2**: [`HANDOFF_VIETNAMESE_LOCALIZATION.md`](./HANDOFF_VIETNAMESE_LOCALIZATION.md) — Chi tiết ma trận xưng hô toàn bộ nhân vật, danh mục lỗi dịch cần tránh và quy chuẩn kỹ thuật.
 - **Bảng đối soát dữ liệu**: [`thoai_full_alignment.tsv`](./thoai_full_alignment.tsv) — Bảng đối soát 1:1 từng dòng cue tiếng Anh, tiếng Nhật gốc, nhãn người nói và thời gian.
+- **Bộ công cụ & Skill kiểm định**: [`ass-studio-skill.zip`](./ass-studio-skill.zip) — Gói skill ASS Studio hoàn chỉnh chứa các script kiểm toán tự động (`ass_tools.py lint-tags`, `timing-qc`, `motion_studio.py`, v.v.).
 - **Thư viện nguồn phụ đề**:
   - `1_Nguon_Typeset_TS/`: 7 bản phụ đề đại diện cho các trường phái Typeset 3D, FBF, vector mask.
   - `2_Ban_Dich_Viet/`: 4 bản dịch tiếng Việt tham chiếu.
