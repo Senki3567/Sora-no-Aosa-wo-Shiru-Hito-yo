@@ -220,7 +220,7 @@ Dialogue: 0,0:12:31.02,0:12:32.94,Default,Akane,0,0,0,,Tên gì mà kỳ cục t
 Dialogue: 0,0:12:32.94,0:12:34.40,Default,Akane,0,0,0,,Chẳng ai hiểu nổi đâu.
 Dialogue: 0,0:12:34.40,0:12:36.74,Default,Shinno,0,0,0,,Gì chứ? Ngầu thế còn gì!
 Dialogue: 0,0:12:36.74,0:12:38.61,Default,Aoi,0,0,0,,Ngầu lắm luôn!
-Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Dankichi Nitobe từng lên diễn\NĐêm Giao Thừa đúng không nhỉ?
+Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Nitobe Dankichi từng lên diễn\NĐêm Giao Thừa đúng không nhỉ?
 Dialogue: 0,0:12:53.59,0:12:55.96,Default,Akane,0,0,0,,À, em nhớ mang máng rồi.
 Dialogue: 0,0:12:55.96,0:12:58.76,Default,Akane,0,0,0,,Ông ấy cưỡi kiệu vàng chói\Ntrông kỳ cục lắm nhỉ?
 Dialogue: 0,0:12:58.76,0:13:01.59,Default,Colleague,0,0,0,,À, chị cũng xem cái đó rồi.
@@ -320,7 +320,7 @@ Dialogue: 0,0:19:00.58,0:19:04.46,Default,Tsugu,0,0,0,,Thế là bị ăn chực
 Dialogue: 0,0:19:05.87,0:19:07.25,Default,Aoi,0,0,0,,Tsugu?
 Dialogue: 0,0:19:11.46,0:19:12.80,Top,Townsperson,0,0,0,,Cái gì thế—
 Dialogue: 0,0:19:17.14,0:19:20.31,Default,Nitobe,0,0,0,,Thưa quý vị, xin lỗi để mọi người chờ lâu!
-Dialogue: 0,0:19:20.31,0:19:23.06,Default,Nitobe,0,0,0,,Đấng nam nhi cô độc,\NDankichi Nitobe ta đây,
+Dialogue: 0,0:19:20.31,0:19:23.06,Default,Nitobe,0,0,0,,Đấng nam nhi cô độc,\NNitobe Dankichi ta đây,
 Dialogue: 0,0:19:23.06,0:19:30.40,Default,Nitobe,0,0,0,,đã vượt núi băng đồng từ phương xa,\Nmang món quà nụ cười tới tặng chư vị!
 Dialogue: 0,0:19:30.40,0:19:32.15,Default,Masamichi,0,0,0,,C-Cú lừa à?
 Dialogue: 0,0:19:32.15,0:19:33.49,Top,Townsperson,0,0,0,,Dan-chan kìa phải không?!
@@ -354,7 +354,7 @@ Dialogue: 0,0:21:38.11,0:21:39.90,Default,Shinno,0,0,0,,Đã bảo tôi là Shin
 Dialogue: 0,0:21:39.90,0:21:41.74,Default,Shinno,0,0,0,,Còn cậu là ai?
 Dialogue: 0,0:21:41.74,0:21:44.28,Default,Tsugu,0,0,0,,Ao-chan, cứ chạy trước đi đã.
 Dialogue: 0,0:21:44.28,0:21:44.91,Default,Shinno,0,0,0,,Ao-chan á?
-Dialogue: 0,0:21:47.62,0:21:49.75,Default,Aoi,0,0,0,,Aoi Aioi.
+Dialogue: 0,0:21:47.62,0:21:49.75,Default,Aoi,0,0,0,,Aioi Aoi.
 Dialogue: 0,0:21:49.75,0:21:52.29,Default,Aoi,0,0,0,,Sao Mắt Biếc số hai.
 Dialogue: 0,0:21:59.80,0:22:00.67,Default,Shinno,0,0,0,,Hôm đó,
 Dialogue: 0,0:22:00.67,0:22:03.59,Default,Shinno,0,0,0,,lúc Akane bảo không lên Tokyo cùng anh.
@@ -504,7 +504,7 @@ Dialogue: 0,0:29:37.88,0:29:38.67,Default,Aoi,0,0,0,,Hả?
 Dialogue: 0,0:29:38.67,0:29:41.80,Default,Akane,0,0,0,,Có sao đâu!\NLâu rồi chị em mình chưa ngủ chung.
 Dialogue: 0,0:29:47.97,0:29:48.77,Default,Aoi,0,0,0,,Chị này.
 Dialogue: 0,0:29:48.77,0:29:49.81,Default,Akane,0,0,0,,Ừ?
-Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Kể em nghe về\NShinnosuke Kanamuro đi.
+Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Kể em nghe về\NKanamuro Shinnosuke đi.
 Dialogue: 0,0:29:53.48,0:29:54.98,Default,Akane,0,0,0,,Chỉ là một gã nát rượu thôi.
 Dialogue: 0,0:29:54.98,0:29:58.11,Default,Aoi,0,0,0,,Không phải bây giờ, hồi xưa cơ.
 Dialogue: 0,0:29:58.11,0:30:01.49,Default,Akane,0,0,0,,Lâu quá rồi, chị quên sạch rồi.
@@ -621,7 +621,7 @@ Dialogue: 0,0:36:05.52,0:36:07.19,Default,Masamichi,0,0,0,,Nitobe-sensei?
 Dialogue: 0,0:36:07.19,0:36:08.73,Default,Nitobe,0,0,0,,Âm thanh có sự sống đấy.
 Dialogue: 0,0:36:08.73,0:36:10.27,Default,Nitobe,0,0,0,,Là sinh mệnh đấy.
 Dialogue: 0,0:36:10.27,0:36:13.98,Default,Nitobe,0,0,0,,Không có nhạc sống,\Nta chẳng thể hát nên cái hồn của Enka.
-Dialogue: 0,0:36:13.98,0:36:19.53,Default,Nitobe,0,0,0,,Dankichi Nitobe ta đây tuyệt đối không\Nhát cùng nhạc thu sẵn đâu!
+Dialogue: 0,0:36:13.98,0:36:19.53,Default,Nitobe,0,0,0,,Nitobe Dankichi ta đây tuyệt đối không\Nhát cùng nhạc thu sẵn đâu!
 Dialogue: 0,0:36:19.53,0:36:20.83,Default,Masamichi,0,0,0,,Nh-Nhưng mà...
 Dialogue: 0,0:36:20.83,0:36:24.62,Default,Manager,0,0,0,,Giờ mà đi tìm người mới thì...
 Dialogue: 0,0:36:26.37,0:36:29.46,Default,Akane,0,0,0,,Đang thiếu một tay trống\Nvà một tay bass nhỉ?
@@ -1066,7 +1066,7 @@ Dialogue: 0,1:05:59.64,1:06:00.56,Default,Shinnosuke,0,0,0,,Sao em lại—
 Dialogue: 0,1:06:01.10,1:06:04.82,Default,Akane,0,0,0,,Em có mua đĩa hẳn hoi đấy,\Nbài ra mắt solo của Shinno.
 Dialogue: 0,1:06:04.82,1:06:07.03,Default,Shinnosuke,0,0,0,,Quá khứ đen tối của anh đấy.
 Dialogue: 0,1:06:08.82,1:06:12.41,Default,Akane,0,0,0,,Em thích bài đó ngang\Nbài "Gandhara" luôn đấy.
-Dialogue: 0,1:06:57.03,1:06:59.33,Default,Shinnosuke,0,0,0,,Phong cách Dankichi Nitobe!
+Dialogue: 0,1:06:57.03,1:06:59.33,Default,Shinnosuke,0,0,0,,Phong cách Nitobe Dankichi!
 Dialogue: 0,1:07:11.55,1:07:14.55,Default,Akane,0,0,0,,Gì thế hả? Hát đàng hoàng đi chứ!
 Dialogue: 0,1:07:14.55,1:07:17.01,Default,Shinnosuke,0,0,0,,Tiếp theo, phong cách thầy dạy toán Saito!
 Dialogue: 0,1:07:25.60,1:07:26.73,Italics,Aoi,0,0,0,,Aka-nee...
