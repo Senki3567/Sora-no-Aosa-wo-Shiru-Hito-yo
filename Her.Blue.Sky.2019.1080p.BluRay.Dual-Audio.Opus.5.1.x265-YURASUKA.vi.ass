@@ -42,9 +42,9 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,==================== [THOẠI] 
 Dialogue: 0,0:01:17.56,0:01:20.10,Italics,Aoi,0,0,0,,Mình lúc nào cũng đi tìm.
 Dialogue: 0,0:01:30.40,0:01:31.95,Italics,Aoi,0,0,0,,Vẫn luôn kiếm tìm.
 Dialogue: 0,0:01:41.58,0:01:44.67,Default,Shinno,0,0,0,,Hụt rồi. Lại là nhân tảo bẹ nữa à?
-Dialogue: 0,0:01:44.67,0:01:46.59,Default,Akane,0,0,0,,Hôm nay toàn bộ đều là tảo bẹ.
+Dialogue: 0,0:01:44.67,0:01:46.59,Default,Akane,0,0,0,,Hôm nay toàn tảo bẹ thôi.
 Dialogue: 0,0:01:46.59,0:01:48.00,Default,Shinno,0,0,0,,Sao thế, Akane?
-Dialogue: 0,0:01:48.00,0:01:50.76,Default,Shinno,0,0,0,,Anh nói vạn lần rồi,\Nanh thích cá ngừ sốt mayo mà!
+Dialogue: 0,0:01:48.00,0:01:50.76,Default,Shinno,0,0,0,,Anh nói cả vạn lần là thích\Ncá ngừ sốt mayo rồi mà!
 Dialogue: 0,0:01:50.76,0:01:51.80,Default,Aoi,0,0,0,,Em thích tảo bẹ.
 Dialogue: 0,0:01:51.80,0:01:52.84,Default,Akane,0,0,0,,Nghe thấy chưa?
 Dialogue: 0,0:01:52.84,0:01:54.72,Default,Masamichi,0,0,0,,Mày thua Aoi rồi nhé.
@@ -53,14 +53,14 @@ Dialogue: 0,0:01:58.72,0:02:00.14,Default,Shinno,0,0,0,,Im đi.
 Dialogue: 0,0:02:00.14,0:02:02.06,Default,Shinno,0,0,0,,Nào, vào tập thôi!
 Dialogue: 0,0:02:02.73,0:02:04.77,Default,Banba,0,0,0,,Ơ, tao vẫn đang ăn mà!
 Dialogue: 0,0:02:04.77,0:02:05.81,Default,Shinno,0,0,0,,Ăn lẹ lên!
-Dialogue: 0,0:02:06.11,0:02:08.73,Default,Shinno,0,0,0,,Cây Akane Special của tao sắp gầm vang đây!
+Dialogue: 0,0:02:06.11,0:02:08.73,Default,Shinno,0,0,0,,Cây Akane Special của tao sắp bốc lửa đây!
 Dialogue: 0,0:02:08.73,0:02:10.61,Default,Abo,0,0,0,,Tên gì mà dở tệ.
 Dialogue: 0,0:02:11.49,0:02:13.07,Default,Aoi,0,0,0,,Em cũng...
 Dialogue: 0,0:02:13.66,0:02:15.45,Default,Aoi,0,0,0,,Em cũng muốn chơi.
 Dialogue: 0,0:02:15.99,0:02:18.49,Default,Shinno,0,0,0,,Để anh dạy em chơi guitar nhé?
 Dialogue: 0,0:02:21.50,0:02:23.58,Default,Shinno,0,0,0,,Thế em muốn chơi gì nào?
 Dialogue: 0,0:02:27.79,0:02:29.67,Default,Abo,0,0,0,,Hả? Thật đấy à?
-Dialogue: 0,0:02:29.67,0:02:32.97,Default,Abo,0,0,0,,Aoi-chan đang thầm ngưỡng mộ anh đấy à?
+Dialogue: 0,0:02:29.67,0:02:32.97,Default,Abo,0,0,0,,Aoi-chan ngưỡng mộ anh đấy à?
 Dialogue: 0,0:02:32.97,0:02:34.22,Default,Aoi,0,0,0,,Không phải!
 Dialogue: 0,0:02:34.22,0:02:36.14,Default,Shinno,0,0,0,,Thật luôn?
 Dialogue: 0,0:02:36.14,0:02:39.35,Default,Shinno,0,0,0,,Mà nghĩ lại thì,\Ncon gái chơi bass cũng ngầu phết nhỉ.
@@ -105,42 +105,42 @@ Dialogue: 0,0:04:55.44,0:04:57.94,Default,Aoi,0,0,0,,Đừng bắt nạt Aka-nee
 Dialogue: 0,0:04:57.94,0:04:59.28,Default,Akane,0,0,0,,Aoi.
 Dialogue: 0,0:04:59.28,0:05:01.70,Default,Aoi,0,0,0,,Đừng hòng đưa Aka-nee đi, đồ đần!
 Dialogue: 0,0:05:01.99,0:05:02.74,Default,Aoi,0,0,0,,Đồ béo!
-Dialogue: 0,0:05:02.74,0:05:05.41,Default,Shinno,0,0,0,,Béo á? Mỡ cơ thể anh\Nchỉ có bảy phần trăm thôi đấy!
+Dialogue: 0,0:05:02.74,0:05:05.41,Default,Shinno,0,0,0,,Béo á? Người anh\Nchỉ có 7% mỡ thôi đấy!
 Dialogue: 0,0:05:05.41,0:05:06.83,Default,Aoi,0,0,0,,Im đi đồ heo mập!
 Dialogue: 0,0:05:05.41,0:05:06.83,Alternative,Akane,0,0,0,,Này, Aoi.
 Dialogue: 0,0:05:06.83,0:05:09.87,Default,Aoi,0,0,0,,Đồ khỉ! Khỉ đột! Đừng đưa Aka-nee đi!
 Dialogue: 0,0:05:09.87,0:05:12.79,Default,Aoi,0,0,0,,Aka-nee với em mãi mãi ở bên nhau!
-Dialogue: 0,0:05:22.01,0:05:26.18,Italics,Aoi,0,0,0,,Mình vẫn đang tìm kiếm.
+Dialogue: 0,0:05:22.01,0:05:26.18,Italics,Aoi,0,0,0,,Mình vẫn đang tìm.
 Dialogue: 0,0:06:24.41,0:06:25.62,Italics,Aoi,0,0,0,,Vẫn đang đi tìm.
 Dialogue: 0,0:06:33.25,0:06:36.92,Italics,Aoi,0,0,0,,Nơi mọi giấc mơ đều thành hiện thực.
 Dialogue: 0,0:06:49.72,0:06:50.89,Default,Aoi,0,0,0,,Em lên Tokyo.
-Dialogue: 0,0:06:51.22,0:06:55.73,Default,Teacher,0,0,0,,Thầy hiểu nơi em muốn đến,\Nnhưng em không định học tiếp đúng không?
+Dialogue: 0,0:06:51.22,0:06:55.73,Default,Teacher,0,0,0,,Chỗ đi thì thầy biết rồi,\Nnhưng em không học tiếp à?
 Dialogue: 0,0:06:55.73,0:06:57.36,Default,Teacher,0,0,0,,Thế còn đi làm?
-Dialogue: 0,0:06:57.36,0:07:00.07,Default,Aoi,0,0,0,,Vừa làm thêm vừa chơi ban nhạc,\Nrồi làm trùm cho xem!
+Dialogue: 0,0:06:57.36,0:07:00.07,Default,Aoi,0,0,0,,Vừa làm thêm vừa lập ban nhạc\Nrồi làm trùm ạ.
 Dialogue: 0,0:07:00.07,0:07:02.57,Default,Teacher,0,0,0,,Ban nhạc gồm những ai?
 Dialogue: 0,0:07:02.57,0:07:04.82,Default,Aoi,0,0,0,,Một mình em thôi ạ.
-Dialogue: 0,0:07:04.82,0:07:07.16,Default,Teacher,0,0,0,,Vậy thầy đánh dấu mục đi làm nhé.
+Dialogue: 0,0:07:04.82,0:07:07.16,Default,Teacher,0,0,0,,Vậy ghi mục đi làm nhé.
 Dialogue: 0,0:07:07.16,0:07:07.87,Default,Teacher,0,0,0,,Người tiếp!
 Dialogue: 0,0:07:08.24,0:07:09.41,Default,Teacher,0,0,0,,Ohtaki-san, vào đi.
 Dialogue: 0,0:07:09.41,0:07:10.87,Default,Chika,0,0,0,,Dạ vâng!
 Dialogue: 0,0:07:12.87,0:07:14.41,Default,Chika,0,0,0,,Áp lực dữ vậy trời...
 Dialogue: 0,0:07:14.41,0:07:16.08,Default,Teacher,0,0,0,,Ohtaki, nhanh lên—
 Dialogue: 0,0:07:16.08,0:07:18.54,Default,Chika,0,0,0,,À, em định đi lấy chồng ạ!
-Dialogue: 0,0:07:18.54,0:07:20.63,Default,Chika,0,0,0,,Giờ em chưa biết là ai, nhưng—
+Dialogue: 0,0:07:18.54,0:07:20.63,Default,Chika,0,0,0,,Dù giờ em chưa có ai, nhưng—
 Dialogue: 0,0:07:20.63,0:07:22.05,Default,Teacher,0,0,0,,Ghi mục đi làm nhé.
 Dialogue: 0,0:07:22.38,0:07:23.55,Default,Teacher,0,0,0,,Rồi, người tiếp.
 Dialogue: 0,0:07:23.55,0:07:27.64,Default,Chika,0,0,0,,Ơ khoan, bàn thêm chút nữa\Nvề tương lai của em đi thầy!
-Dialogue: 0,0:07:32.56,0:07:37.10,Default,Akane,0,0,0,,Gần cuối năm,\NTòa thị chính cũng bắt đầu bận rộn rồi.
+Dialogue: 0,0:07:32.56,0:07:37.10,Default,Akane,0,0,0,,Sắp cuối năm nên Tòa thị chính\Ncũng bắt đầu bận rồi.
 Dialogue: 0,0:07:37.10,0:07:39.36,Default,Akane,0,0,0,,Tháng sau chắc chị không đón em được đâu.
-Dialogue: 0,0:07:40.44,0:07:45.07,Default,Aoi,0,0,0,,Đi bộ từ nhà đến trường\Nmất cả tiếng đồng hồ đấy!
+Dialogue: 0,0:07:40.44,0:07:45.07,Default,Aoi,0,0,0,,Đi bộ từ nhà tới trường\Nmất cả tiếng đấy!
 Dialogue: 0,0:07:45.07,0:07:46.82,Default,Akane,0,0,0,,Đang vào mùa đẹp mà.
 Dialogue: 0,0:07:46.82,0:07:50.16,Default,Akane,0,0,0,,Em vừa ngắm lá đỏ\Nvừa leo núi, thích thế còn gì.
 Dialogue: 0,0:07:51.66,0:07:53.83,Default,Aoi,0,0,0,,Em ghét núi.
-Dialogue: 0,0:07:54.91,0:08:00.42,Default,Aoi,0,0,0,,Sống giữa thung lũng lòng chảo\Nchẳng khác nào bị tường vây quanh.
-Dialogue: 0,0:08:00.42,0:08:04.34,Default,Aoi,0,0,0,,Cứ như mình đang bị nhốt\Ntrong một nhà tù khổng lồ vậy.
-Dialogue: 0,0:08:04.34,0:08:06.76,Default,Akane,0,0,0,,Lại bài ca tuổi nổi loạn của em rồi đấy.
+Dialogue: 0,0:07:54.91,0:08:00.42,Default,Aoi,0,0,0,,Ở trong vùng lòng chảo\Nchẳng khác nào bị tường vây quanh.
+Dialogue: 0,0:08:00.42,0:08:04.34,Default,Aoi,0,0,0,,Tụi mình đang bị nhốt trong\Ncái nhà tù khổng lồ đấy.
+Dialogue: 0,0:08:04.34,0:08:06.76,Default,Akane,0,0,0,,Lại lên cơn tuổi nổi loạn rồi đấy.
 Dialogue: 0,0:08:06.76,0:08:08.51,Default,Akane,0,0,0,,Chị nói sao cũng mặc kệ.
-Dialogue: 0,0:08:08.51,0:08:11.76,Default,Akane,0,0,0,,Dù sao em cũng nhất định rời khỏi đây.
+Dialogue: 0,0:08:08.51,0:08:11.76,Default,Akane,0,0,0,,Dù sao em cũng sẽ rời khỏi đây.
 Dialogue: 0,0:08:25.40,0:08:27.15,Default,Akane,0,0,0,,Ủa?
 Dialogue: 0,0:08:30.78,0:08:31.87,Default,Akane,0,0,0,,Cháu chào cô ạ!
 Dialogue: 0,0:08:31.87,0:08:32.62,Default,Townsperson,0,0,0,,Ôi!
@@ -151,35 +151,35 @@ Dialogue: 0,0:08:38.83,0:08:44.34,Default,Townsperson,0,0,0,,Masamichi-chan gọ
 Dialogue: 0,0:08:44.34,0:08:48.09,Default,Townsperson,0,0,0,,A, để cháu phụ một tay nhé. Nào, Aoi!
 Dialogue: 0,0:08:44.34,0:08:45.59,Top,Akane,0,0,0,,Chừng này chắc đủ rồi.
 Dialogue: 0,0:08:45.59,0:08:46.71,Top,Townsperson,0,0,0,,Ừ, đủ rồi đấy.
-Dialogue: 0,0:08:51.34,0:08:53.68,Default,Townsperson,0,0,0,,Ngại quá, đang trên đường về lại phiền cháu.
+Dialogue: 0,0:08:51.34,0:08:53.68,Default,Townsperson,0,0,0,,Xin lỗi nhé, đang định về lại phiền cháu.
 Dialogue: 0,0:08:53.68,0:08:54.39,Default,Akane,0,0,0,,Có gì đâu ạ.
-Dialogue: 0,0:08:54.39,0:08:57.06,Default,Akane,0,0,0,,Cháu cũng dự buổi họp tối nay mà.
+Dialogue: 0,0:08:54.39,0:08:57.06,Default,Akane,0,0,0,,Cháu cũng họp tối nay mà.
 Dialogue: 0,0:08:57.06,0:08:59.31,Default,Townsperson,0,0,0,,À phải rồi, Akane-chan ăn lê không cháu?
-Dialogue: 0,0:08:59.31,0:09:00.94,Default,Akane,0,0,0,,Dạ có, cháu thích lắm ạ!
-Dialogue: 0,0:09:00.94,0:09:03.31,Default,Townsperson,0,0,0,,Chị cháu đúng là người chị tuyệt vời.
+Dialogue: 0,0:08:59.31,0:09:00.94,Default,Akane,0,0,0,,Dạ có, cháu ăn ạ!
+Dialogue: 0,0:09:00.94,0:09:03.31,Default,Townsperson,0,0,0,,Chị cháu đúng là cô chị tốt thật đấy.
 Dialogue: 0,0:09:03.31,0:09:05.86,Default,Townsperson,0,0,0,,Phải biết ơn chị đấy nhé, Aoi-chan.
-Dialogue: 0,0:09:05.86,0:09:12.74,Italics,Aoi,0,0,0,,Cứ hễ ai bảo phải biết ơn,\Nmình lại càng muốn làm ngược lại.
+Dialogue: 0,0:09:05.86,0:09:12.74,Italics,Aoi,0,0,0,,Cứ bị nhắc phải biết ơn mãi,\Nmình lại chỉ muốn làm ngược lại.
 Dialogue: 0,0:09:14.16,0:09:15.70,Default,Masamichi,0,0,0,,Nói gì thì nói chứ,
-Dialogue: 0,0:09:15.70,0:09:20.16,Default,Masamichi,0,0,0,,quầy khoai tây miso phải làm\Nthêm mấy vị mới cho phong phú vào.
+Dialogue: 0,0:09:15.70,0:09:20.16,Default,Masamichi,0,0,0,,quầy khoai tây miso phải thêm\Nvài vị nữa mới được.
 Dialogue: 0,0:09:20.16,0:09:23.42,Default,Masamichi,0,0,0,,Như trộn miso với quýt yuzu\Nhay ớt bột bảy vị chẳng hạn.
-Dialogue: 0,0:09:23.42,0:09:26.67,Default,Townsperson,0,0,0,,Nhưng làm thế này\Nliệu có ai thèm đến không?
+Dialogue: 0,0:09:23.42,0:09:26.67,Default,Townsperson,0,0,0,,Nhưng làm thế có ai tới không đấy?
 Dialogue: 0,0:09:26.67,0:09:29.51,Default,Masamichi,0,0,0,,Sao bác mới thế đã nản rồi?
 Dialogue: 0,0:09:29.51,0:09:34.01,Default,Masamichi,0,0,0,,Khu này làm du lịch\Ncứ bị trên phố hút sạch khách rồi.
-Dialogue: 0,0:09:34.01,0:09:37.81,Default,Masamichi,0,0,0,,Giờ phải làm một cú ra trò\Ncho thiên hạ biết mặt chứ!
+Dialogue: 0,0:09:34.01,0:09:37.81,Default,Masamichi,0,0,0,,Tới lúc phải làm một cú ra trò rồi!
 Dialogue: 0,0:09:37.81,0:09:40.73,Default,Townsperson,0,0,0,,Phải đấy!\NKhông bắt sóng lớn lần này thì phí.
-Dialogue: 0,0:09:40.73,0:09:44.73,Default,Townsperson,0,0,0,,Masamichi-chan bên Phòng Du lịch\Nđã mất công thu xếp cho mình rồi mà.
+Dialogue: 0,0:09:40.73,0:09:44.73,Default,Townsperson,0,0,0,,Masamichi-chan bên Phòng Du lịch\Nđã mất công thu xếp cho rồi mà.
 Dialogue: 0,0:09:44.73,0:09:45.44,Default,Akane,0,0,0,,Đúng đấy ạ!
-Dialogue: 0,0:09:45.44,0:09:50.07,Default,Akane,0,0,0,,Ở Tòa thị chính còn đồn ầm lên là\Ncậu ấy xoay được khối cái này đấy.
+Dialogue: 0,0:09:45.44,0:09:50.07,Default,Akane,0,0,0,,Trên Tòa thị chính còn đồn cậu ấy\Nxoay được khối cái này đấy.
 Dialogue: 0,0:09:50.36,0:09:51.78,Default,Masamichi,0,0,0,,Đừng bịa chuyện nữa, Akane!
 Dialogue: 0,0:09:51.78,0:09:53.61,Top,Townsperson,0,0,0,,Ủa, tin vịt à?
 Dialogue: 0,0:09:53.61,0:09:55.24,Top,Townsperson,0,0,0,,Chắc rót không ít vốn đâu nhỉ.
 Dialogue: 0,0:09:55.24,0:09:56.53,Top,Masamichi,0,0,0,,Không phải chuyện đó.
-Dialogue: 0,0:09:56.53,0:10:01.83,Top,Masamichi,0,0,0,,Không chỉ mời ca sĩ hay ban nhạc nơi khác,\Nmà cả thị trấn mình cũng phải—
+Dialogue: 0,0:09:56.53,0:10:01.83,Top,Masamichi,0,0,0,,Không chỉ mời ca sĩ hay ban nhạc ngoài,\Nmà cả thị trấn mình cũng phải—
 Dialogue: 0,0:10:02.29,0:10:04.63,Default,Tsugu,0,0,0,,Ao-chan cũng tham gia đi chứ?
 Dialogue: 0,0:10:06.25,0:10:10.80,Default,Aoi,0,0,0,,Lôi ra làm trò quảng bá thị trấn\Nthì còn gì là âm nhạc nữa.
-Dialogue: 0,0:10:10.80,0:10:12.97,Default,Aoi,0,0,0,,Đâu phải "âm lạc" để vui tai.
-Dialogue: 0,0:10:12.97,0:10:17.10,Default,Aoi,0,0,0,,Viết thành âm thanh đau khổ,\Nthành "âm khổ" luôn rồi!
-Dialogue: 0,0:10:17.10,0:10:22.60,Default,Tsugu,0,0,0,,Chắc chị tưởng mình vừa nói câu hay lắm,\Nnhưng chẳng hay chút nào đâu.
+Dialogue: 0,0:10:10.80,0:10:12.97,Default,Aoi,0,0,0,,Đâu còn là "âm lạc" để vui nữa.
+Dialogue: 0,0:10:12.97,0:10:17.10,Default,Aoi,0,0,0,,Giờ thành "âm khổ" luôn rồi!
+Dialogue: 0,0:10:17.10,0:10:22.60,Default,Tsugu,0,0,0,,Chị tưởng mình vừa nói hay lắm à?\NChẳng hay tẹo nào đâu.
 Dialogue: 0,0:10:22.60,0:10:23.73,Default,Aoi,0,0,0,,Á! Đau! Đau!
 Dialogue: 0,0:10:23.73,0:10:28.02,Top,Masamichi,0,0,0,,Tóm lại, thị trấn này\Nsẽ hồi sinh nhờ âm nhạc!
 Dialogue: 0,0:10:33.78,0:10:36.20,Default,Masamichi,0,0,0,,Aoi! Tsugu!
@@ -187,14 +187,14 @@ Dialogue: 0,0:10:36.66,0:10:37.99,Default,Tsugu,0,0,0,,Bố.
 Dialogue: 0,0:10:38.99,0:10:43.33,Default,Masamichi,0,0,0,,Ờm... hôm nay em lại lên\Ngian thờ tập đàn à?
 Dialogue: 0,0:10:43.33,0:10:44.17,Default,Aoi,0,0,0,,Vâng.
 Dialogue: 0,0:10:44.17,0:10:45.75,Default,Masamichi,0,0,0,,Chín giờ nhớ nghỉ nhé.
-Dialogue: 0,0:10:45.75,0:10:50.17,Default,Masamichi,0,0,0,,Tiếng bass của em trầm quá,\Nvang vọng lên nghe rờn rợn thế nào ấy.
+Dialogue: 0,0:10:45.75,0:10:50.17,Default,Masamichi,0,0,0,,Tiếng bass em trầm quá,\Nvang lên nghe cứ rờn rợn sao ấy.
 Dialogue: 0,0:10:52.92,0:10:55.72,Default,Masamichi,0,0,0,,Nhà anh có phòng cách âm đấy.
 Dialogue: 0,0:10:57.26,0:10:59.43,Default,Masamichi,0,0,0,,Em không muốn có anh trai à?
 Dialogue: 0,0:10:59.93,0:11:00.93,Default,Aoi,0,0,0,,Hả?
 Dialogue: 0,0:11:00.93,0:11:03.35,Default,Tsugu,0,0,0,,Bố đánh nhanh rút gọn quá đấy.
-Dialogue: 0,0:11:03.35,0:11:05.77,Default,Aoi,0,0,0,,Em chẳng gả chị cho người đã ly hôn đâu.
+Dialogue: 0,0:11:03.35,0:11:05.77,Default,Aoi,0,0,0,,Em không gả chị cho người từng ly hôn đâu.
 Dialogue: 0,0:11:05.77,0:11:08.19,Default,Masamichi,0,0,0,,Anh mới là nạn nhân!\NVợ cũ anh ngoại tình đấy!
-Dialogue: 0,0:11:08.19,0:11:10.27,Default,Masamichi,0,0,0,,Anh là người ly hôn trong sạch mà!
+Dialogue: 0,0:11:08.19,0:11:10.27,Default,Masamichi,0,0,0,,Anh ly hôn trong sạch đàng hoàng mà!
 Dialogue: 0,0:11:10.27,0:11:11.90,Default,Aoi,0,0,0,,Mặc kệ anh.
 Dialogue: 0,0:11:12.23,0:11:14.32,Default,Masamichi,0,0,0,,Này, Aoi!
 Dialogue: 0,0:11:15.28,0:11:18.03,Default,Masamichi,0,0,0,,Em còn nhớ Shinno không?
@@ -212,24 +212,24 @@ Dialogue: 0,0:12:09.63,0:12:12.38,Default,Shinno,0,0,0,,Nào, phải bấm dây 
 Dialogue: 0,0:12:14.09,0:12:19.72,Default,Aoi,0,0,0,,Ồ Ao này, nhìn kỹ mới thấy\Nem có nốt ruồi ở lòng trắng mắt đấy.
 Dialogue: 0,0:12:19.72,0:12:21.14,Default,Aoi,0,0,0,,Giống hệt {\alpha&FF}anh luôn!
 Dialogue: 0,0:12:21.14,0:12:22.47,Default,Aoi,0,0,0,,Giống hệt anh luôn!
-Dialogue: 0,0:12:22.81,0:12:25.56,Default,Aoi,0,0,0,,Nốt ruồi trong mắt là điềm\Nsau này làm nên việc lớn.
+Dialogue: 0,0:12:22.81,0:12:25.56,Default,Aoi,0,0,0,,Có nốt ruồi trong mắt là\Nsau này làm lớn đấy.
 Dialogue: 0,0:12:25.56,0:12:28.85,Default,Aoi,0,0,0,,Hai anh em mình đều là Sao Mắt Biếc nhé.
 Dialogue: 0,0:12:28.85,0:12:30.35,Default,Aoi,0,0,0,,Sao Mắt Biếc!
 Dialogue: 0,0:12:31.02,0:12:32.94,Default,Akane,0,0,0,,Tên gì mà kỳ cục thế?
 Dialogue: 0,0:12:32.94,0:12:34.40,Default,Akane,0,0,0,,Chẳng ai hiểu nổi đâu.
 Dialogue: 0,0:12:34.40,0:12:36.74,Default,Akane,0,0,0,,Gì chứ? Ngầu thế còn gì!
 Dialogue: 0,0:12:36.74,0:12:38.61,Default,Aoi,0,0,0,,Ngầu lắm luôn!
-Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Ông Dankichi Nitobe từng hát ở\Nchương trình Đêm Giao Thừa đúng không nhỉ?
+Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Dankichi Nitobe từng lên diễn\NĐêm Giao Thừa đúng không nhỉ?
 Dialogue: 0,0:12:53.59,0:12:55.96,Default,Akane,0,0,0,,À, em nhớ mang máng rồi.
 Dialogue: 0,0:12:55.96,0:12:58.76,Default,Akane,0,0,0,,Ông ấy cưỡi kiệu vàng chói\Ntrông kỳ cục lắm nhỉ?
-Dialogue: 0,0:12:58.76,0:13:01.59,Default,Colleague,0,0,0,,À, chị cũng từng xem tiết mục đó.
-Dialogue: 0,0:13:01.59,0:13:05.64,Default,Masamichi,0,0,0,,Nhân sự kiện này, bọn tôi sẽ nhờ ông ấy\Nviết riêng một bài về thị trấn mình.
+Dialogue: 0,0:12:58.76,0:13:01.59,Default,Colleague,0,0,0,,À, chị cũng xem cái đó rồi.
+Dialogue: 0,0:13:01.59,0:13:05.64,Default,Masamichi,0,0,0,,Nhân dịp này, bọn tôi sẽ nhờ ông ấy\Nviết một bài về thị trấn mình.
 Dialogue: 0,0:13:05.93,0:13:09.14,Default,Masamichi,0,0,0,,Trong lời sẽ có câu pháo hoa nổ đùng đùng,
 Dialogue: 0,0:13:09.14,0:13:12.27,Default,Masamichi,0,0,0,,lúc ông ấy hát tới đó\Nthì pháo hoa thật nổ đùng, đùng, đùng!
 Dialogue: 0,0:13:12.27,0:13:13.44,Default,Colleague,0,0,0,,Pháo hoa á? Đỉnh thế!
 Dialogue: 0,0:13:13.44,0:13:15.77,Default,Akane,0,0,0,,Vậy là xoay được khối cái này thật hả?
-Dialogue: 0,0:13:15.77,0:13:19.11,Default,Masamichi,0,0,0,,Đây sẽ là... trận đánh lớn nhất đời tớ.
-Dialogue: 0,0:13:19.11,0:13:24.49,Default,Masamichi,0,0,0,,Trận đánh lớn nhất\Nmà tớ dốc cả cuộc đời ra đặt cược.
+Dialogue: 0,0:13:15.77,0:13:19.11,Default,Masamichi,0,0,0,,Đây sẽ là... ván cược lớn nhất.
+Dialogue: 0,0:13:19.11,0:13:24.49,Default,Masamichi,0,0,0,,Ván cược lớn dốc cả đời tớ luôn!
 Dialogue: 0,0:13:26.12,0:13:29.71,Default,Masamichi,0,0,0,,Thế nên sự kiện này\Nnhờ cậu phụ một tay nhé, Akane.
 Dialogue: 0,0:13:30.41,0:13:33.63,Default,Masamichi,0,0,0,,Tớ đã báo trước\Nvới Phòng Đời sống Thị dân rồi.
 Dialogue: 0,0:13:33.63,0:13:36.42,Default,Colleague,0,0,0,,Chị nghe nói rồi. Cố lên nhé, Aioi-san.
@@ -237,25 +237,25 @@ Dialogue: 0,0:13:36.42,0:13:37.21,Default,Akane,0,0,0,,Ơ, khoan—
 Dialogue: 0,0:13:37.21,0:13:40.05,Default,Colleague,0,0,0,,Nakamura, sắp vào họp rồi đấy!
 Dialogue: 0,0:13:40.05,0:13:42.68,Default,Masamichi,0,0,0,,Ồ! Thế chi tiết để tớ nói sau nhé!
 Dialogue: 0,0:13:42.68,0:13:44.64,Default,Akane,0,0,0,,Này, khoan đã Michinko!
-Dialogue: 0,0:13:44.64,0:13:49.68,Default,Colleague,0,0,0,,Dù sao dạo này phòng mình cũng rảnh,\Nem cứ cố gắng nhé!
+Dialogue: 0,0:13:44.64,0:13:49.68,Default,Colleague,0,0,0,,Dạo này phòng mình cũng nhàn,\Nem cứ cố lên nhé!
 Dialogue: 0,0:13:54.86,0:13:59.07,Default,Aoi,0,0,0,,Chị biết thừa Michinko thích chị,\Nđúng không?
 Dialogue: 0,0:13:59.82,0:14:01.45,Default,Akane,0,0,0,,Ừm thì...
 Dialogue: 0,0:14:01.78,0:14:04.70,Default,Aoi,0,0,0,,Đừng làm gì cho người ta hy vọng đấy.
 Dialogue: 0,0:14:10.04,0:14:13.92,Default,Akane,0,0,0,,Cậu ấy là bạn từ nhỏ, lại làm cùng chỗ.
-Dialogue: 0,0:14:13.92,0:14:18.80,Default,Akane,0,0,0,,Dù có lờ mờ biết tình cảm của người ta,\Nvẫn có những chuyện không nên nói toạc ra.
+Dialogue: 0,0:14:13.92,0:14:18.80,Default,Akane,0,0,0,,Biết sơ sơ vậy thôi,\Nnhưng có chuyện không nên nói toạc ra.
 Dialogue: 0,0:14:18.80,0:14:21.42,Default,Akane,0,0,0,,Đó là phép lịch sự của người lớn.
 Dialogue: 0,0:14:22.51,0:14:25.34,Default,Aoi,0,0,0,,Làm người lớn chán chết đi được.
 Dialogue: 0,0:14:27.14,0:14:28.47,Default,Akane,0,0,0,,Mà bỏ qua chuyện đó đi,
-Dialogue: 0,0:14:29.68,0:14:33.02,Default,Akane,0,0,0,,em thử suy nghĩ lại xem nào?
+Dialogue: 0,0:14:29.68,0:14:33.02,Default,Akane,0,0,0,,em nghĩ lại xem sao?
 Dialogue: 0,0:14:33.02,0:14:34.31,Default,Akane,0,0,0,,Chuyện học tiếp ấy.
-Dialogue: 0,0:14:35.15,0:14:38.23,Default,Akane,0,0,0,,Em vừa học đại học\Nvừa chơi ban nhạc cũng được mà.
+Dialogue: 0,0:14:35.15,0:14:38.23,Default,Akane,0,0,0,,Em vừa học vừa chơi ban nhạc\Ncũng được mà.
 Dialogue: 0,0:14:38.23,0:14:41.03,Default,Aoi,0,0,0,,Chuyện này mình chốt xong rồi cơ mà.
 Dialogue: 0,0:14:41.03,0:14:44.32,Default,Aoi,0,0,0,,Chị đã hứa không hỏi tới nữa rồi đấy.
 Dialogue: 0,0:14:45.70,0:14:48.99,Default,Akane,0,0,0,,Đừng có nuốt lời nhé.
 Dialogue: 0,0:14:52.25,0:14:54.33,Default,Aoi,0,0,0,,Thôi, em đi tập đàn đây.
-Dialogue: 0,0:16:00.06,0:16:01.65,Default,Shinno,0,0,0,,Ồn quá đi mất!
-Dialogue: 0,0:16:01.65,0:16:03.65,Default,Shinno,0,0,0,,Cái quái gì tự dưng ầm ĩ thế hả?!
-Dialogue: 0,0:16:03.65,0:16:06.53,Default,Shinno,0,0,0,,Mà nhịp điệu với tiết tấu\Nnghe chướng tai quá đi—
+Dialogue: 0,0:16:00.06,0:16:01.65,Default,Shinno,0,0,0,,Ồn quá!
+Dialogue: 0,0:16:01.65,0:16:03.65,Default,Shinno,0,0,0,,Tự dưng cái quái gì thế hả?!
+Dialogue: 0,0:16:03.65,0:16:06.53,Default,Shinno,0,0,0,,Nhịp với phách đánh nghe\Nkhó chịu quá đi—
 Dialogue: 0,0:16:12.45,0:16:13.58,Default,Aoi,0,0,0,,Ai đấy?
 Dialogue: 0,0:16:17.71,0:16:18.54,Default,Shinno,0,0,0,,Này.
 Dialogue: 0,0:16:19.12,0:16:22.09,Italics,Shinno,0,0,0,,Hai anh em mình đều là Sao Mắt Biếc nhé.
@@ -274,7 +274,7 @@ Dialogue: 0,0:16:51.82,0:16:54.91,Top,Aoi,0,0,0,,{\fade(0,1500)}Aka-nee!
 Dialogue: 0,0:16:53.70,0:16:54.91,Default,Shinno,0,0,0,,Đã bảo đứng—
 Dialogue: 0,0:16:59.16,0:17:00.54,Default,Shinno,0,0,0,,Cái quái gì thế này?
 Dialogue: 0,0:17:04.84,0:17:07.09,Default,Shinno,0,0,0,,Chuyện quái gì đây hả?!
-Dialogue: 0,0:17:07.09,0:17:10.09,Default,Shinno,0,0,0,,Này, thả tôi ra khỏi đây!
+Dialogue: 0,0:17:07.09,0:17:10.09,Default,Shinno,0,0,0,,Này, thả tao ra!
 Dialogue: 0,0:17:17.72,0:17:19.73,Default,Aoi,0,0,0,,A... Aka-nee!
 Dialogue: 0,0:17:19.73,0:17:20.10,Default,Akane,0,0,0,,Ủa?
 Dialogue: 0,0:17:20.10,0:17:21.73,Default,Akane,0,0,0,,Em tập xong sớm thế à?
@@ -283,14 +283,14 @@ Dialogue: 0,0:17:23.86,0:17:25.27,Default,Aoi,0,0,0,,Sh-Shinno đang—
 Dialogue: 0,0:17:28.03,0:17:29.32,Default,Akane,0,0,0,,Chị xin lỗi!
 Dialogue: 0,0:17:29.32,0:17:32.03,Default,Akane,0,0,0,,Mà Shinno làm sao cơ?
 Dialogue: 0,0:17:33.91,0:17:34.91,Default,Aoi,0,0,0,,À... ừm...
-Dialogue: 0,0:17:34.91,0:17:39.04,Default,Aoi,0,0,0,,Đúng rồi! Đang tập đàn\Nthì tự dưng em nhớ tới anh ấy thôi.
+Dialogue: 0,0:17:34.91,0:17:39.04,Default,Aoi,0,0,0,,Đúng rồi! Đang tập tự dưng\Nem nhớ tới anh ấy thôi.
 Dialogue: 0,0:17:39.04,0:17:41.50,Default,Aoi,0,0,0,,Kiểu không biết giờ anh ấy sống sao...
 Dialogue: 0,0:17:41.50,0:17:43.83,Default,Aoi,0,0,0,,Chỉ có vậy thôi ạ.
 Dialogue: 0,0:17:45.09,0:17:47.96,Default,Aoi,0,0,0,,Lâu lắm rồi chị chẳng liên lạc gì nữa.
 Dialogue: 0,0:17:48.42,0:17:52.01,Default,Aoi,0,0,0,,Còn sống hay đã chết chị cũng chẳng hay.
 Dialogue: 0,0:17:54.72,0:17:57.60,Italics,Aoi,0,0,0,,Ra vậy. Cũng có khả năng đó thật.
-Dialogue: 0,0:17:57.60,0:17:59.77,Italics,Aoi,0,0,0,,Mà khoan, ngoài khả năng đó ra còn gì nữa!
-Dialogue: 0,0:17:59.77,0:18:03.23,Italics,Aoi,0,0,0,,Nhìn kiểu gì cũng y hệt hồi xưa,\Nchẳng khác tẹo nào...
+Dialogue: 0,0:17:57.60,0:17:59.77,Italics,Aoi,0,0,0,,Mà còn khả năng nào khác nữa đâu!
+Dialogue: 0,0:17:59.77,0:18:03.23,Italics,Aoi,0,0,0,,Nhìn kiểu gì cũng y hệt hồi xưa mà...
 Dialogue: 0,0:18:03.60,0:18:04.90,Default,Akane,0,0,0,,Aoi?
 Dialogue: 0,0:18:05.44,0:18:07.73,Default,Masamichi,0,0,0,,Này này, cửa trước mở toang kìa.
 Dialogue: 0,0:18:08.11,0:18:09.94,Default,Masamichi,0,0,0,,Bất cẩn quá đấy.
@@ -304,23 +304,23 @@ Dialogue: 0,0:18:19.58,0:18:20.87,Default,Akane,0,0,0,,Biết rồi nhưng mà�
 Dialogue: 0,0:18:20.87,0:18:23.71,Default,Masamichi,0,0,0,,Ủa? Tớ chưa nói là hôm nay à?
 Dialogue: 0,0:18:23.71,0:18:24.67,Default,Akane,0,0,0,,Hôm nay cơ á?
 Dialogue: 0,0:18:24.67,0:18:26.92,Default,Masamichi,0,0,0,,Thôi kệ đi! Mau lên nào!
-Dialogue: 0,0:18:29.80,0:18:34.18,Default,Masamichi,0,0,0,,Thầy vừa bước ra là giăng bung lên ngay,\Nthật khí thế vào nhé!
-Dialogue: 0,0:18:34.18,0:18:38.06,Default,Tsugu,0,0,0,,Hóa ra tối qua bố thức khuya\Nlà để làm cái này à?
+Dialogue: 0,0:18:29.80,0:18:34.18,Default,Masamichi,0,0,0,,Thầy vừa ra là bung lên ngay,\Nthật khí thế vào!
+Dialogue: 0,0:18:34.18,0:18:38.06,Default,Tsugu,0,0,0,,Hóa ra đêm qua bố thức\Nlàm cái này à...
 Dialogue: 0,0:18:38.06,0:18:40.43,Default,Masamichi,0,0,0,,Này, đừng làm dây tương miso lên đấy!
 Dialogue: 0,0:18:40.43,0:18:41.93,Default,Aoi,0,0,0,,Giờ đâu phải lúc này chứ...
 Dialogue: 0,0:18:41.93,0:18:43.89,Default,Akane,0,0,0,,Nhưng sao hôm nay ông ấy lại đến?
 Dialogue: 0,0:18:43.89,0:18:45.65,Default,Akane,0,0,0,,Tuần sau mới tổ chức sự kiện cơ mà?
 Dialogue: 0,0:18:45.65,0:18:46.73,Default,Masamichi,0,0,0,,Chuyện là thế này...
-Dialogue: 0,0:18:46.73,0:18:50.11,Default,Masamichi,0,0,0,,Nitobe-sensei là bậc thầy về\Nnhạc địa phương, đúng không?
-Dialogue: 0,0:18:50.11,0:18:54.28,Default,Masamichi,0,0,0,,Ông ấy bảo không ăn đặc sản, không gần gũi\Nvới tình người nơi đây thì...
-Dialogue: 0,0:18:54.28,0:18:57.62,Default,Masamichi,0,0,0,,không hát nổi hồn cốt mảnh đất này,\Nđại loại thế.
+Dialogue: 0,0:18:46.73,0:18:50.11,Default,Masamichi,0,0,0,,Nitobe-sensei là bậc thầy\Nnhạc địa phương mà, đúng không?
+Dialogue: 0,0:18:50.11,0:18:54.28,Default,Masamichi,0,0,0,,Ông ấy bảo không ăn đặc sản,\Nkhông thấm tình người ở đây thì...
+Dialogue: 0,0:18:54.28,0:18:57.62,Default,Masamichi,0,0,0,,không hát nổi cái hồn nơi đây,\Nđại loại thế.
 Dialogue: 0,0:18:57.62,0:19:00.16,Default,Akane,0,0,0,,Và Tòa thị chính trả hết chi phí chứ gì?
-Dialogue: 0,0:19:00.58,0:19:04.46,Default,Tsugu,0,0,0,,Nói thẳng ra là bị người ta\Năn chực rồi còn gì nữa?
+Dialogue: 0,0:19:00.58,0:19:04.46,Default,Tsugu,0,0,0,,Thế là bị ăn chực rồi,\Nchắc chắn... luôn?
 Dialogue: 0,0:19:05.87,0:19:07.25,Default,Aoi,0,0,0,,Tsugu?
 Dialogue: 0,0:19:11.46,0:19:12.80,Top,Masamichi,0,0,0,,Cái gì thế—
-Dialogue: 0,0:19:17.14,0:19:20.31,Default,Nitobe,0,0,0,,Thưa quý vị, thật thất lễ\Nvì đã để mọi người chờ lâu.
+Dialogue: 0,0:19:17.14,0:19:20.31,Default,Nitobe,0,0,0,,Thưa quý vị, xin lỗi để mọi người chờ lâu!
 Dialogue: 0,0:19:20.31,0:19:23.06,Default,Nitobe,0,0,0,,Đấng nam nhi cô độc,\NDankichi Nitobe ta đây,
-Dialogue: 0,0:19:23.06,0:19:30.40,Default,Nitobe,0,0,0,,đã băng ngàn vượt núi từ phương xa,\Nmang món quà nụ cười đến dâng tặng chư vị!
+Dialogue: 0,0:19:23.06,0:19:30.40,Default,Nitobe,0,0,0,,đã vượt núi băng đồng từ phương xa,\Nmang món quà nụ cười tới tặng chư vị!
 Dialogue: 0,0:19:30.40,0:19:32.15,Default,Townsperson,0,0,0,,C-Cú lừa à?
 Dialogue: 0,0:19:32.15,0:19:33.49,Top,Townsperson,0,0,0,,Dan-chan kìa phải không?!
 Dialogue: 0,0:19:33.49,0:19:34.95,Top,Townsperson,0,0,0,,Ông ấy đến đây làm gì thế?
@@ -330,11 +330,11 @@ Dialogue: 0,0:19:53.26,0:19:54.67,Default,Akane,0,0,0,,Shinno?
 Dialogue: 0,0:19:54.67,0:19:57.43,Default,Masamichi,0,0,0,,Nào Tsugu! Giơ cao lên xem nào!
 Dialogue: 0,0:20:22.28,0:20:23.66,Default,Tsugu,0,0,0,,Này, Ao-chan!
 Dialogue: 0,0:20:24.12,0:20:25.12,Default,Tsugu,0,0,0,,Thật tình...
-Dialogue: 0,0:20:32.38,0:20:38.05,Default,Aoi,0,0,0,,Bố ơi, mẹ ơi, cả các cụ tổ tiên nữa,\Nxin hãy ban cho con sức mạnh!
+Dialogue: 0,0:20:32.38,0:20:38.05,Default,Aoi,0,0,0,,Bố mẹ ơi, cả các cụ tổ tiên nữa,\Nxin hãy cho con sức mạnh!
 Dialogue: 0,0:20:38.34,0:20:39.97,Default,Tsugu,0,0,0,,Thật tình...
 Dialogue: 0,0:20:41.05,0:20:44.43,Default,Tsugu,0,0,0,,Ao-chan, bác tài xế đưa hóa đơn này—
 Dialogue: 0,0:20:45.35,0:20:46.52,Default,Tsugu,0,0,0,,Này.
-Dialogue: 0,0:20:48.89,0:20:52.56,Default,Tsugu,0,0,0,,Người tên Shinno đó\Ncó thật sự ở trong này không đấy?
+Dialogue: 0,0:20:48.89,0:20:52.56,Default,Tsugu,0,0,0,,Cái người tên Shinno đó\Ncó thật ở đây không đấy?
 Dialogue: 0,0:20:52.56,0:20:53.44,Default,Aoi,0,0,0,,Ừ.
 Dialogue: 0,0:20:53.44,0:21:00.74,Default,Aoi,0,0,0,,Chị cứ tưởng là ma, nhưng nếu người ở ga\Nlà Shinno thật, thì người ở đây là ai?
 Dialogue: 0,0:21:00.74,0:21:02.45,Default,Aoi,0,0,0,,Người giống người à?
@@ -350,46 +350,46 @@ Dialogue: 0,0:21:28.43,0:21:29.31,Default,Shinno,0,0,0,,Ối chà.
 Dialogue: 0,0:21:30.27,0:21:33.27,Default,Shinno,0,0,0,,Hả? Thằng nhóc nào đây?\NTrông giống hệt Michinko.
 Dialogue: 0,0:21:36.44,0:21:38.11,Default,Aoi,0,0,0,,Cậu là cái thứ gì thế hả?
 Dialogue: 0,0:21:38.11,0:21:39.90,Default,Aoi,0,0,0,,Đã bảo tao là Shinno rồi mà!
-Dialogue: 0,0:21:39.90,0:21:41.74,Default,Aoi,0,0,0,,Còn mày rốt cuộc là ai?
+Dialogue: 0,0:21:39.90,0:21:41.74,Default,Aoi,0,0,0,,Còn mày là ai?
 Dialogue: 0,0:21:41.74,0:21:44.28,Default,Tsugu,0,0,0,,Ao-chan, cứ chạy trước đi đã.
 Dialogue: 0,0:21:44.28,0:21:44.91,Default,Tsugu,0,0,0,,Ao-chan á?
 Dialogue: 0,0:21:47.62,0:21:49.75,Default,Tsugu,0,0,0,,Aoi Aioi.
 Dialogue: 0,0:21:49.75,0:21:52.29,Default,Tsugu,0,0,0,,Sao Mắt Biếc số hai.
 Dialogue: 0,0:21:59.80,0:22:00.67,Default,Shinno,0,0,0,,Hôm đó,
 Dialogue: 0,0:22:00.67,0:22:03.59,Default,Shinno,0,0,0,,lúc Akane bảo không lên Tokyo cùng anh.
-Dialogue: 0,0:22:06.85,0:22:09.43,Default,Shinno,0,0,0,,Anh chẳng còn mặt mũi nào về nhà.
+Dialogue: 0,0:22:06.85,0:22:09.43,Default,Shinno,0,0,0,,Anh chẳng muốn về nhà chút nào...
 Dialogue: 0,0:22:12.35,0:22:15.36,Default,Shinno,0,0,0,,Thế là ngồi lại đây, nghĩ đủ thứ chuyện.
 Dialogue: 0,0:22:15.36,0:22:18.32,Default,Shinno,0,0,0,,Rồi đến lúc nhận ra...
 Dialogue: 0,0:22:19.19,0:22:20.90,Default,Shinno,0,0,0,,thì trời đã sáng mất rồi?
 Dialogue: 0,0:22:21.24,0:22:22.49,Default,Tsugu,0,0,0,,Sao kể mà như hỏi thế?
 Dialogue: 0,0:22:22.49,0:22:24.66,Default,Shinno,0,0,0,,Anh cũng đâu có hiểu nổi.
-Dialogue: 0,0:22:25.37,0:22:30.54,Default,Shinno,0,0,0,,Chỉ thấy người uể oải nên nằm thừ ở kia,\Nrồi bị tiếng ồn chói tai dựng đầu dậy...
+Dialogue: 0,0:22:25.37,0:22:30.54,Default,Shinno,0,0,0,,Thấy oải quá nên ngồi thừ ở kia,\Nrồi bị tiếng ồn kinh khủng đánh thức...
 Dialogue: 0,0:22:30.54,0:22:32.08,Default,Aoi,0,0,0,,Tiếng ồn á?
-Dialogue: 0,0:22:33.71,0:22:35.96,Default,Shinno,0,0,0,,Thật sự cứ như vừa mới chợp mắt vậy.
+Dialogue: 0,0:22:33.71,0:22:35.96,Default,Shinno,0,0,0,,Thật, cảm giác cứ như vừa tỉnh lại vậy.
 Dialogue: 0,0:22:35.96,0:22:39.13,Default,Shinno,0,0,0,,Tự dưng bảo đã mười ba năm trôi qua rồi,
-Dialogue: 0,0:22:39.13,0:22:41.38,Default,Shinno,0,0,0,,anh nghe cứ thấy ảo kiểu gì ấy.
+Dialogue: 0,0:22:39.13,0:22:41.38,Default,Shinno,0,0,0,,anh nghe chẳng thấy thật chút nào.
 Dialogue: 0,0:22:41.38,0:22:44.05,Default,Tsugu,0,0,0,,Ra vậy. Anh giống Urashima Taro nhỉ.
 Dialogue: 0,0:22:44.05,0:22:46.05,Default,Aoi,0,0,0,,Làm gì có chuyện—
 Dialogue: 0,0:22:46.05,0:22:47.39,Default,Shinno,0,0,0,,Mà thôi kệ đi,
-Dialogue: 0,0:22:47.39,0:22:50.81,Default,Shinno,0,0,0,,thời gian đã trôi qua rồi\Nthì cũng đành chịu chứ sao.
+Dialogue: 0,0:22:47.39,0:22:50.81,Default,Shinno,0,0,0,,chuyện đã qua rồi thì đành chịu thôi.
 Dialogue: 0,0:22:50.81,0:22:52.89,Default,Tsugu,0,0,0,,Anh chấp nhận chuyện này nhanh ghê.
 Dialogue: 0,0:22:52.89,0:22:57.15,Default,Shinno,0,0,0,,Đâu có, nhờ nhóc đấy nên anh mới tin.
 Dialogue: 0,0:22:57.86,0:23:00.40,Default,Shinno,0,0,0,,Nhìn kiểu gì cũng là\Nbản thu nhỏ của Michinko.
 Dialogue: 0,0:23:00.40,0:23:01.74,Default,Aoi,0,0,0,,Vô tư quá thể.
-Dialogue: 0,0:23:01.74,0:23:06.03,Default,Tsugu,0,0,0,,Ít nhất thì không phải ma rồi.\NAnh ấy có thân xác đàng hoàng mà.
+Dialogue: 0,0:23:01.74,0:23:06.03,Default,Tsugu,0,0,0,,Ít nhất không phải ma rồi.\NAnh ấy có thân xác thật mà.
 Dialogue: 0,0:23:06.03,0:23:09.33,Default,Aoi,0,0,0,,À... ra vậy. Thế thì...
 Dialogue: 0,0:23:11.37,0:23:12.87,Default,Tsugu,0,0,0,,Hay là hồn sống nhỉ?
 Dialogue: 0,0:23:12.87,0:23:14.25,Default,Shinno & Aoi,0,0,0,,Hồn sống á?
 Dialogue: 0,0:23:14.25,0:23:16.04,Default,Tsugu,0,0,0,,Người ta hay nói thế mà, nhớ không?
 Dialogue: 0,0:23:16.04,0:23:18.50,Default,Tsugu,0,0,0,,Khi có tình cảm quá mạnh với ai đó,
-Dialogue: 0,0:23:18.50,0:23:21.92,Default,Tsugu,0,0,0,,hồn họ sẽ tự tách ra khỏi xác\Nmà chẳng hay biết gì.
-Dialogue: 0,0:23:21.92,0:23:26.22,Default,Aoi,0,0,0,,Chị biết rồi! Xong linh hồn đó\Nsẽ nguyền rủa người kia đến chết chứ gì!
+Dialogue: 0,0:23:18.50,0:23:21.92,Default,Tsugu,0,0,0,,hồn họ sẽ vô thức tách khỏi xác đấy.
+Dialogue: 0,0:23:21.92,0:23:26.22,Default,Aoi,0,0,0,,Biết rồi! Xong hồn đó ám người kia\Nđến chết luôn chứ gì!
 Dialogue: 0,0:23:26.22,0:23:29.72,Default,Aoi,0,0,0,,Shinno, chắc tại Aka-nee từ chối cậu,
 Dialogue: 0,0:23:29.72,0:23:32.89,Default,Aoi,0,0,0,,nên cậu mới sinh ra vì còn vương vấn đó.
-Dialogue: 0,0:23:32.89,0:23:35.06,Default,Shinno,0,0,0,,Nói nhăng nói cuội gì thế hả?
-Dialogue: 0,0:23:35.06,0:23:39.86,Default,Shinno,0,0,0,,Vương vấn gì chứ,\Nanh đã bỏ cuộc bao giờ đâu!
-Dialogue: 0,0:23:40.61,0:23:42.94,Default,Shinno,0,0,0,,Suy nghĩ kỹ rồi, anh quyết định cả rồi.
-Dialogue: 0,0:23:42.94,0:23:46.28,Default,Shinno,0,0,0,,Trước mắt cứ lên Tokyo,\Nthành nhạc sĩ nổi tiếng đã!
+Dialogue: 0,0:23:32.89,0:23:35.06,Default,Shinno,0,0,0,,Nói cái gì thế hả?
+Dialogue: 0,0:23:35.06,0:23:39.86,Default,Shinno,0,0,0,,Vương vấn gì, anh có bỏ cuộc đâu!
+Dialogue: 0,0:23:40.61,0:23:42.94,Default,Shinno,0,0,0,,Nghĩ đủ kiểu rồi, anh quyết rồi.
+Dialogue: 0,0:23:42.94,0:23:46.28,Default,Shinno,0,0,0,,Cứ lên Tokyo, thành nhạc sĩ\Nnổi tiếng đã!
 Dialogue: 0,0:23:46.28,0:23:49.78,Default,Shinno,0,0,0,,Rồi sẽ quay về đón Akane thật hoành tráng!
 Dialogue: 0,0:23:49.78,0:23:51.08,Default,Aoi,0,0,0,,Lạc quan tào lao quá đấy.
 Dialogue: 0,0:23:51.08,0:23:55.00,Default,Aoi,0,0,0,,Vậy mà sao lại ra nông nỗi này chứ?!
@@ -400,29 +400,29 @@ Dialogue: 0,0:23:59.25,0:24:00.29,Default,Shinno,0,0,0,,Thế... ba mươi...
 Dialogue: 0,0:24:00.29,0:24:02.50,Default,Shinno,0,0,0,,Này, Akane vẫn chưa lấy chồng đúng không?
 Dialogue: 0,0:24:02.50,0:24:03.05,Default,Aoi,0,0,0,,Chưa.
 Dialogue: 0,0:24:03.05,0:24:03.80,Default,Shinno,0,0,0,,Quá đã!
-Dialogue: 0,0:24:03.80,0:24:06.51,Default,Shinno,0,0,0,,À khoan, chắc không nên\Nmừng chuyện này đâu nhỉ.
+Dialogue: 0,0:24:03.80,0:24:06.51,Default,Shinno,0,0,0,,Khoan, chắc không nên mừng vụ này nhỉ.
 Dialogue: 0,0:24:06.51,0:24:08.89,Default,Shinno,0,0,0,,Phải sớm rước cô ấy về mới—
 Dialogue: 0,0:24:08.89,0:24:10.76,Default,Aoi,0,0,0,,Cậu muốn gặp chị ấy không?
-Dialogue: 0,0:24:10.76,0:24:13.72,Default,Shinno,0,0,0,,Đồ ngốc! Làm sao mà gặp ngay lúc này được!
+Dialogue: 0,0:24:10.76,0:24:13.72,Default,Shinno,0,0,0,,Ngốc à! Giờ sao mà gặp được!
 Dialogue: 0,0:24:11.64,0:24:12.56,Alternative,Aoi,0,0,0,,Đồ ngốc á?
 Dialogue: 0,0:24:12.56,0:24:13.72,Alternative,Aoi,0,0,0,,Cái đồ đáng ghét.
-Dialogue: 0,0:24:13.72,0:24:16.06,Default,Shinno,0,0,0,,Nãy giờ chẳng nghe anh nói gì à?
+Dialogue: 0,0:24:13.72,0:24:16.06,Default,Shinno,0,0,0,,Không nghe anh nói gì à?
 Dialogue: 0,0:24:16.06,0:24:17.98,Default,Shinno,0,0,0,,Phải thành nhạc sĩ nổi tiếng đã—
-Dialogue: 0,0:24:17.98,0:24:22.36,Default,Tsugu,0,0,0,,Nổi tiếng hay không thì em chịu,\Nnhưng anh ấy thành nhạc sĩ thật rồi mà?
+Dialogue: 0,0:24:17.98,0:24:22.36,Default,Tsugu,0,0,0,,Nổi tiếng hay không thì em chịu,\Nnhưng anh ấy thành nhạc sĩ rồi mà?
 Dialogue: 0,0:24:22.36,0:24:23.98,Default,Aoi,0,0,0,,À, nghĩ lại thì...
-Dialogue: 0,0:24:23.98,0:24:28.32,Default,Aoi,0,0,0,,cậu ở tuổi ba mươi mốt\Ncũng coi như thành nhạc sĩ rồi đấy.
+Dialogue: 0,0:24:23.98,0:24:28.32,Default,Aoi,0,0,0,,cậu năm 31 tuổi cũng coi như\Nthành nhạc sĩ rồi đấy.
 Dialogue: 0,0:24:31.24,0:24:32.91,Default,Shinno,0,0,0,,Đỉnh thật đấy!
 Dialogue: 0,0:24:33.74,0:24:36.12,Default,Shinno,0,0,0,,Anh đi chút rồi về ngay!
 Dialogue: 0,0:24:36.12,0:24:36.79,Default,Aoi,0,0,0,,Khoan—
 Dialogue: 0,0:24:36.79,0:24:37.46,Default,Shinno,0,0,0,,Gặp sau nhé!
 Dialogue: 0,0:24:45.67,0:24:48.59,Default,Nitobe,0,0,0,,Chà, đúng là duyên số cả đấy nhỉ.
 Dialogue: 0,0:24:48.59,0:24:49.76,Default,Masamichi,0,0,0,,Em cũng bất ngờ lắm.
-Dialogue: 0,0:24:50.18,0:24:57.43,Default,Masamichi,0,0,0,,Nghĩ muốn viết nhạc về quê hương thì không\Nai hơn Nitobe-sensei, nên em tìm tư liệu...
+Dialogue: 0,0:24:50.18,0:24:57.43,Default,Masamichi,0,0,0,,Muốn viết nhạc địa phương thì chỉ nhờ\NNitobe-sensei thôi, nên em tìm tư liệu...
 Dialogue: 0,0:24:57.43,0:25:00.44,Default,Masamichi,0,0,0,,Ai ngờ lại thấy thằng bạn cũ\Nđánh đàn trong ban nhạc thầy!
 Dialogue: 0,0:25:00.44,0:25:01.40,Default,Masamichi,0,0,0,,Nhỉ, Shinno?
 Dialogue: 0,0:25:01.40,0:25:02.77,Default,Shinnosuke,0,0,0,,Đau đấy.
 Dialogue: 0,0:25:02.77,0:25:05.98,Default,Nitobe,0,0,0,,Với Shinnosuke-kun, đây đúng là\Nchuyến vinh quy bái tổ rồi.
-Dialogue: 0,0:25:06.74,0:25:09.78,Default,Nitobe,0,0,0,,Ta phải dành cho cậu ấy\Nmột đoạn guitar solo thật tỏa sáng.
+Dialogue: 0,0:25:06.74,0:25:09.78,Default,Nitobe,0,0,0,,Ta phải dành cho cậu ấy\Nmột màn guitar solo cho hoành tráng.
 Dialogue: 0,0:25:09.78,0:25:13.41,Default,Band Member,0,0,0,,Đã thế, cho em làm một đoạn solo với!
 Dialogue: 0,0:25:13.41,0:25:14.74,Top,Band Member,0,0,0,,Mấy ông ơi, còn sống kìa!
 Dialogue: 0,0:25:13.41,0:25:16.62,Default,Band Member,0,0,0,,Kèn sax của cậu thiếu độ luyến láy lắm.
@@ -438,26 +438,26 @@ Dialogue: 0,0:25:34.80,0:25:37.02,Default,Band Member,0,0,0,,Chà, tự dưng r�
 Dialogue: 0,0:25:37.02,0:25:38.27,Default,Band Member,0,0,0,,Cho loại đắt tiền hơn đi!
 Dialogue: 0,0:25:38.27,0:25:39.68,Default,Band Member,0,0,0,,Thêm đĩa thịt nữa nhé!
 Dialogue: 0,0:25:42.31,0:25:43.94,Default,Aoi,0,0,0,,Không ra ngoài được à?
-Dialogue: 0,0:25:43.94,0:25:46.19,Default,Aoi,0,0,0,,Hồn sống gì chứ? Giống ma bám chỗ hơn.
+Dialogue: 0,0:25:43.94,0:25:46.19,Default,Aoi,0,0,0,,Hồn sống gì, giống ma ám chỗ hơn.
 Dialogue: 0,0:25:46.19,0:25:49.15,Default,Aoi,0,0,0,,Biết thế rồi mà vẫn lao đầu ra.
 Dialogue: 0,0:25:50.99,0:25:54.12,Default,Shinno,0,0,0,,Hóa ra ước mơ của anh thành thật rồi nhỉ.
 Dialogue: 0,0:25:55.66,0:25:57.83,Default,Shinno,0,0,0,,Hồi đó anh cứ nghĩ mãi.
-Dialogue: 0,0:25:57.83,0:26:05.75,Default,Shinno,0,0,0,,Mau tốt nghiệp, lên Tokyo, đến tương lai.\NRồi quay về đón Akane càng sớm càng tốt.
+Dialogue: 0,0:25:57.83,0:26:05.75,Default,Shinno,0,0,0,,Mau tốt nghiệp, lên Tokyo, tới tương lai\Nrồi về đón Akane thật sớm.
 Dialogue: 0,0:26:07.09,0:26:10.80,Default,Shinno,0,0,0,,Anh chỉ mong ngày ấy mau mau đến.
-Dialogue: 0,0:26:10.80,0:26:15.97,Default,Shinno,0,0,0,,Nên dù anh có là hồn sống thật,\Nchắc chắn không phải vì oán hận gì đâu.
-Dialogue: 0,0:26:18.18,0:26:22.56,Default,Shinno,0,0,0,,Nói chung anh chẳng hiểu lắm,\Nnhưng có một chuyện anh biết chắc.
-Dialogue: 0,0:26:22.56,0:26:27.23,Default,Shinno,0,0,0,,Nếu anh của tương lai đến với Akane,\Nmọi chuyện sẽ êm đẹp cả thôi, đúng không?
-Dialogue: 0,0:26:27.69,0:26:32.49,Default,Shinno,0,0,0,,Rồi cái hồn sống này sẽ bay vèo một phát,\Nvề lại cơ thể bản chính ngay.
+Dialogue: 0,0:26:10.80,0:26:15.97,Default,Shinno,0,0,0,,Nên dù anh có là hồn sống thật,\Nchắc chắn không phải do oán hận đâu.
+Dialogue: 0,0:26:18.18,0:26:22.56,Default,Shinno,0,0,0,,Nói chung anh chẳng hiểu mấy,\Nnhưng có một chuyện anh biết chắc.
+Dialogue: 0,0:26:22.56,0:26:27.23,Default,Shinno,0,0,0,,Anh ở tương lai với Akane thành đôi\Nlà êm đẹp cả thôi, đúng không?
+Dialogue: 0,0:26:27.69,0:26:32.49,Default,Shinno,0,0,0,,Rồi hồn sống này sẽ bay vèo phát,\Nvề lại bản chính ngay.
 Dialogue: 0,0:26:33.91,0:26:36.16,Default,Shinno,0,0,0,,Trăm sự nhờ em đấy, Sao Mắt Biếc.
 Dialogue: 0,0:26:40.41,0:26:42.79,Default,Tsugu,0,0,0,,Hồi xưa anh ấy cũng thế này à?
 Dialogue: 0,0:26:44.37,0:26:45.75,Default,Aoi,0,0,0,,Chắc vậy.
-Dialogue: 0,0:26:45.75,0:26:48.71,Default,Aoi,0,0,0,,Nhưng hồi đó nhìn có vẻ chín chắn hơn chút.
+Dialogue: 0,0:26:45.75,0:26:48.71,Default,Aoi,0,0,0,,Hồi đó nhìn có vẻ người lớn hơn chút...
 Dialogue: 0,0:26:48.71,0:26:50.30,Default,Tsugu,0,0,0,,Giờ chị tính sao?
-Dialogue: 0,0:26:50.76,0:26:55.55,Default,Tsugu,0,0,0,,Chị định làm theo lời Shinno-san,\Ngiúp hai người họ quay lại với nhau à?
-Dialogue: 0,0:26:55.55,0:26:57.60,Default,Aoi,0,0,0,,Biết đâu lại chẳng phải ý tồi.
+Dialogue: 0,0:26:50.76,0:26:55.55,Default,Tsugu,0,0,0,,Chị định nghe theo Shinno-san,\Ngiúp hai người họ quay lại à?
+Dialogue: 0,0:26:55.55,0:26:57.60,Default,Aoi,0,0,0,,Có khi cũng được đấy.
 Dialogue: 0,0:26:57.60,0:26:58.76,Default,Tsugu,0,0,0,,Thật á?
-Dialogue: 0,0:26:58.76,0:27:01.43,Default,Aoi,0,0,0,,Ít ra vẫn hơn là để Aka-nee...
-Dialogue: 0,0:27:03.81,0:27:07.77,Default,Aoi,0,0,0,,cứ phải kẹt lại nơi này vì chị mãi.
+Dialogue: 0,0:26:58.76,0:27:01.43,Default,Aoi,0,0,0,,Còn hơn là để Aka-nee...
+Dialogue: 0,0:27:03.81,0:27:07.77,Default,Aoi,0,0,0,,mãi bị trói chân ở đây vì chị...
 Dialogue: 0,0:27:08.77,0:27:11.28,Default,Nitobe,0,0,0,,Nào, đi tăng hai thôi! Tăng hai nào!
 Dialogue: 0,0:27:11.57,0:27:13.57,Default,Nitobe,0,0,0,,V-Vâng, đợi em chút ạ.
 Dialogue: 0,0:27:13.57,0:27:16.78,Top,Band Member,0,0,0,,Này Shinnosuke, muốn ói\Nthì vào nhà vệ sinh nhé.
@@ -466,7 +466,7 @@ Dialogue: 0,0:27:18.45,0:27:20.24,Top,Band Member,0,0,0,,Tìm quán nào có cá
 Dialogue: 0,0:27:19.16,0:27:20.74,Default,Band Member,0,0,0,,Thôi, gã này hết thuốc rồi.
 Dialogue: 0,0:27:21.74,0:27:23.41,Default,Akane,0,0,0,,Đành chịu vậy.
 Dialogue: 0,0:27:23.41,0:27:26.62,Default,Akane,0,0,0,,Tôi không uống rượu,\Nđể tôi lái xe đưa cậu ấy về.
-Dialogue: 0,0:27:26.62,0:27:31.92,Default,Nitobe,0,0,0,,Masamichi-san này, tăng sau kiếm quán có\Ncác cô, chỗ có mỹ nhân bản địa ấy nhé.
+Dialogue: 0,0:27:26.62,0:27:31.92,Default,Nitobe,0,0,0,,Masamichi-san này, tăng sau kiếm quán có\Nmấy em nhé, chỗ có mỹ nhân địa phương ấy.
 Dialogue: 0,0:27:32.30,0:27:34.05,Default,Masamichi,0,0,0,,À, dạ vâng ạ!
 Dialogue: 0,0:27:49.98,0:27:51.52,Default,Shinnosuke,0,0,0,,Gandhara à?
 Dialogue: 0,0:27:53.99,0:27:54.78,Default,Akane,0,0,0,,Tỉnh rồi à?
@@ -485,28 +485,28 @@ Dialogue: 0,0:28:37.49,0:28:38.61,Default,Akane,0,0,0,,Đừng nói nhảm nữa
 Dialogue: 0,0:28:40.32,0:28:41.16,Default,Shinnosuke,0,0,0,,Nào.
 Dialogue: 0,0:28:46.70,0:28:48.08,Default,Shinnosuke,0,0,0,,Cái gì thế?
 Dialogue: 0,0:28:48.50,0:28:51.04,Default,Shinnosuke,0,0,0,,Tuổi này rồi mà còn làm cao nữa à?
-Dialogue: 0,0:28:51.04,0:28:52.50,Default,Akane,0,0,0,,Cậu nói thật lòng đấy à?
+Dialogue: 0,0:28:51.04,0:28:52.50,Default,Akane,0,0,0,,Cậu nói thật đấy à?
 Dialogue: 0,0:28:53.42,0:28:53.96,Default,Shinnosuke,0,0,0,,Sao nào?
 Dialogue: 0,0:28:53.96,0:28:55.84,Default,Shinnosuke,0,0,0,,Có mất mát gì đâu mà sợ.
-Dialogue: 0,0:28:56.38,0:28:59.93,Default,Shinnosuke,0,0,0,,Mười ba năm mới gặp lại nhau,\Nmà cậu nói được câu đó sao?
+Dialogue: 0,0:28:56.38,0:28:59.93,Default,Shinnosuke,0,0,0,,13 năm mới gặp lại,\Ncậu nói được câu đó à?
 Dialogue: 0,0:29:01.89,0:29:03.55,Default,Shinnosuke,0,0,0,,Đừng làm tớ thất vọng nữa.
-Dialogue: 0,0:29:09.39,0:29:13.19,Default,Shinnosuke,0,0,0,,Chính tôi cũng có muốn quay về đây đâu.
-Dialogue: 0,0:29:14.23,0:29:17.53,Default,Shinnosuke,0,0,0,,Với bộ dạng thế này... tôi đâu muốn về.
+Dialogue: 0,0:29:09.39,0:29:13.19,Default,Shinnosuke,0,0,0,,Tôi cũng có muốn về đây đâu.
+Dialogue: 0,0:29:14.23,0:29:17.53,Default,Shinnosuke,0,0,0,,Bộ dạng thế này... tôi đâu muốn về.
 Dialogue: 0,0:29:19.78,0:29:20.99,Default,Akane,0,0,0,,Chị về rồi đây!
 Dialogue: 0,0:29:21.41,0:29:22.82,Default,Akane,0,0,0,,Aoi?
 Dialogue: 0,0:29:22.82,0:29:24.12,Default,Akane,0,0,0,,Chị về rồi à.
 Dialogue: 0,0:29:24.12,0:29:25.16,Default,Akane,0,0,0,,Hôm nay về sớm thế.
-Dialogue: 0,0:29:26.62,0:29:29.79,Default,Akane,0,0,0,,Chị chịu không nổi\Nmấy vụ tiếp khách tới khuya.
+Dialogue: 0,0:29:26.62,0:29:29.79,Default,Akane,0,0,0,,Chị chịu không theo nổi\Nmấy vụ tiếp khách tới cuối đâu.
 Dialogue: 0,0:29:29.79,0:29:33.63,Default,Akane,0,0,0,,Hôm nay chị khỏi tắm, đi ngủ luôn đây.
 Dialogue: 0,0:29:35.46,0:29:37.88,Default,Akane,0,0,0,,Này, tối nay ngủ chung với chị không?
 Dialogue: 0,0:29:37.88,0:29:38.67,Default,Aoi,0,0,0,,Hả?
 Dialogue: 0,0:29:38.67,0:29:41.80,Default,Akane,0,0,0,,Có sao đâu!\NLâu rồi chị em mình chưa ngủ chung.
 Dialogue: 0,0:29:47.97,0:29:48.77,Default,Aoi,0,0,0,,Chị này.
 Dialogue: 0,0:29:48.77,0:29:49.81,Default,Akane,0,0,0,,Ừ?
-Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Chị kể cho em nghe\Nvề Shinnosuke Kanamuro đi.
+Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Kể em nghe về\NShinnosuke Kanamuro đi.
 Dialogue: 0,0:29:53.48,0:29:54.98,Default,Akane,0,0,0,,Chỉ là một gã nát rượu thôi.
 Dialogue: 0,0:29:54.98,0:29:58.11,Default,Aoi,0,0,0,,Không phải bây giờ, hồi xưa cơ.
-Dialogue: 0,0:29:58.11,0:30:01.49,Default,Akane,0,0,0,,Lâu quá rồi nên chị quên sạch rồi.
+Dialogue: 0,0:29:58.11,0:30:01.49,Default,Akane,0,0,0,,Lâu quá rồi, chị quên sạch rồi.
 Dialogue: 0,0:30:01.49,0:30:03.87,Default,Aoi,0,0,0,,Trí nhớ của Aka-nee kém lắm mà.
 Dialogue: 0,0:30:06.58,0:30:10.29,Default,Aoi,0,0,0,,Nhưng suốt từng ấy năm,\NAka-nee có quen bạn trai nào đâu.
 Dialogue: 0,0:30:11.29,0:30:14.21,Default,Akane,0,0,0,,Cũng có vài lần chứ bộ.
@@ -521,14 +521,14 @@ Dialogue: 0,0:30:48.62,0:30:50.79,Default,Aoi,0,0,0,,Lát ghé cửa hàng tiệ
 Dialogue: 0,0:30:50.79,0:30:52.08,Default,Shinno,0,0,0,,Thế à?
 Dialogue: 0,0:30:52.08,0:30:53.16,Default,Shinno,0,0,0,,Vậy anh ăn nhé.
 Dialogue: 0,0:30:57.13,0:31:00.38,Default,Aoi,0,0,0,,Hóa ra cậu cũng biết đói à?
-Dialogue: 0,0:31:00.38,0:31:03.76,Default,Shinno,0,0,0,,Cũng chẳng hẳn là đói,\Nnhưng ăn được thì cứ ăn.
-Dialogue: 0,0:31:03.76,0:31:06.68,Default,Shinno,0,0,0,,Ở đây chán ngắt, giết thời gian mệt nhất.
+Dialogue: 0,0:31:00.38,0:31:03.76,Default,Shinno,0,0,0,,Cũng chẳng hẳn là đói,\Nnhưng tiện thì ăn thôi.
+Dialogue: 0,0:31:03.76,0:31:06.68,Default,Shinno,0,0,0,,Chủ yếu là rảnh quá, chán chết đi được.
 Dialogue: 0,0:31:06.68,0:31:09.39,Default,Aoi,0,0,0,,Rảnh thì có cây guitar kia kìa.
 Dialogue: 0,0:31:09.93,0:31:11.06,Default,Shinno,0,0,0,,Dây gỉ hết rồi.
 Dialogue: 0,0:31:11.31,0:31:13.35,Default,Aoi,0,0,0,,Để tôi mua dây mới cho? Dây niken—
 Dialogue: 0,0:31:13.35,0:31:14.89,Default,Shinno,0,0,0,,À, thôi.
 Dialogue: 0,0:31:18.11,0:31:19.36,Default,Shinno,0,0,0,,Thôi khỏi đi.
-Dialogue: 0,0:31:19.36,0:31:21.53,Default,Shinno,0,0,0,,Đổi lại mua hộ anh\Ncuốn Jump được không?
+Dialogue: 0,0:31:19.36,0:31:21.53,Default,Shinno,0,0,0,,À, mua hộ anh cuốn Jump\Nđược không?
 Dialogue: 0,0:31:21.53,0:31:24.49,Default,Shinno,0,0,0,,Không đọc KochiKame\Ncứ thấy thiếu thiếu sao ấy.
 Dialogue: 0,0:31:24.49,0:31:26.41,Default,Aoi,0,0,0,,Bộ đó hết rồi.
 Dialogue: 0,0:31:26.41,0:31:27.16,Default,Shinno,0,0,0,,Hả?!
@@ -537,21 +537,21 @@ Dialogue: 0,0:31:28.78,0:31:31.37,Default,Shinno,0,0,0,,Ryo-san mà đi rồi\Nt
 Dialogue: 0,0:31:31.37,0:31:33.04,Default,Aoi,0,0,0,,Ai mà biết được.
 Dialogue: 0,0:31:33.04,0:31:34.16,Default,Shinno,0,0,0,,Thật luôn hả?
 Dialogue: 0,0:31:34.16,0:31:38.25,Top,Shinno,0,0,0,,Ryo-san cưới ai thế?\NÀ thôi, đừng nói mất hay—
-Dialogue: 0,0:31:36.62,0:31:40.34,Italics,Aoi,0,0,0,,Đúng là chẳng biết lo nghĩ gì cả.
+Dialogue: 0,0:31:36.62,0:31:40.34,Italics,Aoi,0,0,0,,Đúng là vô tư hết chỗ nói.
 Dialogue: 0,0:31:46.88,0:31:49.35,Italics,Aoi,0,0,0,,Ủa? Không phải Tsugu, mà là Michinko à?
 Dialogue: 0,0:31:49.68,0:31:52.06,Italics,Aoi,0,0,0,,Hồi xưa trông thế này sao?
 Dialogue: 0,0:31:52.06,0:31:54.31,Italics,Aoi,0,0,0,,Thảo nào Shinno gọi Tsugu\Nlà bản thu nhỏ.
 Dialogue: 0,0:31:56.89,0:31:58.60,Italics,Aoi,0,0,0,,Aka-nee.
 Dialogue: 0,0:31:59.90,0:32:03.44,Italics,Aoi,0,0,0,,Hóa ra hai người học cùng lớp.
 Dialogue: 0,0:32:10.03,0:32:10.91,Italics,Aoi,0,0,0,,Ôi trời.
-Dialogue: 1,0:32:11.37,0:32:13.37,Italics,Aoi,0,0,0,,Viết cứ như học sinh tiểu học ấy.
+Dialogue: 1,0:32:11.37,0:32:13.37,Italics,Aoi,0,0,0,,Như học sinh tiểu học ấy.
 Dialogue: 0,0:32:13.70,0:32:15.50,Italics,Aoi,0,0,0,,Còn Aka-nee...
-Dialogue: 0,0:32:17.58,0:32:20.46,Italics,Aoi,0,0,0,,lại viết câu y hệt điều mình vẫn nghĩ.
+Dialogue: 0,0:32:17.58,0:32:20.46,Italics,Aoi,0,0,0,,lại viết y hệt điều mình nghĩ.
 Dialogue: 0,0:32:28.55,0:32:33.81,Italics,Aoi,0,0,0,,"Nhưng vẫn biết màu xanh của bầu trời" ư...
 Dialogue: 0,0:32:34.39,0:32:36.10,Default,Male Student,0,0,0,,Aioi!
-Dialogue: 0,0:32:36.10,0:32:39.73,Default,Male Student,0,0,0,,Này, cậu suy nghĩ lại đi có được không?
+Dialogue: 0,0:32:36.10,0:32:39.73,Default,Male Student,0,0,0,,Này, cậu nghĩ lại đi được không?
 Dialogue: 0,0:32:39.73,0:32:40.77,Default,Male Student,0,0,0,,Vào ban nhạc bọn tớ—
-Dialogue: 0,0:32:40.77,0:32:44.69,Default,Aoi,0,0,0,,Chơi chung với mấy đứa đánh kém hơn mình\Nchỉ tổ phí thời gian.
+Dialogue: 0,0:32:40.77,0:32:44.69,Default,Aoi,0,0,0,,Lập nhóm với mấy đứa kém hơn mình\Nchỉ phí thời gian.
 Dialogue: 0,0:32:44.69,0:32:46.61,Default,Male Student,0,0,0,,Nói gì cơ, con xấu xí kia?!
 Dialogue: 0,0:32:46.61,0:32:49.28,Default,Male Student,0,0,0,,Con nhỏ này đúng là ác mồm ác miệng.
 Dialogue: 0,0:32:49.28,0:32:51.32,Default,Chika,0,0,0,,Phí của quá đi mất.
@@ -559,38 +559,38 @@ Dialogue: 0,0:32:51.91,0:32:56.29,Default,Chika,0,0,0,,Làm bóng hồng duy nh�
 Dialogue: 0,0:32:56.91,0:33:00.25,Default,Chika,0,0,0,,À mà thôi, cậu chảnh thế\Nchắc cũng có lý do rồi nhỉ?
 Dialogue: 0,0:33:00.25,0:33:05.25,Default,Chika,0,0,0,,Cậu đòi lên Tokyo là vì trên đó\Ncó anh nào lớn tuổi hơn chứ gì?
 Dialogue: 0,0:33:05.25,0:33:06.34,Default,Aoi,0,0,0,,Gì vậy trời...
-Dialogue: 0,0:33:06.76,0:33:11.30,Default,Chika,0,0,0,,Đồn ầm cả lên kìa, bảo cậu lúc nào\Ncũng có anh lái ô tô đưa đón.
-Dialogue: 0,0:33:11.30,0:33:14.43,Default,Chika,0,0,0,,Này, giới thiệu bạn của\Nbạn trai cậu cho tớ đi!
+Dialogue: 0,0:33:06.76,0:33:11.30,Default,Chika,0,0,0,,Nghe đồn thế mà, bảo cậu lúc nào\Ncũng có anh đi ô tô đưa đón.
+Dialogue: 0,0:33:11.30,0:33:14.43,Default,Chika,0,0,0,,Này, giới thiệu bạn của\Nbạn trai cậu đi!
 Dialogue: 0,0:33:14.43,0:33:17.60,Default,Chika,0,0,0,,Có chuyện gì tớ cũng chẳng kiện cậu đâu.
 Dialogue: 0,0:33:20.31,0:33:23.02,Default,Aoi,0,0,0,,Được thôi, đi luôn bây giờ nhé?
 Dialogue: 0,0:33:26.15,0:33:28.65,Default,Masamichi,0,0,0,,Tiếp theo, về ngân sách dựng sân khấu—
-Dialogue: 0,0:33:28.65,0:33:32.99,Default,Colleague,0,0,0,,Khoan đã, khoản ngân sách để Nitobe-sensei\Nyêu mến địa phương này là sao?
+Dialogue: 0,0:33:28.65,0:33:32.99,Default,Colleague,0,0,0,,Khoan, khoản ngân sách để Nitobe-sensei\Nyêu địa phương này là sao?
 Dialogue: 0,0:33:32.99,0:33:34.87,Default,Masamichi,0,0,0,,À, cái đó thì... ờm...
 Dialogue: 0,0:33:38.08,0:33:39.00,Default,Masamichi,0,0,0,,Cái đó là...
-Dialogue: 0,0:33:39.87,0:33:41.92,Default,Masamichi,0,0,0,,để dùng cho những việc thế này ạ.
+Dialogue: 0,0:33:39.87,0:33:41.92,Default,Masamichi,0,0,0,,dùng cho mấy việc thế này ạ.
 Dialogue: 0,0:33:41.92,0:33:45.25,Default,Colleague,0,0,0,,À, đá bào đúng là đặc sản nổi tiếng ở đây.
-Dialogue: 2,0:33:46.34,0:33:48.59,Default,Colleague,0,0,0,,Khoan, ăn đá bào hết mười tám nghìn yên?!
-Dialogue: 0,0:33:48.59,0:33:54.68,Default,Masamichi,0,0,0,,Thầy ấy bảo không ăn thử sạch các vị\Nthì chẳng thấu được tâm huyết chủ quán.
-Dialogue: 0,0:33:54.68,0:33:56.97,Default,Colleague,0,0,0,,Tôi chỉ mong ông ta bị đau bụng cho rồi.
+Dialogue: 2,0:33:46.34,0:33:48.59,Default,Colleague,0,0,0,,Khoan, ăn đá bào hết 18.000 yên?!
+Dialogue: 0,0:33:48.59,0:33:54.68,Default,Masamichi,0,0,0,,Thầy bảo không ăn thử hết các vị\Nthì chẳng hiểu tâm huyết chủ quán.
+Dialogue: 0,0:33:54.68,0:33:56.97,Default,Colleague,0,0,0,,Mong ông ta đau bụng luôn cho rồi.
 Dialogue: 0,0:33:56.97,0:33:58.52,Default,Colleague,0,0,0,,Ôi chà, cả Nagatoro nữa.
 Dialogue: 0,0:33:58.52,0:34:00.52,Default,Colleague,0,0,0,,Chèo thuyền vượt ghềnh luôn à?
 Dialogue: 0,0:34:00.52,0:34:03.02,Default,Colleague,0,0,0,,Bữa trưa là thịt heo miso\Nvới mì soba óc chó.
-Dialogue: 0,0:34:03.02,0:34:04.81,Default,Colleague,0,0,0,,Ông này ăn khỏe cỡ nào thế?
+Dialogue: 0,0:34:03.02,0:34:04.81,Default,Colleague,0,0,0,,Ông này ăn lắm cỡ nào thế?
 Dialogue: 0,0:34:07.02,0:34:07.82,Default,Masamichi,0,0,0,,Akane!
 Dialogue: 0,0:34:12.15,0:34:13.82,Default,Akane,0,0,0,,Chuyện gì?
 Dialogue: 0,0:34:13.82,0:34:17.03,Default,Masamichi,0,0,0,,Chắc cậu đang giận lắm đúng không?
 Dialogue: 0,0:34:17.03,0:34:19.91,Default,Akane,0,0,0,,Không giận mới là lạ đấy.
 Dialogue: 0,0:34:21.58,0:34:29.30,Default,Masamichi,0,0,0,,Như tớ nói tối qua, lúc định mời\NNitobe-sensei, tớ tình cờ thấy cậu ta.
-Dialogue: 0,0:34:29.30,0:34:36.14,Default,Masamichi,0,0,0,,Nhưng tớ nghĩ không giải quyết dứt điểm,\Ncậu sẽ mãi bị Shinnosuke níu chân mất.
+Dialogue: 0,0:34:29.30,0:34:36.14,Default,Masamichi,0,0,0,,Nhưng không giải quyết dứt điểm,\Ncậu sẽ mãi bị Shinnosuke níu chân mất.
 Dialogue: 0,0:34:36.14,0:34:38.10,Default,Akane,0,0,0,,Cậu thôi đi được rồi đấy.
-Dialogue: 0,0:34:39.27,0:34:41.64,Default,Akane,0,0,0,,Cậu nghi ngờ lập trường của tớ đến thế à?
+Dialogue: 0,0:34:39.27,0:34:41.64,Default,Akane,0,0,0,,Cậu nghĩ tớ không có chính kiến thế à?
 Dialogue: 0,0:34:42.14,0:34:44.44,Default,Akane,0,0,0,,Tớ cũng là một con người chứ bộ.
-Dialogue: 0,0:34:44.44,0:34:48.36,Default,Akane,0,0,0,,Cuộc đời tớ từ trước đến giờ,\Nđều do chính tớ tự chọn, tự quyết.
-Dialogue: 0,0:34:50.07,0:34:53.78,Default,Akane,0,0,0,,Tớ chưa bao giờ để bản thân\Nbị ai dắt mũi cả.
+Dialogue: 0,0:34:44.44,0:34:48.36,Default,Akane,0,0,0,,Cuộc đời tớ trước giờ\Nđều do tớ tự chọn, tự quyết.
+Dialogue: 0,0:34:50.07,0:34:53.78,Default,Akane,0,0,0,,Tớ chẳng bao giờ để ai\Ndắt mũi mình cả.
 Dialogue: 0,0:34:57.66,0:35:01.08,Top,Chika,0,0,0,,Bạn trai Aioi đi làm rồi đúng không?
 Dialogue: 0,0:35:01.08,0:35:02.79,Top,Chika,0,0,0,,Có bạn nào học đại học không?
 Dialogue: 0,0:35:02.79,0:35:07.04,Top,Chika,0,0,0,,Ý tớ là quen người đi làm cũng thích đấy,
-Dialogue: 0,0:35:03.87,0:35:09.17,Italics,Aoi,0,0,0,,Nói chẳng lọt tai nhau,\Nnhưng cái kiểu lạc quan vô tư này...
+Dialogue: 0,0:35:03.87,0:35:09.17,Italics,Aoi,0,0,0,,Chẳng nói chuyện nổi,\Nnhưng cái kiểu lạc quan tếu này...
 Dialogue: 0,0:35:07.04,0:35:10.13,Top,Chika,0,0,0,,cơ mà tớ mê được vào căng tin đại học lắm!
 Dialogue: 0,0:35:10.09,0:35:12.38,Italics,Aoi,0,0,0,,sao giống Michinko thế không biết.
 Dialogue: 0,0:35:14.47,0:35:16.09,Default,Aoi,0,0,0,,Tới rồi à?
@@ -602,7 +602,7 @@ Dialogue: 0,0:35:27.65,0:35:28.40,Default,Akane,0,0,0,,Hả?
 Dialogue: 0,0:35:28.40,0:35:30.07,Default,Akane,0,0,0,,Bị hươu hạ gục á?
 Dialogue: 0,0:35:31.94,0:35:33.78,Default,Aoi & Chika,0,0,0,,Hươu á?
 Dialogue: 0,0:35:33.78,0:35:34.20,Default,Manager,0,0,0,,Vâng.
-Dialogue: 0,0:35:34.20,0:35:38.91,Default,Manager,0,0,0,,Tay bass Ito-san với tay trống Kodama-san\Nđều bị ngộ độc thực phẩm cả rồi.
+Dialogue: 0,0:35:34.20,0:35:38.91,Default,Manager,0,0,0,,Tay bass Ito-san với tay trống Kodama-san\Nbị ngộ độc thực phẩm cả rồi.
 Dialogue: 0,0:35:39.66,0:35:41.54,Default,Band Member,0,0,0,,Ngon hết sẩy luôn.
 Dialogue: 0,0:35:41.54,0:35:42.79,Default,Band Member,0,0,0,,Tôi không hối hận.
 Dialogue: 0,0:35:42.79,0:35:44.16,Default,Manager,0,0,0,,Hối hận đi thì có!
@@ -612,7 +612,7 @@ Dialogue: 0,0:35:48.04,0:35:48.67,Default,Band Member,0,0,0,,Mày thì có!
 Dialogue: 0,0:35:49.00,0:35:52.96,Default,Chika,0,0,0,,Chà, đúng chất dân rock thứ thiệt luôn!
 Dialogue: 0,0:35:49.71,0:35:52.38,Top,Staff,0,0,0,,Tóm lại, cả hai anh phải nhịn ăn một tuần,
 Dialogue: 0,0:35:52.38,0:35:54.38,Top,Manager,0,0,0,,cho tới khi hết viêm mới được.
-Dialogue: 0,0:35:54.38,0:35:56.97,Default,Manager,0,0,0,,E là khó mà lên sân khấu nổi.
+Dialogue: 0,0:35:54.38,0:35:56.97,Default,Manager,0,0,0,,Chắc khó lên sân khấu nổi rồi.
 Dialogue: 0,0:35:56.97,0:35:59.26,Default,Manager,0,0,0,,Thôi, mình cũng có bản thu sẵn rồi,
 Dialogue: 0,0:35:59.26,0:36:02.14,Default,Manager,0,0,0,,Cùng lắm thì không diễn nhạc sống nữa...
 Dialogue: 0,0:36:02.14,0:36:05.52,Default,Nitobe,0,0,0,,{\fnCrapGPPB\fs90\fscx90}Bác bỏ nhé, bác bỏ nhé~
@@ -620,9 +620,9 @@ Dialogue: 0,0:36:05.52,0:36:07.19,Default,Masamichi,0,0,0,,Nitobe-sensei?
 Dialogue: 0,0:36:07.19,0:36:08.73,Default,Nitobe,0,0,0,,Âm thanh có sự sống đấy.
 Dialogue: 0,0:36:08.73,0:36:10.27,Default,Nitobe,0,0,0,,Là sinh mệnh đấy.
 Dialogue: 0,0:36:10.27,0:36:13.98,Default,Nitobe,0,0,0,,Không có nhạc sống,\Nta chẳng thể hát nên cái hồn của Enka.
-Dialogue: 0,0:36:13.98,0:36:19.53,Default,Nitobe,0,0,0,,Dankichi Nitobe ta đây tuyệt đối không\Nhát trên nền nhạc thu sẵn đâu!
+Dialogue: 0,0:36:13.98,0:36:19.53,Default,Nitobe,0,0,0,,Dankichi Nitobe ta đây tuyệt đối không\Nhát cùng nhạc thu sẵn đâu!
 Dialogue: 0,0:36:19.53,0:36:20.83,Default,Masamichi,0,0,0,,Nh-Nhưng mà...
-Dialogue: 0,0:36:20.83,0:36:24.62,Default,Manager,0,0,0,,Gấp gáp thế này\Nthì kiếm đâu ra người đánh thay bây giờ...
+Dialogue: 0,0:36:20.83,0:36:24.62,Default,Manager,0,0,0,,Giờ mà đi tìm người mới thì...
 Dialogue: 0,0:36:26.37,0:36:29.46,Default,Akane,0,0,0,,Đang thiếu một tay trống\Nvà một tay bass nhỉ?
 Dialogue: 0,0:36:29.46,0:36:30.79,Default,Masamichi,0,0,0,,Ừ, đúng vậy.
 Dialogue: 0,0:36:30.79,0:36:31.67,Default,Akane,0,0,0,,Có sẵn đây rồi!
@@ -632,13 +632,13 @@ Dialogue: 0,0:36:38.30,0:36:40.14,Default,Shinnosuke,0,0,0,,Chuyện quái gì t
 Dialogue: 0,0:36:40.14,0:36:43.47,Default,Band Member,0,0,0,,Người đánh thay là nữ sinh cấp ba\Nvới nhân viên Tòa thị chính á?
 Dialogue: 0,0:36:43.47,0:36:44.72,Default,Band Member,0,0,0,,Nghe vui phết nhỉ.
 Dialogue: 0,0:36:44.72,0:36:45.89,Default,Shinnosuke,0,0,0,,Không được đâu.
-Dialogue: 0,0:36:45.89,0:36:48.98,Default,Manager,0,0,0,,Nhưng Nitobe-san lại khoái ý tưởng này lắm.
+Dialogue: 0,0:36:45.89,0:36:48.98,Default,Manager,0,0,0,,Nhưng Nitobe-san khoái vụ này lắm.
 Dialogue: 0,0:36:48.98,0:36:51.81,Default,Manager,0,0,0,,Giờ ông ấy đích thân lên\NTòa thị chính thuyết phục kìa.
 Dialogue: 0,0:36:51.81,0:36:53.94,Top,Masamichi,0,0,0,,Nitobe-sensei đích thân lên luôn á?
-Dialogue: 0,0:36:52.15,0:36:55.65,Default,Masamichi,0,0,0,,Sao mọi chuyện lại ra nông nỗi này...
+Dialogue: 0,0:36:52.15,0:36:55.65,Default,Masamichi,0,0,0,,Sao lại thành ra thế này...
 Dialogue: 0,0:36:55.65,0:36:58.07,Default,Shinnosuke,0,0,0,,Tôi không rảnh chơi đồ hàng với con nít.
 Dialogue: 0,0:36:58.49,0:37:01.07,Default,Shinnosuke,0,0,0,,Tôi là dân chuyên nghiệp.
-Dialogue: 0,0:37:01.91,0:37:04.74,Default,Aoi,0,0,0,,Rõ ràng... chính anh bảo em\Nlà Sao Mắt Biếc cơ mà.
+Dialogue: 0,0:37:01.91,0:37:04.74,Default,Aoi,0,0,0,,Chính anh bảo em là\NSao Mắt Biếc cơ mà...
 Dialogue: 0,0:37:07.33,0:37:10.37,Default,Aoi,0,0,0,,Cứ xem tôi đánh rồi hẵng phán\Ncó phải trò con nít không!
 Dialogue: 0,0:37:10.37,0:37:12.42,Default,Masamichi,0,0,0,,Này, Aoi.
 Dialogue: 0,0:37:12.42,0:37:15.42,Default,Nitobe,0,0,0,,Ý hay đấy!
@@ -647,8 +647,8 @@ Dialogue: 0,0:37:38.74,0:37:40.28,Default,Aoi,0,0,0,,Michinko.
 Dialogue: 0,0:38:07.39,0:38:09.27,Default,Band Member,0,0,0,,Ồ, đánh khá đấy chứ.
 Dialogue: 0,0:38:09.27,0:38:12.23,Default,Band Member,0,0,0,,Ừ, được phết, nhưng sao lại đánh Gandhara?
 Dialogue: 0,0:38:15.65,0:38:18.32,Default,Chika,0,0,0,,Trời ơi, ngầu quá đi!
-Dialogue: 0,0:38:25.99,0:38:29.58,Default,Nitobe,0,0,0,,Tuyệt vời! Ta cảm nhận được\Ntình yêu trong từng nốt nhạc.
-Dialogue: 0,0:38:29.58,0:38:33.29,Default,Nitobe,0,0,0,,Đây chắc chắn sẽ là điểm nhấn\Ncủa lễ hội lần này!
+Dialogue: 0,0:38:25.99,0:38:29.58,Default,Nitobe,0,0,0,,Tuyệt vời! Tiếng đàn đầy ắp tình yêu.
+Dialogue: 0,0:38:29.58,0:38:33.29,Default,Nitobe,0,0,0,,Đây sẽ là điểm nhấn của lễ hội lần này!
 Dialogue: 0,0:38:50.43,0:38:51.60,Default,Shinno,0,0,0,,Đỉnh quá!
 Dialogue: 0,0:38:52.02,0:38:53.85,Default,Shinno,0,0,0,,Đỉnh thật đấy, Ao ơi!
 Dialogue: 0,0:38:53.85,0:38:57.44,Default,Shinno,0,0,0,,Tuổi này đã được diễn chung\Nvới ban nhạc chuyên nghiệp rồi!
@@ -657,7 +657,7 @@ Dialogue: 0,0:39:00.03,0:39:01.53,Default,Tsugu,0,0,0,,Thế chẳng phải quá
 Dialogue: 0,0:39:01.53,0:39:03.70,Default,Tsugu,0,0,0,,Nếu Ao-chan ở gần bản chính,
 Dialogue: 0,0:39:03.70,0:39:07.12,Default,Tsugu,0,0,0,,Aka-nee sẽ có thêm dịp\Nnói chuyện với chú ấy.
 Dialogue: 0,0:39:07.12,0:39:11.20,Default,Shinno,0,0,0,,Đúng rồi! Đúng là cơ hội vàng\Nđể ghép đôi hai người họ!
-Dialogue: 0,0:39:11.20,0:39:15.58,Default,Aoi,0,0,0,,Nhưng... liệu tôi có làm nổi không?
+Dialogue: 0,0:39:11.20,0:39:15.58,Default,Aoi,0,0,0,,Nhưng tôi có làm nổi không?
 Dialogue: 0,0:39:15.58,0:39:17.96,Default,Aoi,0,0,0,,Chơi chung với dân chuyên cơ mà...
 Dialogue: 0,0:39:17.96,0:39:19.09,Default,Shinno,0,0,0,,Làm được chứ!
 Dialogue: 0,0:39:19.42,0:39:22.55,Default,Shinno,0,0,0,,Em cũng giống anh,\Nlà Sao Mắt Biếc cơ mà.
@@ -669,55 +669,55 @@ Dialogue: 0,0:39:40.65,0:39:42.03,Default,Akane,0,0,0,,Có chuyện gì thế?
 Dialogue: 0,0:39:42.03,0:39:43.57,Default,Aoi,0,0,0,,K-Không có gì đâu.
 Dialogue: 0,0:39:43.57,0:39:45.57,Default,Aoi,0,0,0,,Còn Aka-nee lên đây làm gì thế?
 Dialogue: 0,0:39:47.49,0:39:48.32,Default,Akane,0,0,0,,Ừm...
-Dialogue: 0,0:39:48.74,0:39:52.08,Default,Akane,0,0,0,,Chị xin lỗi vì hôm nay\Nđã làm khó em quá.
-Dialogue: 0,0:39:53.08,0:39:57.46,Default,Aoi,0,0,0,,Tự dưng tưởng tượng cảnh em đứng trên\Nsân khấu lớn, chị không kìm được...
+Dialogue: 0,0:39:48.74,0:39:52.08,Default,Akane,0,0,0,,Xin lỗi nhé, hôm nay làm khó em quá.
+Dialogue: 0,0:39:53.08,0:39:57.46,Default,Aoi,0,0,0,,Tự dưng nghĩ tới cảnh em đứng sân khấu lớn,\Nchị không kìm được...
 Dialogue: 0,0:39:58.71,0:40:00.21,Default,Aoi,0,0,0,,Không {\alpha&FF}sao đâu.
 Dialogue: 0,0:40:00.21,0:40:01.05,Default,Aoi,0,0,0,,Không sao đâu.
-Dialogue: 0,0:40:01.05,0:40:05.59,Default,Aoi,0,0,0,,Thật ra em cũng bắt đầu\Nthấy hơi háo hức rồi.
+Dialogue: 0,0:40:01.05,0:40:05.59,Default,Aoi,0,0,0,,Em cũng bắt đầu thấy háo hức rồi.
 Dialogue: 0,0:40:06.80,0:40:07.72,Default,Akane,0,0,0,,Thế à.
 Dialogue: 0,0:40:07.72,0:40:09.26,Default,Akane,0,0,0,,À, chị có mang bánh kẹo này.
 Dialogue: 0,0:40:09.26,0:40:10.51,Default,Akane,0,0,0,,Tsugu cũng ăn cùng nhé.
 Dialogue: 0,0:40:11.85,0:40:14.64,Default,Akane,0,0,0,,Thôi chị về trước, đừng tập khuya quá đấy.
-Dialogue: 0,0:40:17.73,0:40:19.90,Default,Tsugu,0,0,0,,Chắc chị ấy không nghi ngờ gì đâu.
+Dialogue: 0,0:40:17.73,0:40:19.90,Default,Tsugu,0,0,0,,May mà giấu trót lọt rồi nhỉ.
 Dialogue: 0,0:40:19.90,0:40:21.11,Default,Aoi,0,0,0,,Ừ.
 Dialogue: 0,0:40:23.23,0:40:25.11,Default,Tsugu,0,0,0,,Làm em hết cả hồn!
 Dialogue: 0,0:40:25.90,0:40:28.03,Default,Shinno,0,0,0,,Biến thành bà cô mất rồi.
 Dialogue: 0,0:40:28.03,0:40:30.03,Default,Aoi,0,0,0,,Thì cũng...
 Dialogue: 0,0:40:31.08,0:40:33.74,Default,Aoi,0,0,0,,Một bà cô dễ thương kinh khủng.
-Dialogue: 0,0:40:34.75,0:40:41.17,Default,Aoi,0,0,0,,Một bà cô còn xinh đẹp hơn cả\Nngười mẫu lẫn thần tượng áo tắm.
+Dialogue: 0,0:40:34.75,0:40:41.17,Default,Aoi,0,0,0,,Còn xinh đẹp hơn cả người mẫu\Nlẫn idol áo tắm nữa.
 Dialogue: 0,0:40:43.25,0:40:45.51,Default,Tsugu,0,0,0,,Ờm, anh không sao chứ?
 Dialogue: 0,0:40:46.26,0:40:48.01,Default,Shinno,0,0,0,,Có bị sao đâu cơ chứ!
-Dialogue: 0,0:40:48.93,0:40:51.97,Default,Shinno,0,0,0,,Suốt từng ấy năm,\NAkane hẳn đã vất vả hơn anh gấp bội.
-Dialogue: 0,0:40:52.76,0:40:57.56,Default,Shinno,0,0,0,,Với anh chỉ như mới hôm qua, nhưng Akane\Nđã phải lẻ loi suốt từng ấy năm.
-Dialogue: 0,0:40:58.44,0:41:02.02,Default,Shinno,0,0,0,,Anh chỉ mong Akane sớm được hạnh phúc thôi.
+Dialogue: 0,0:40:48.93,0:40:51.97,Default,Shinno,0,0,0,,Akane chắc khổ hơn anh nhiều.
+Dialogue: 0,0:40:52.76,0:40:57.56,Default,Shinno,0,0,0,,Với anh như mới hôm qua,\Ncòn Akane chỉ có một mình suốt bao năm.
+Dialogue: 0,0:40:58.44,0:41:02.02,Default,Shinno,0,0,0,,Anh chỉ mong Akane sớm hạnh phúc.
 Dialogue: 0,0:41:02.56,0:41:04.44,Default,Aoi,0,0,0,,Shinno...
-Dialogue: 0,0:41:05.28,0:41:10.78,Default,Shinno,0,0,0,,Mà công nhận, giờ anh thành ông chú rồi,\Nchắc đánh guitar lên tay dữ lắm nhỉ?
+Dialogue: 0,0:41:05.28,0:41:10.78,Default,Shinno,0,0,0,,Mà anh thành ông chú rồi,\Nchắc đánh guitar lên tay lắm nhỉ?
 Dialogue: 0,0:41:10.78,0:41:12.74,Default,Aoi,0,0,0,,À, thì cũng...
 Dialogue: 0,0:41:12.74,0:41:13.95,Default,Shinno,0,0,0,,Thật luôn á?
 Dialogue: 0,0:41:13.95,0:41:16.33,Default,Tsugu,0,0,0,,Để em quay video lại cho anh xem nhé?
 Dialogue: 0,0:41:17.00,0:41:18.08,Default,Shinno,0,0,0,,Bằng cái này.
 Dialogue: 0,0:41:18.08,0:41:19.37,Default,Shinno,0,0,0,,Quay được luôn á?
 Dialogue: 0,0:41:19.92,0:41:21.50,Default,Shinno,0,0,0,,Trời ơi, điện thoại thời nay!
-Dialogue: 0,0:41:21.50,0:41:23.54,Default,Shinno,0,0,0,,Trò chơi lúc nãy cũng mê tít nữa.
+Dialogue: 0,0:41:21.50,0:41:23.54,Default,Shinno,0,0,0,,Game lúc nãy cũng đỉnh nữa.
 Dialogue: 0,0:41:23.54,0:41:25.30,Default,Shinno,0,0,0,,Cho anh mượn một đêm đi.
 Dialogue: 0,0:41:25.30,0:41:26.46,Default,Tsugu,0,0,0,,Đừng hòng.
 Dialogue: 0,0:41:26.46,0:41:27.63,Default,Aoi,0,0,0,,Vậy mượn máy tôi không?
 Dialogue: 0,0:41:28.38,0:41:29.22,Default,Tsugu,0,0,0,,Được thật à?
 Dialogue: 0,0:41:29.22,0:41:31.47,Default,Aoi,0,0,0,,Một đêm thôi thì cũng chẳng sao.
-Dialogue: 0,0:41:31.47,0:41:34.30,Default,Aoi,0,0,0,,Dù sao cũng chỉ có Aka-nee\Nvới Tsugu gọi cho tôi thôi.
+Dialogue: 0,0:41:31.47,0:41:34.30,Default,Aoi,0,0,0,,Cũng chỉ có Aka-nee\Nvới Tsugu gọi thôi mà.
 Dialogue: 0,0:41:34.30,0:41:35.97,Default,Aoi,0,0,0,,Ờm, mật khẩu là—
 Dialogue: 0,0:41:35.97,0:41:37.43,Default,Aoi,0,0,0,,Này! Thông tin cá nhân đấy!
 Dialogue: 0,0:41:37.43,0:41:38.64,Default,Aoi,0,0,0,,Cảm ơn nhé, Ao!
-Dialogue: 0,0:41:38.64,0:41:41.15,Default,Aoi,0,0,0,,Em lớn lên ngoan ngoãn thật đấy!
+Dialogue: 0,0:41:38.64,0:41:41.15,Default,Aoi,0,0,0,,Em lớn lên ngoan thật đấy!
 Dialogue: 0,0:41:41.15,0:41:43.56,Default,Aoi,0,0,0,,Này! Cấm tự tiện xoa đầu tôi!
 Dialogue: 0,0:41:47.32,0:41:48.69,Default,Shinno,0,0,0,,Này.
 Dialogue: 0,0:41:50.32,0:41:52.66,Default,Aoi,0,0,0,,Em định quay video thật đấy à?
 Dialogue: 0,0:41:52.66,0:41:54.03,Default,Tsugu,0,0,0,,Sao lại không?
-Dialogue: 0,0:41:54.66,0:41:58.91,Default,Aoi,0,0,0,,Lỡ xem bản thân mình bây giờ,\NShinno lại thất vọng thì sao.
+Dialogue: 0,0:41:54.66,0:41:58.91,Default,Aoi,0,0,0,,Thấy mình bây giờ,\Nchắc Shinno thất vọng mất.
 Dialogue: 0,0:41:58.91,0:41:59.83,Default,Tsugu,0,0,0,,Có chắc không?
 Dialogue: 0,0:41:59.83,0:42:01.12,Default,Aoi,0,0,0,,Chắc chắn luôn!
 Dialogue: 0,0:42:01.12,0:42:02.62,Default,Aoi,0,0,0,,Shinno tuy hơi ngốc,
-Dialogue: 0,0:42:02.62,0:42:06.30,Default,Aoi,0,0,0,,nhưng dù sao cũng tốt bụng,\Nchẳng bao giờ khinh thường ai cả!
+Dialogue: 0,0:42:02.62,0:42:06.30,Default,Aoi,0,0,0,,nhưng tốt bụng lắm,\Nchẳng bao giờ coi thường ai đâu!
 Dialogue: 0,0:42:06.30,0:42:07.13,Default,Aoi,0,0,0,,Với lại—
 Dialogue: 0,0:42:10.97,0:42:12.05,Default,Aoi,0,0,0,,Gì thế?
 Dialogue: 0,0:42:12.68,0:42:14.55,Default,Tsugu,0,0,0,,Chẳng có gì.
@@ -725,11 +725,11 @@ Dialogue: 0,0:42:21.73,0:42:24.86,Default,Aoi,0,0,0,,Mà sao cậu lại có m�
 Dialogue: 0,0:42:24.86,0:42:27.07,Default,Chika,0,0,0,,Cậu định quay Shinnosuke-san đúng không?
 Dialogue: 0,0:42:27.07,0:42:29.23,Default,Chika,0,0,0,,Cứ giao cho tớ! Tớ rành món này lắm!
 Dialogue: 0,0:42:29.23,0:42:32.70,Default,Chika,0,0,0,,Rồi cả việc lặt vặt kiểu quản lý nữa nhé?
-Dialogue: 0,0:42:32.70,0:42:35.91,Default,Tsugu,0,0,0,,Lúc em tới thì chị ấy đã đứng sẵn đây rồi.
+Dialogue: 0,0:42:32.70,0:42:35.91,Default,Tsugu,0,0,0,,Lúc em tới đã thấy chị ấy ở đây rồi.
 Dialogue: 0,0:42:35.91,0:42:38.58,Default,Tsugu,0,0,0,,Thôi, càng nhiều cảnh quay\Nthì càng tốt chứ sao?
 Dialogue: 0,0:42:38.58,0:42:41.37,Default,Chika,0,0,0,,Em hiểu chuyện phết đấy, nhóc con.
 Dialogue: 0,0:42:41.37,0:42:42.66,Default,Staff,0,0,0,,A, đây rồi.
-Dialogue: 0,0:42:42.66,0:42:47.04,Default,Staff,0,0,0,,Sắp bắt đầu tổng duyệt rồi,\Nmọi người chuẩn bị nhạc cụ nhé.
+Dialogue: 0,0:42:42.66,0:42:47.04,Default,Staff,0,0,0,,Sắp tổng duyệt rồi,\Nmọi người chuẩn bị đi nhé.
 Dialogue: 0,0:42:47.04,0:42:47.84,Default,Aoi,0,0,0,,Vâng!
 Dialogue: 0,0:42:58.10,0:43:00.89,Default,Staff,0,0,0,,Rồi, mọi người vất vả rồi!
 Dialogue: 0,0:43:00.89,0:43:04.02,Default,Chika,0,0,0,,Trời ơi, Shinnosuke-san ngầu quá đi mất!
@@ -737,17 +737,17 @@ Dialogue: 0,0:43:01.56,0:43:04.02,Top,Staff,0,0,0,,Tôi kiểm tra thiết bị 
 Dialogue: 0,0:43:06.11,0:43:07.23,Default,Shinnosuke,0,0,0,,Cái gì đây?
 Dialogue: 0,0:43:09.44,0:43:12.11,Default,Shinnosuke,0,0,0,,Em đang giỡn mặt đấy à, Aoi-chan?
 Dialogue: 0,0:43:14.03,0:43:15.16,Default,Shinnosuke,0,0,0,,Em đánh bass cơ mà?
-Dialogue: 0,0:43:15.16,0:43:17.99,Default,Shinnosuke,0,0,0,,Sao lại cố đánh nổi trội hơn người khác?
+Dialogue: 0,0:43:15.16,0:43:17.99,Default,Shinnosuke,0,0,0,,Sao cứ cố đánh cho nổi thế?
 Dialogue: 0,0:43:21.45,0:43:23.91,Default,Aoi,0,0,0,,E-Em xin lỗi ạ.
 Dialogue: 0,0:43:23.91,0:43:24.62,Default,Shinnosuke,0,0,0,,Thật tình.
-Dialogue: 0,0:43:24.62,0:43:29.38,Default,Shinnosuke,0,0,0,,Con gái ngay từ đầu\Nđã chẳng hợp chơi bass rồi.
+Dialogue: 0,0:43:24.62,0:43:29.38,Default,Shinnosuke,0,0,0,,Con gái vốn đã chẳng hợp\Nchơi bass rồi.
 Dialogue: 0,0:43:29.38,0:43:31.63,Italics,Shinno,0,0,0,,Được rồi, Ao! Khi nào em lớn,
 Dialogue: 0,0:43:31.63,0:43:33.72,Italics,Shinno,0,0,0,,em chơi bass cho ban nhạc nhé.
 Dialogue: 0,0:43:33.72,0:43:36.76,Top,Shinnosuke,0,0,0,,Tay nhỏ, người nhỏ,\Nlàm sao mà giữ nổi nhịp.
 Dialogue: 0,0:43:34.59,0:43:36.76,Italics,Aoi,0,0,0,,Chính anh đã bảo thế còn gì!
-Dialogue: 0,0:43:36.76,0:43:39.60,Default,Masamichi,0,0,0,,Thôi nào, dù sao tụi này\Ncũng là dân nghiệp dư.
+Dialogue: 0,0:43:36.76,0:43:39.60,Default,Masamichi,0,0,0,,Thôi mà, bọn anh cũng là dân nghiệp dư.
 Dialogue: 0,0:43:39.60,0:43:41.47,Default,Masamichi,0,0,0,,Mới lần đầu nên ít nhiều cũng—
-Dialogue: 0,0:43:41.47,0:43:45.27,Default,Shinnosuke,0,0,0,,Nghiệp dư mà đòi chõ mũi vào giới chuyên\Nmới chính là vấn đề đấy.
+Dialogue: 0,0:43:41.47,0:43:45.27,Default,Shinnosuke,0,0,0,,Nghiệp dư mà đòi chen vào giới chuyên\Nmới là vấn đề đấy.
 Dialogue: 0,0:43:46.44,0:43:48.48,Default,Shinnosuke,0,0,0,,Cả ông nữa đấy, Michinko-san.
 Dialogue: 0,0:43:48.48,0:43:52.53,Default,Shinnosuke,0,0,0,,Ông cứ bị cuốn theo tiếng bass,\Nlàm cả bọn vỡ trận hết cả lên.
 Dialogue: 0,0:43:52.53,0:43:55.32,Default,Shinnosuke,0,0,0,,Tay trống không giữ được nhịp\Nthì còn nói chuyện gì—
@@ -758,7 +758,7 @@ Dialogue: 0,0:43:59.16,0:44:01.16,Default,Band Member,0,0,0,,Ồ, Eiko-chan đ�
 Dialogue: 0,0:44:01.16,0:44:02.04,Default,Townsperson,0,0,0,,Chào anh!
 Dialogue: 0,0:44:02.04,0:44:04.25,Default,Townsperson,0,0,0,,Tụi em tới rồi đây, Shin-chan!
 Dialogue: 0,0:44:05.08,0:44:06.04,Default,Shinnosuke,0,0,0,,Hả? Sao lại...
-Dialogue: 0,0:44:06.04,0:44:07.71,Default,Akane,0,0,0,,Hình như họ tới đón cậu đấy.
+Dialogue: 0,0:44:06.04,0:44:07.71,Default,Akane,0,0,0,,Họ tới đón cậu kìa.
 Dialogue: 0,0:44:07.71,0:44:10.79,Default,Akane,0,0,0,,Nitobe-san đã sang quán trước rồi đấy.
 Dialogue: 0,0:44:10.79,0:44:14.51,Default,Akane,0,0,0,,Đúng là dân chuyên nghiệp có khác nhỉ.
 Dialogue: 0,0:44:14.51,0:44:15.09,Default,Akane,0,0,0,,À... không—
@@ -766,44 +766,44 @@ Dialogue: 0,0:44:15.09,0:44:16.22,Default,Townsperson,0,0,0,,Nào Shin-chan.
 Dialogue: 0,0:44:16.22,0:44:17.51,Top,Townsperson,0,0,0,,Đi thôi nào!
 Dialogue: 0,0:44:17.51,0:44:19.93,Top,Band Member,0,0,0,,Shinnosuke-san say vào\Nlà hay khó chiều lắm đấy.
 Dialogue: 0,0:44:20.35,0:44:23.31,Top,Chika,0,0,0,,Nào, Dan-chan đang đợi kìa.
-Dialogue: 0,0:44:20.35,0:44:23.31,Default,Chika,0,0,0,,Ôi, hóa ra là kiểu đàn ông phong trần à.
+Dialogue: 0,0:44:20.35,0:44:23.31,Default,Chika,0,0,0,,Chà, hóa ra là gu phong trần à.
 Dialogue: 0,0:44:23.31,0:44:25.27,Default,Chika,0,0,0,,Hôm nay chắc xong việc rồi nhỉ.
 Dialogue: 0,0:44:27.60,0:44:29.44,Default,Chika,0,0,0,,Chị đang làm gì thế?
 Dialogue: 0,0:44:29.44,0:44:33.36,Default,Chika,0,0,0,,Chị gửi đoạn video sang máy Aioi-san rồi.
 Dialogue: 0,0:44:36.95,0:44:41.20,Default,Shinno,0,0,0,,Thằng già khốn nạn này!
 Dialogue: 0,0:44:41.20,0:44:42.45,Default,Tsugu,0,0,0,,Anh ấy xem mất rồi.
-Dialogue: 0,0:44:42.45,0:44:45.37,Default,Shinno,0,0,0,,Cái lão già nhếch nhác này\Nbị làm sao thế hả?!
+Dialogue: 0,0:44:42.45,0:44:45.37,Default,Shinno,0,0,0,,Cái lão già lôi thôi này\Nbị sao thế hả?!
 Dialogue: 0,0:44:45.37,0:44:47.00,Default,Shinno,0,0,0,,Lại còn đi quán tiếp viên nữa!
 Dialogue: 0,0:44:47.50,0:44:50.13,Default,Shinno,0,0,0,,Thế này thì không thể giao\NAkane cho hắn được.
-Dialogue: 0,0:44:50.13,0:44:54.38,Default,Shinno,0,0,0,,Trước khi ghép đôi hai người,\Nanh phải uốn nắn lại lão này đã.
+Dialogue: 0,0:44:50.13,0:44:54.38,Default,Shinno,0,0,0,,Trước khi ghép đôi hai người,\Nanh phải chỉnh đốn lão này đã.
 Dialogue: 0,0:44:55.92,0:44:58.18,Default,Shinno,0,0,0,,Nhưng mà...
-Dialogue: 0,0:45:00.64,0:45:04.68,Default,Shinno,0,0,0,,Mình đúng là đã thành dân chuyên thật nhỉ.
+Dialogue: 0,0:45:00.64,0:45:04.68,Default,Shinno,0,0,0,,Mình thành dân chuyên thật rồi nhỉ.
 Dialogue: 0,0:45:05.31,0:45:08.27,Default,Shinno,0,0,0,,Chết tiệt, cái tên khốn đó.
-Dialogue: 0,0:45:08.27,0:45:11.31,Default,Shinno,0,0,0,,Rốn thì lồi ra mà cứ làm bộ ngầu lắm!
+Dialogue: 0,0:45:08.27,0:45:11.31,Default,Shinno,0,0,0,,Rốn lồi mà bày đặt làm màu!
 Dialogue: 0,0:45:11.31,0:45:12.31,Default,Shinno,0,0,0,,Rốn lồi á?
 Dialogue: 0,0:45:12.31,0:45:12.65,Default,Shinno,0,0,0,,Ừ!
 Dialogue: 0,0:45:13.23,0:45:14.78,Default,Shinno,0,0,0,,Này, xem thử không?
 Dialogue: 0,0:45:14.78,0:45:16.15,Default,Aoi,0,0,0,,Khỏi cần đâu.
 Dialogue: 0,0:45:16.15,0:45:20.20,Default,Shinno,0,0,0,,Thôi, đã nước này rồi\Nthì đến lượt Ao ra tay đấy.
-Dialogue: 0,0:45:20.20,0:45:25.74,Default,Shinno,0,0,0,,Đánh một bài thật cháy, đập tan cái thói\Ntự cao của lão ra từng mảnh đi!
+Dialogue: 0,0:45:20.20,0:45:25.74,Default,Shinno,0,0,0,,Đánh một bài thật cháy,\Nđập tan cái tính tự cao của lão đi!
 Dialogue: 0,0:45:26.70,0:45:27.20,Default,Aoi,0,0,0,,Liệu...
 Dialogue: 0,0:45:29.16,0:45:31.08,Default,Aoi,0,0,0,,tôi có làm được không?
-Dialogue: 0,0:45:31.08,0:45:35.21,Default,Shinno,0,0,0,,Làm được chắc chắn luôn!\NEm thì thừa sức ấy chứ.
+Dialogue: 0,0:45:31.08,0:45:35.21,Default,Shinno,0,0,0,,Làm được chứ!\NEm thì chắc chắn làm được.
 Dialogue: 0,0:45:35.63,0:45:37.55,Default,Shinno,0,0,0,,Đúng không, Sao Mắt Biếc?
 Dialogue: 0,0:45:42.84,0:45:45.10,Default,Shinno,0,0,0,,Được rồi, vào tập luôn nào.
 Dialogue: 0,0:45:45.56,0:45:46.85,Default,Shinno,0,0,0,,Có máy đếm nhịp không?
 Dialogue: 0,0:45:46.85,0:45:49.85,Default,Aoi,0,0,0,,Có ứng dụng trong điện thoại đó đấy.
-Dialogue: 0,0:45:49.85,0:45:52.69,Default,Shinno,0,0,0,,Lại điện thoại thông minh à?\NThứ này lợi hại thật đấy.
+Dialogue: 0,0:45:49.85,0:45:52.69,Default,Shinno,0,0,0,,Lại smartphone à?\NCái này xịn thật đấy.
 Dialogue: 0,0:45:53.44,0:45:55.52,Default,Aoi,0,0,0,,Hừm...
 Dialogue: 0,0:45:55.52,0:46:00.70,Italics,Aoi,0,0,0,,Nếu Shinno quay về làm Shinnosuke kia,
-Dialogue: 0,0:46:00.70,0:46:02.78,Italics,Aoi,0,0,0,,thì Shinno ngay lúc này sẽ ra sao?
+Dialogue: 0,0:46:00.70,0:46:02.78,Italics,Aoi,0,0,0,,thì Shinno lúc này sẽ ra sao?
 Dialogue: 0,0:46:02.78,0:46:11.79,Default,Shinno,0,0,0,,Chơi bass ấy, dù xung quanh rối tung,\Nem vẫn phải giữ nhịp và nâng đỡ cả nhóm.
-Dialogue: 0,0:46:11.79,0:46:16.13,Default,Shinno,0,0,0,,Vừa lắng nghe tiếng nhạc xung quanh,\Nvừa không để nhịp của mình bị loạn.
+Dialogue: 0,0:46:11.79,0:46:16.13,Default,Shinno,0,0,0,,Vừa nghe tiếng xung quanh,\Nvừa giữ vững nhịp của mình.
 Dialogue: 0,0:46:23.26,0:46:24.85,Default,Chika,0,0,0,,Hả?!
 Dialogue: 0,0:46:24.85,0:46:27.26,Default,Chika,0,0,0,,Shinnosuke-san không đến à?
 Dialogue: 0,0:46:27.26,0:46:30.27,Default,Aoi,0,0,0,,Sao thế được... Sắp diễn thật rồi mà!
-Dialogue: 0,0:46:30.27,0:46:33.77,Default,Masamichi,0,0,0,,Ừ thì vốn dĩ hôm nay cũng\Nkhông có lịch tổng duyệt mà.
-Dialogue: 0,0:46:33.77,0:46:39.32,Default,Masamichi,0,0,0,,Hơn nữa, cậu ta bảo tập cùng dân nghiệp dư\Nsẽ làm cùn tay nghề của mình.
+Dialogue: 0,0:46:30.27,0:46:33.77,Default,Masamichi,0,0,0,,Thì hôm nay vốn cũng đâu có\Nlịch tổng duyệt.
+Dialogue: 0,0:46:33.77,0:46:39.32,Default,Masamichi,0,0,0,,Lại còn bảo tập với nghiệp dư\Nlàm cùn tay nghề nữa.
 Dialogue: 0,0:46:41.11,0:46:42.45,Default,Aoi,0,0,0,,Đồ tồi!
 Dialogue: 0,0:46:43.28,0:46:45.99,Default,Aoi,0,0,0,,Coi thường người khác vừa thôi chứ!
 Dialogue: 0,0:46:45.99,0:46:48.37,Default,Aoi,0,0,0,,Khác hẳn với Shinno luôn ấy!
@@ -816,20 +816,20 @@ Dialogue: 0,0:47:00.76,0:47:02.51,Default,Staff,0,0,0,,Nakamura-san ơi!
 Dialogue: 0,0:47:02.51,0:47:04.63,Default,Staff,0,0,0,,Phòng bên này trống rồi đấy!
 Dialogue: 0,0:47:04.63,0:47:05.76,Default,Masamichi,0,0,0,,Ồ, cảm ơn nhé!
 Dialogue: 0,0:47:05.76,0:47:07.76,Default,Masamichi,0,0,0,,Nào Aoi, vào tập thôi.
-Dialogue: 0,0:47:07.76,0:47:12.14,Default,Masamichi,0,0,0,,Nhóm giữ nhịp bọn mình mà không vững\Nthì ban nhạc chẳng ra hồn được đâu.
+Dialogue: 0,0:47:07.76,0:47:12.14,Default,Masamichi,0,0,0,,Nhóm giữ nhịp bọn mình mà không chắc\Nthì hỏng hết đấy.
 Dialogue: 0,0:47:12.14,0:47:14.19,Default,Aoi,0,0,0,,Em biết rồi mà!
 Dialogue: 0,0:47:15.48,0:47:18.32,Default,Chika,0,0,0,,Shinno với Shinnosuke à...
 Dialogue: 0,0:47:18.32,0:47:22.69,Default,Chika,0,0,0,,Ai cũng được, nhưng anh ấy\Nkhông ở đây thì mình về thôi.
 Dialogue: 0,0:47:26.53,0:47:28.83,Top,Male Student,0,0,0,,Đoạn guitar solo chỗ đó đỉnh thật đấy.
 Dialogue: 0,0:47:28.83,0:47:29.99,Top,Male Student,0,0,0,,Công nhận hay thật!
-Dialogue: 0,0:47:29.99,0:47:30.54,Top,Male Student,0,0,0,,Chơi được?
-Dialogue: 0,0:47:30.91,0:47:32.25,Top,Male Student,0,0,0,,Không, tôi thì chịu thôi.
+Dialogue: 0,0:47:29.99,0:47:30.54,Top,Male Student,0,0,0,,Đánh nổi không?
+Dialogue: 0,0:47:30.91,0:47:32.25,Top,Male Student,0,0,0,,Chịu, tao đánh không nổi.
 Dialogue: 0,0:47:57.44,0:47:59.06,Default,Chika,0,0,0,,Tìm thấy anh rồi!
 Dialogue: 0,0:48:09.37,0:48:10.53,Default,Aoi,0,0,0,,Được rồi.
 Dialogue: 0,0:48:11.83,0:48:12.87,Default,Aoi,0,0,0,,Lại lần nữa nào.
 Dialogue: 0,0:48:12.87,0:48:14.70,Default,Shinno,0,0,0,,Này, em ổn không đấy?
 Dialogue: 0,0:48:14.70,0:48:17.08,Default,Shinno,0,0,0,,Em tập liền tù tì nãy giờ rồi đấy.
-Dialogue: 0,0:48:17.08,0:48:20.59,Default,Shinno,0,0,0,,Trước khi tới đây em còn tập chung\Nvới Michinko nữa đúng không?
+Dialogue: 0,0:48:17.08,0:48:20.59,Default,Shinno,0,0,0,,Trước khi qua đây còn tập với\NMichinko rồi đúng không?
 Dialogue: 0,0:48:20.59,0:48:22.05,Default,Aoi,0,0,0,,Không sao đâu.
 Dialogue: 0,0:48:22.05,0:48:24.09,Default,Shinno,0,0,0,,Với lại cũng sắp 9 giờ rồi đấy.
 Dialogue: 0,0:48:24.09,0:48:27.43,Default,Aoi,0,0,0,,Gặp lúc thế này, Michinko\Ncũng sẽ cho qua thôi.
@@ -839,18 +839,18 @@ Dialogue: 0,0:48:30.51,0:48:33.27,Default,Aoi,0,0,0,,Có định học lên đ�
 Dialogue: 0,0:48:33.27,0:48:35.35,Default,Shinno,0,0,0,,Ồ, thế em định làm gì?
 Dialogue: 0,0:48:38.10,0:48:40.19,Default,Shinno,0,0,0,,Lên Tokyo chơi ban nhạc.
 Dialogue: 0,0:48:40.19,0:48:41.31,Default,Shinno,0,0,0,,Ồ!
-Dialogue: 0,0:48:41.31,0:48:44.78,Default,Shinno,0,0,0,,Người nối chí của anh lại ở ngay\Ntrước mắt này sao!
-Dialogue: 0,0:48:44.78,0:48:48.24,Default,Aoi,0,0,0,,Đừng khen em thẳng thừng thế chứ.
+Dialogue: 0,0:48:41.31,0:48:44.78,Default,Shinno,0,0,0,,Người nối nghiệp anh lại ở ngay đây sao!
+Dialogue: 0,0:48:44.78,0:48:48.24,Default,Aoi,0,0,0,,Đừng khen em thật lòng thế chứ.
 Dialogue: 0,0:48:48.24,0:48:51.37,Default,Aoi,0,0,0,,Lý do của em chẳng tốt đẹp gì đâu.
 Dialogue: 0,0:48:51.37,0:48:52.24,Default,Aoi,0,0,0,,Không tốt đẹp á?
-Dialogue: 0,0:48:53.45,0:48:56.75,Default,Aoi,0,0,0,,Lý do em muốn rời khỏi thị trấn này
+Dialogue: 0,0:48:53.45,0:48:56.75,Default,Aoi,0,0,0,,Em muốn rời khỏi thị trấn này
 Dialogue: 0,0:48:58.12,0:49:01.92,Default,Aoi,0,0,0,,là để Aka-nee được sống theo ý chị ấy.
-Dialogue: 0,0:49:02.46,0:49:10.22,Default,Aoi,0,0,0,,Vì em mà chắc Aka-nee đã phải\Nbỏ lỡ biết bao điều chị ấy muốn làm.
-Dialogue: 0,0:49:11.47,0:49:17.39,Default,Aoi,0,0,0,,Nếu em cứ ở lại đây, Aka-nee\Nsẽ mãi bị níu chân ở chỗ này mất.
-Dialogue: 0,0:49:18.48,0:49:22.94,Default,Aoi,0,0,0,,Hơn nữa, em cũng chẳng có\Nthứ gì đặc biệt muốn làm cả.
+Dialogue: 0,0:49:02.46,0:49:10.22,Default,Aoi,0,0,0,,Vì em mà chắc Aka-nee phải\Nnhịn bao nhiêu thứ chị ấy muốn làm.
+Dialogue: 0,0:49:11.47,0:49:17.39,Default,Aoi,0,0,0,,Em mà ở lại đây, Aka-nee\Nsẽ mãi bị trói chân ở đây mất.
+Dialogue: 0,0:49:18.48,0:49:22.94,Default,Aoi,0,0,0,,Với lại em cũng chẳng có\Nthứ gì muốn làm cả.
 Dialogue: 0,0:49:22.94,0:49:25.98,Default,Aoi,0,0,0,,Em không muốn chị ấy tốn tiền vô ích.
-Dialogue: 0,0:49:25.98,0:49:29.91,Default,Aoi,0,0,0,,Em không muốn vì mình mà làm\Nphiền chị ấy thêm nữa đâu.
-Dialogue: 0,0:49:30.78,0:49:33.20,Default,Shinno,0,0,0,,Em tự trách bản thân quá rồi đấy.
+Dialogue: 0,0:49:25.98,0:49:29.91,Default,Aoi,0,0,0,,Em không muốn làm phiền\Nchị ấy thêm nữa.
+Dialogue: 0,0:49:30.78,0:49:33.20,Default,Shinno,0,0,0,,Em tự trách mình quá rồi đấy.
 Dialogue: 0,0:49:33.20,0:49:34.95,Default,Shinno,0,0,0,,Chẳng ai nghĩ là lỗi của em—
 Dialogue: 0,0:49:34.95,0:49:37.29,Default,Aoi,0,0,0,,Ai mà chẳng nghĩ thế chứ!
 Dialogue: 0,0:49:37.29,0:49:40.25,Default,Aoi,0,0,0,,Cả mấy cô hàng xóm lẫn họ hàng nữa.
@@ -862,20 +862,20 @@ Dialogue: 0,0:49:53.01,0:49:55.18,Default,Shinno,0,0,0,,Em biết không...
 Dialogue: 0,0:49:56.26,0:50:00.89,Default,Shinno,0,0,0,,Anh cứ nghĩ mãi tại sao mình lại ở đây.
 Dialogue: 0,0:50:00.89,0:50:03.19,Default,Shinno,0,0,0,,Hồn sống ấy à?
 Dialogue: 0,0:50:04.44,0:50:08.24,Default,Shinno,0,0,0,,Anh nghĩ chẳng phải do vương vấn gì đâu.
-Dialogue: 0,0:50:08.24,0:50:16.37,Default,Shinno,0,0,0,,Nhưng thật ra, có khi trong lòng anh\Nlại đang sợ phải rời khỏi đây.
-Dialogue: 0,0:50:16.95,0:50:20.29,Default,Shinno,0,0,0,,Xét khoản đó thì em giỏi thật đấy.
-Dialogue: 0,0:50:20.29,0:50:21.92,Default,Shinno,0,0,0,,Dù trong lòng đầy băn khoăn,
-Dialogue: 0,0:50:22.75,0:50:27.55,Default,Shinno,0,0,0,,em vẫn tự nghĩ kỹ càng,\Nrồi quyết tâm rời khỏi đây.
+Dialogue: 0,0:50:08.24,0:50:16.37,Default,Shinno,0,0,0,,Nhưng thật ra, có khi anh lại\Nsợ phải rời khỏi đây.
+Dialogue: 0,0:50:16.95,0:50:20.29,Default,Shinno,0,0,0,,Khoản đó thì em giỏi thật.
+Dialogue: 0,0:50:20.29,0:50:21.92,Default,Shinno,0,0,0,,Dù lo nghĩ đủ thứ,
+Dialogue: 0,0:50:22.75,0:50:27.55,Default,Shinno,0,0,0,,em vẫn nghĩ kỹ rồi\Nquyết định rời khỏi đây.
 Dialogue: 0,0:50:30.63,0:50:31.59,Default,Shinno,0,0,0,,Hả?
 Dialogue: 0,0:50:32.63,0:50:34.72,Default,Aoi,0,0,0,,Em trả đũa vụ lần trước đấy.
 Dialogue: 0,0:50:34.72,0:50:36.47,Default,Shinno,0,0,0,,Trả đũa á? Này, em—
 Dialogue: 0,0:50:36.47,0:50:39.39,Default,Aoi,0,0,0,,Tay bass phải nâng đỡ mọi người mà!
 Dialogue: 0,0:50:43.31,0:50:44.48,Default,Shinno,0,0,0,,Ừ, phải rồi nhỉ!
-Dialogue: 0,0:50:44.48,0:50:46.98,Default,Shinno,0,0,0,,Đúng là tay bass tương lai của ban nhạc anh!
-Dialogue: 0,0:50:46.98,0:50:49.65,Default,Shinno,0,0,0,,Ủa khoan? Bây giờ chính là\Ntương lai rồi nhỉ.
+Dialogue: 0,0:50:44.48,0:50:46.98,Default,Shinno,0,0,0,,Đúng là tay bass tương lai của nhóm anh!
+Dialogue: 0,0:50:46.98,0:50:49.65,Default,Shinno,0,0,0,,Ủa khoan? Giờ là tương lai rồi nhỉ.
 Dialogue: 0,0:50:49.65,0:50:50.36,Default,Shinno,0,0,0,,Thế nghĩa là—
 Dialogue: 0,0:50:50.36,0:50:51.70,Default,Aoi,0,0,0,,Anh vẫn nhớ sao?
-Dialogue: 0,0:50:52.82,0:50:56.87,Default,Shinno,0,0,0,,Nhớ hay không gì chứ,\Nanh đã hứa với em rồi mà!
+Dialogue: 0,0:50:52.82,0:50:56.87,Default,Shinno,0,0,0,,Nhớ gì chứ, anh hứa với em rồi mà!
 Dialogue: 0,0:50:56.87,0:50:59.58,Default,Shinno,0,0,0,,Chẳng phải vì thế em mới chơi bass sao?
 Dialogue: 0,0:51:06.59,0:51:08.80,Default,Aoi,0,0,0,,Làm thế với em nữa đi.
 Dialogue: 0,0:51:08.80,0:51:10.92,Default,Shinno,0,0,0,,Hả? Xoa đầu em á?
@@ -890,17 +890,17 @@ Dialogue: 0,0:51:28.06,0:51:30.61,Default,Aoi,0,0,0,,Thôi, hẹn gặp anh ngà
 Dialogue: 0,0:51:31.11,0:51:31.65,Default,Shinno,0,0,0,,Này!
 Dialogue: 0,0:51:32.40,0:51:33.95,Default,Shinno,0,0,0,,Ao ơi?!
 Dialogue: 0,0:51:47.92,0:51:50.80,Default,Aoi,0,0,0,,Mình đang làm cái quái gì thế này?
-Dialogue: 0,0:51:54.59,0:51:59.14,Italics,Aoi,0,0,0,,Mình phải ghép đôi Aka-nee\Nvới Shinnosuke-san cho đàng hoàng.
+Dialogue: 0,0:51:54.59,0:51:59.14,Italics,Aoi,0,0,0,,Mình phải giúp Aka-nee với\NShinnosuke-san thành đôi mới được.
 Dialogue: 0,0:51:59.14,0:52:00.93,Italics,Aoi,0,0,0,,Vì Aka-nee,
 Dialogue: 0,0:52:02.10,0:52:04.14,Italics,Aoi,0,0,0,,và vì cả Shinno nữa.
 Dialogue: 0,0:52:07.77,0:52:08.31,Top,Student,0,0,0,,Chào nhé!
 Dialogue: 0,0:52:08.31,0:52:08.77,Top,Student,0,0,0,,Chào cậu!
 Dialogue: 0,0:52:34.13,0:52:38.13,Top,Female Student,0,0,0,,Này nghe chưa, hôm qua Chika\Nđi với trai đấy!
 Dialogue: 0,0:52:38.13,0:52:39.30,Top,Female Student,0,0,0,,Hả, thật luôn á?
-Dialogue: 0,0:52:39.30,0:52:42.72,Top,Female Student,0,0,0,,Ừ! Lại còn lớn tuổi, kiểu chú\Ntrung niên phong trần lắm cơ.
-Dialogue: 0,0:52:42.72,0:52:43.77,Top,Female Student,0,0,0,,Chú trung niên á?
+Dialogue: 0,0:52:39.30,0:52:42.72,Top,Female Student,0,0,0,,Ừ! Lớn tuổi, kiểu ông chú\Nphong trần lắm cơ.
+Dialogue: 0,0:52:42.72,0:52:43.77,Top,Female Student,0,0,0,,Ông chú á?
 Dialogue: 0,0:52:43.77,0:52:45.98,Top,Female Student,0,0,0,,Nhưng nghe bảo trông bảnh lắm đấy.
-Dialogue: 0,0:52:45.98,0:52:47.19,Top,Female Student,0,0,0,,Hay là giàu có nhỉ?
+Dialogue: 0,0:52:45.98,0:52:47.19,Top,Female Student,0,0,0,,Chắc nhiều tiền nhỉ?
 Dialogue: 0,0:52:50.98,0:52:52.61,Default,Chika,0,0,0,,Chào buổi sáng, Aio—
 Dialogue: 0,0:52:52.61,0:52:54.11,Default,Chika,0,0,0,,Hả?
 Dialogue: 0,0:52:54.11,0:52:55.65,Default,Chika,0,0,0,,Cái gì thế?!
@@ -908,11 +908,11 @@ Dialogue: 0,0:52:56.53,0:52:59.86,Default,Chika,0,0,0,,Đau đấy! Buông tớ 
 Dialogue: 0,0:53:00.99,0:53:03.99,Default,Aoi,0,0,0,,Người đi cùng cậu hôm qua...
 Dialogue: 0,0:53:03.99,0:53:06.29,Default,Chika,0,0,0,,Là Shinnosuke-san chứ ai?
 Dialogue: 0,0:53:07.79,0:53:08.87,Default,Aoi,0,0,0,,Thật kinh tởm!
-Dialogue: 0,0:53:08.87,0:53:14.63,Default,Chika,0,0,0,,Khoan đã, hóa ra Aioi-san cũng thích\NShinnosuke-san thật à?
+Dialogue: 0,0:53:08.87,0:53:14.63,Default,Chika,0,0,0,,Hóa ra Aioi-san thích\NShinnosuke-san thật à?
 Dialogue: 0,0:53:14.63,0:53:16.21,Default,Aoi,0,0,0,,Đời nào có chuyện đó!
 Dialogue: 0,0:53:16.21,0:53:17.67,Default,Aoi,0,0,0,,Tớ là thích Shinno—
 Dialogue: 0,0:53:22.89,0:53:23.56,Default,Chika,0,0,0,,Trời ạ.
-Dialogue: 0,0:53:23.89,0:53:27.93,Default,Chika,0,0,0,,Tớ đâu có đời nào đi đụng vào\Nngười của bạn mình chứ.
+Dialogue: 0,0:53:23.89,0:53:27.93,Default,Chika,0,0,0,,Tớ chẳng đời nào đụng vào\Nngười của bạn mình đâu.
 Dialogue: 0,0:53:27.93,0:53:31.40,Default,Chika,0,0,0,,Shinno với Shinnosuke-san\Nlà hai người khác nhau đúng không?
 Dialogue: 0,0:53:31.40,0:53:32.40,Default,Aoi,0,0,0,,Đúng thế!
 Dialogue: 0,0:53:32.40,0:53:36.65,Default,Chika,0,0,0,,Và Aioi-san lại thích Shinno kia.
@@ -930,19 +930,19 @@ Dialogue: 0,0:54:25.95,0:54:26.66,Default,Akane,0,0,0,,Ơ...
 Dialogue: 0,0:54:27.24,0:54:29.20,Default,Akane,0,0,0,,A-Aoi?
 Dialogue: 0,0:54:30.58,0:54:32.25,Default,Akane,0,0,0,,Làm chị hết cả hồn.
 Dialogue: 0,0:54:32.71,0:54:35.79,Default,Akane,0,0,0,,Thật là, về sớm thì phải\Nbáo chị một tiếng chứ.
-Dialogue: 0,0:54:35.79,0:54:39.26,Default,Akane,0,0,0,,Chị gọi cho em mãi mà\Nchẳng liên lạc được gì cả.
+Dialogue: 0,0:54:35.79,0:54:39.26,Default,Akane,0,0,0,,Chị gọi mãi chẳng liên lạc được.
 Dialogue: 0,0:54:39.96,0:54:41.55,Default,Aoi,0,0,0,,Tại sao?
 Dialogue: 0,0:54:43.26,0:54:44.89,Default,Aoi,0,0,0,,Shinno...
 Dialogue: 0,0:54:45.80,0:54:48.72,Default,Aoi,0,0,0,,Sao chị không đi theo Shinnosuke-san?
 Dialogue: 0,0:54:51.02,0:54:52.31,Default,Akane,0,0,0,,Hả? Sao tự dưng hỏi thế?
 Dialogue: 0,0:54:52.31,0:54:53.98,Default,Aoi,0,0,0,,Nếu Aka-nee đi theo anh ấy,
-Dialogue: 0,0:54:54.44,0:54:58.69,Default,Aoi,0,0,0,,chắc Shinnosuke-san đã không\Nthành ra kẻ tồi tệ như thế đâu!
+Dialogue: 0,0:54:54.44,0:54:58.69,Default,Aoi,0,0,0,,chắc Shinnosuke-san đã không\Nthành ra đồ tồi thế đâu!
 Dialogue: 0,0:54:59.28,0:55:03.07,Default,Aoi,0,0,0,,Biết đâu anh ấy đã mãi là\NShinno của ngày xưa rồi!
 Dialogue: 0,0:55:04.32,0:55:06.28,Default,Akane,0,0,0,,Ơ, em đang nói chuyện gì thế?
-Dialogue: 0,0:55:06.28,0:55:10.33,Default,Aoi,0,0,0,,Em không muốn trở thành\Nngười như Aka-nee đâu!
+Dialogue: 0,0:55:06.28,0:55:10.33,Default,Aoi,0,0,0,,Em không muốn giống như Aka-nee đâu!
 Dialogue: 0,0:55:11.91,0:55:15.33,Default,Aoi,0,0,0,,Cứ phải nhịn thứ mình thích\Nrồi lại hối hận.
 Dialogue: 0,0:55:15.33,0:55:17.21,Italics,Aoi,0,0,0,,Không phải!
-Dialogue: 0,0:55:17.21,0:55:20.00,Default,Aoi,0,0,0,,Rồi cứ thế chôn vùi cả đời ở cái chốn này.
+Dialogue: 0,0:55:17.21,0:55:20.00,Default,Aoi,0,0,0,,Cứ thế hết đời ở cái chỗ này.
 Dialogue: 0,0:55:20.34,0:55:22.63,Default,Aoi,0,0,0,,Em tuyệt đối không chịu đâu!
 Dialogue: 0,0:55:22.63,0:55:26.72,Italics,Aoi,0,0,0,,Đây đâu phải điều mình muốn nói!
 Dialogue: 0,0:55:26.72,0:55:28.51,Default,Aoi,0,0,0,,Aka-nee đúng là...
@@ -955,23 +955,23 @@ Dialogue: 0,0:56:40.25,0:56:42.25,Default,Akane,0,0,0,,Ủa, cửa mở này.
 Dialogue: 0,0:56:43.76,0:56:47.26,Default,Akane,0,0,0,,Aoi ơi! Em có ở trong đó không?
 Dialogue: 0,0:57:05.90,0:57:10.11,Default,Akane,0,0,0,,"Không muốn giống như chị"... sao.
 Dialogue: 0,0:57:39.39,0:57:41.44,Default,Shinno,0,0,0,,Lại là tảo bẹ nữa à.
-Dialogue: 0,0:57:45.40,0:57:53.41,Default,Aoi,0,0,0,,Chị nghĩ mình đúng là\Nkẻ chẳng ra gì thật rồi.
+Dialogue: 0,0:57:45.40,0:57:53.41,Default,Aoi,0,0,0,,Chị thấy mình đúng là\Nđồ chẳng ra gì thật.
 Dialogue: 0,0:57:53.41,0:57:54.28,Default,Tsugu,0,0,0,,Ừm.
-Dialogue: 0,0:57:54.28,0:58:01.29,Default,Tsugu,0,0,0,,{\fscx96}Nhắn sai học sinh tiểu học đi lấy đàn bass,\Nrồi tự tiện vào phòng nằm ườn như nhà mình.
+Dialogue: 0,0:57:54.28,0:58:01.29,Default,Tsugu,0,0,0,,{\fscx96}Nhắn sai đứa tiểu học đi lấy đàn bass,\Nrồi xộc vào phòng nằm ườn như nhà mình.
 Dialogue: 0,0:58:01.29,0:58:03.67,Default,Tsugu,0,0,0,,Thế thì đúng là hết thuốc chữa thật.
-Dialogue: 0,0:58:03.96,0:58:07.13,Default,Aoi,0,0,0,,Nhưng cái tên Shinnosuke đó\Ncòn tệ hơn chị gấp nghìn lần ấy!
+Dialogue: 0,0:58:03.96,0:58:07.13,Default,Aoi,0,0,0,,Nhưng cái tên Shinnosuke đó\Ncòn tệ hơn chị gấp nghìn lần!
 Dialogue: 0,0:58:07.13,0:58:08.63,Default,Tsugu,0,0,0,,Ao-chan, lộ quần lót kìa.
 Dialogue: 0,0:58:13.80,0:58:16.31,Default,Tsugu,0,0,0,,Ao-chan, bình tĩnh lại đã.
 Dialogue: 0,0:58:16.31,0:58:17.52,Default,Aoi,0,0,0,,Michinko!
 Dialogue: 0,0:58:19.06,0:58:22.52,Default,Aoi,0,0,0,,Em sẽ giúp anh với Aka-nee\Nđến được với nhau!
 Dialogue: 0,0:58:27.48,0:58:29.86,Default,Tsugu,0,0,0,,Bố ơi, khuya rồi đấy.
-Dialogue: 0,0:58:30.78,0:58:36.91,Default,Masamichi,0,0,0,,A-Aoi, chẳng phải em từng phản đối\Nchuyện lấy người đã ly hôn lắm sao?!
+Dialogue: 0,0:58:30.78,0:58:36.91,Default,Masamichi,0,0,0,,A-Aoi, em từng kịch liệt phản đối\Nngười đã ly hôn mà?!
 Dialogue: 0,0:58:36.91,0:58:38.37,Default,Aoi,0,0,0,,Em xin rút lại lời đó.
 Dialogue: 0,0:58:38.79,0:58:42.37,Default,Aoi,0,0,0,,Thà để anh còn hơn để\Ngã Shinnosuke đó cướp mất chị ấy.
-Dialogue: 0,0:58:44.75,0:58:49.21,Default,Masamichi,0,0,0,,Anh biết ơn em lắm,\Nnhưng chuyện này anh không cần em giúp đâu.
-Dialogue: 0,0:58:50.42,0:58:56.22,Default,Masamichi,0,0,0,,Lý do anh quyết định nhờ Nitobe-san\Nlần này chính là vì có Shinno đấy.
-Dialogue: 0,0:59:01.02,0:59:04.98,Default,Masamichi,0,0,0,,Anh nghĩ phải gỡ hết mấy khúc mắc\Ntrong lòng ra thì mới bước tiếp được.
-Dialogue: 0,0:59:05.35,0:59:09.11,Default,Masamichi,0,0,0,,Đến cái tuổi này là vậy đấy,\Ncả anh lẫn Akane đều thế.
+Dialogue: 0,0:58:44.75,0:58:49.21,Default,Masamichi,0,0,0,,Cảm ơn em nhé, nhưng anh\Nkhông cần em giúp đâu.
+Dialogue: 0,0:58:50.42,0:58:56.22,Default,Masamichi,0,0,0,,Anh chọn mời Nitobe-san lần này\Nchính là vì có Shinno đấy.
+Dialogue: 0,0:59:01.02,0:59:04.98,Default,Masamichi,0,0,0,,Phải gỡ hết khúc mắc trong lòng\Nthì mới bước tiếp được.
+Dialogue: 0,0:59:05.35,0:59:09.11,Default,Masamichi,0,0,0,,Tới tuổi này rồi mà,\Ncả anh lẫn Akane đều thế.
 Dialogue: 0,0:59:13.70,0:59:14.53,Default,Masamichi,0,0,0,,Lạnh quá!
 Dialogue: 0,0:59:14.53,0:59:16.41,Default,Masamichi,0,0,0,,Này, làm cái gì thế Aoi?
 Dialogue: 0,0:59:16.41,0:59:17.58,Default,Aoi,0,0,0,,Bẩn thỉu!
@@ -984,21 +984,21 @@ Dialogue: 0,0:59:52.78,0:59:54.86,Default,Chika,0,0,0,,Cái này để đâu đ�
 Dialogue: 0,0:59:54.86,0:59:57.03,Default,Akane,0,0,0,,À, để chị cầm cho nhé.
 Dialogue: 0,0:59:57.66,1:00:00.28,Default,Akane,0,0,0,,Xin lỗi nhé, thứ Bảy mà bắt em làm thế này.
 Dialogue: 0,1:00:00.28,1:00:04.29,Default,Akane,0,0,0,,Không có gì đâu ạ! Em không vào\Ncâu lạc bộ nên rảnh lắm.
-Dialogue: 0,1:00:04.29,1:00:08.13,Default,Akane,0,0,0,,Em sẽ phụ hết mình cho tới tận\Nbuổi diễn ngày kia luôn.
+Dialogue: 0,1:00:04.29,1:00:08.13,Default,Akane,0,0,0,,Em sẽ phụ hết mình tới tận\Nhôm diễn ngày kia luôn.
 Dialogue: 0,1:00:08.13,1:00:10.84,Default,Akane,0,0,0,,A, Aioi ơi!
 Dialogue: 0,1:00:10.84,1:00:12.80,Default,Akane,0,0,0,,Này!
 Dialogue: 0,1:00:16.13,1:00:18.43,Default,Akane,0,0,0,,Ôi... Lại bị bơ rồi.
 Dialogue: 0,1:00:24.73,1:00:26.48,Default,Akane,0,0,0,,Em chào anh.
 Dialogue: 0,1:00:27.48,1:00:30.73,Default,Akane,0,0,0,,Bên ánh sáng đang tìm anh\Nđể xác nhận vị trí đứng đấy ạ.
 Dialogue: 0,1:00:30.73,1:00:32.23,Default,Band Member,0,0,0,,Ồ, tôi biết rồi.
-Dialogue: 0,1:00:32.23,1:00:36.57,Default,Akane,0,0,0,,Hình như họ cũng đang tìm Shin—\NÝ em là Kanamuro-san nữa đấy ạ.
+Dialogue: 0,1:00:32.23,1:00:36.57,Default,Akane,0,0,0,,Hình như họ cũng tìm Shin—\NÝ em là Kanamuro-san nữa ạ.
 Dialogue: 0,1:00:36.57,1:00:37.20,Default,Band Member,0,0,0,,À.
-Dialogue: 0,1:00:37.20,1:00:40.58,Default,Band Member,0,0,0,,Không sao, để tôi đứng thế\Nvà xác nhận thay cậu ấy cho.
+Dialogue: 0,1:00:37.20,1:00:40.58,Default,Band Member,0,0,0,,Thôi, để tôi làm thay cậu ấy cho.
 Dialogue: 0,1:00:40.58,1:00:42.49,Default,Akane,0,0,0,,Ơ, nhưng mà...
 Dialogue: 0,1:00:42.49,1:00:44.70,Default,Band Member,0,0,0,,Đây là quê nhà của cậu ấy nhỉ?
-Dialogue: 0,1:00:44.70,1:00:47.62,Default,Band Member,0,0,0,,Chắc cũng có nhiều chuyện khó xử lắm.
+Dialogue: 0,1:00:44.70,1:00:47.62,Default,Band Member,0,0,0,,Chắc cũng nhiều chuyện khó xử lắm.
 Dialogue: 0,1:00:47.62,1:00:48.71,Default,Band Member,0,0,0,,Chuyện khó xử á?
-Dialogue: 0,1:00:49.13,1:00:54.17,Default,Band Member,0,0,0,,Tôi thì chỉ chuyên làm hậu trường thôi,\Nnhưng cậu ấy từng ra mắt solo đấy.
+Dialogue: 0,1:00:49.13,1:00:54.17,Default,Band Member,0,0,0,,Tôi thì chỉ làm hậu trường thôi,\Nchứ cậu ấy từng ra mắt solo đấy.
 Dialogue: 0,1:00:54.17,1:00:57.18,Default,Band Member,0,0,0,,Nhưng cũng chỉ ra đúng một bài rồi thôi.
 Dialogue: 0,1:01:07.77,1:01:08.60,Default,Shinno,0,0,0,,Yama.
 Dialogue: 0,1:01:08.60,1:01:10.19,Default,Tsugu,0,0,0,,Motoyama.
@@ -1016,8 +1016,8 @@ Dialogue: 0,1:01:38.93,1:01:42.43,Default,Shinno,0,0,0,,Nh-Nhóc đúng là đ�
 Dialogue: 0,1:01:42.93,1:01:45.31,Default,Tsugu,0,0,0,,Ừ thì, bây giờ là vậy.
 Dialogue: 0,1:01:45.31,1:01:52.48,Default,Tsugu,0,0,0,,Nhưng tới lúc em đi làm rồi, chênh chưa\Ntới chục tuổi cũng chẳng đáng gì đâu.
 Dialogue: 0,1:01:54.73,1:01:56.40,Default,Shinno,0,0,0,,À... ừ, cũng phải.
-Dialogue: 0,1:01:56.40,1:02:01.86,Default,Tsugu,0,0,0,,Thế nên phần học hành Ao-chan kém,\Nem sẽ cố gắng học bù thay chị ấy.
-Dialogue: 0,1:02:01.86,1:02:05.41,Default,Tsugu,0,0,0,,Em định sẽ trở thành\Nmột người đàn ông có giá trị.
+Dialogue: 0,1:01:56.40,1:02:01.86,Default,Tsugu,0,0,0,,Nên phần học hành Ao-chan kém,\Nem sẽ học bù thay chị ấy.
+Dialogue: 0,1:02:01.86,1:02:05.41,Default,Tsugu,0,0,0,,Em sẽ trở thành người đàn ông\Ncó giá trị.
 Dialogue: 0,1:02:06.45,1:02:08.58,Default,Shinno,0,0,0,,Ra thế.
 Dialogue: 0,1:02:09.41,1:02:11.75,Default,Shinno,0,0,0,,Nhóc khá lắm đấy.
 Dialogue: 0,1:02:12.79,1:02:15.54,Default,Tsugu,0,0,0,,Chỉ là giờ em lại có tình địch mất rồi.
@@ -1028,37 +1028,37 @@ Dialogue: 0,1:02:26.01,1:02:27.93,Default,Shinno,0,0,0,,N-Này! Khoan đã nào!
 Dialogue: 0,1:02:27.93,1:02:29.27,Default,Shinno,0,0,0,,Tsugu, bình tĩnh lại đi.
 Dialogue: 0,1:02:29.27,1:02:31.39,Default,Tsugu,0,0,0,,Câu đó em nói lại với anh mới đúng.
 Dialogue: 0,1:02:35.31,1:02:37.69,Default,Shinno,0,0,0,,Anh thì...
-Dialogue: 0,1:02:37.69,1:02:42.66,Default,Shinno,0,0,0,,Với lại, cảm giác của anh thì\Nanh mới vừa bị Akane đá xong.
+Dialogue: 0,1:02:37.69,1:02:42.66,Default,Shinno,0,0,0,,Với lại, theo cảm giác của anh thì\Nmới bị Akane đá hôm nọ xong.
 Dialogue: 0,1:02:42.66,1:02:45.91,Default,Shinno,0,0,0,,Mới hôm nào Aoi còn là con bé tí xíu.
 Dialogue: 0,1:02:45.91,1:02:46.62,Default,Shinno,0,0,0,,Với lại!
-Dialogue: 0,1:02:48.24,1:02:52.12,Default,Shinno,0,0,0,,Anh chỉ là hồn sống của Shinnosuke,\Ntrong cái bộ dạng này...
-Dialogue: 0,1:02:54.25,1:02:58.21,Default,Shinno,0,0,0,,Ao mà thích một kẻ như anh\Nthì cũng chẳng đi tới đâu cả.
+Dialogue: 0,1:02:48.24,1:02:52.12,Default,Shinno,0,0,0,,Anh chỉ là hồn sống của Shinnosuke,\Ntrông thế này...
+Dialogue: 0,1:02:54.25,1:02:58.21,Default,Shinno,0,0,0,,Ao có thích anh\Ncũng chẳng đi tới đâu cả.
 Dialogue: 0,1:02:58.21,1:03:00.13,Default,Tsugu,0,0,0,,Ừ. Em cũng nghĩ thế.
 Dialogue: 0,1:03:01.09,1:03:02.47,Default,Tsugu,0,0,0,,Thế nên...
 Dialogue: 0,1:03:04.59,1:03:06.35,Default,Chika,0,0,0,,Này, này.
 Dialogue: 0,1:03:06.72,1:03:09.47,Default,Chika,0,0,0,,Cậu định bơ tớ tới bao giờ nữa đây?
 Dialogue: 0,1:03:10.27,1:03:12.14,Default,Aoi,0,0,0,,Tránh xa tớ ra, đồ dễ dãi!
-Dialogue: 0,1:03:13.44,1:03:17.32,Default,Chika,0,0,0,,Chà, đặt biệt danh nặng lời quá đấy.
-Dialogue: 0,1:03:18.44,1:03:22.78,Default,Chika,0,0,0,,Tớ đã bảo là chẳng có\Nchuyện gì xảy ra rồi mà.
+Dialogue: 0,1:03:13.44,1:03:17.32,Default,Chika,0,0,0,,Chà, đặt biệt danh gắt quá đấy.
+Dialogue: 0,1:03:18.44,1:03:22.78,Default,Chika,0,0,0,,Đã bảo là chẳng có chuyện gì rồi mà.
 Dialogue: 0,1:03:22.78,1:03:24.78,Default,Aoi,0,0,0,,Đời nào có chuyện không có gì!
 Dialogue: 0,1:03:24.78,1:03:29.45,Default,Aoi,0,0,0,,Đồ vô lại cộng với đứa dễ dãi\Nbằng quan hệ nam nữ bất—
 Dialogue: 0,1:03:29.45,1:03:32.71,Default,Chika,0,0,0,,Chính tớ cũng bất ngờ lắm đấy nhé.
 Dialogue: 0,1:03:32.71,1:03:34.92,Default,Chika,0,0,0,,Cả buổi anh ấy nghiêm túc kinh khủng.
 Dialogue: 0,1:03:34.92,1:03:36.25,Default,Chika,0,0,0,,Đúng là đồ nhát gan.
-Dialogue: 0,1:03:38.34,1:03:42.92,Default,Chika,0,0,0,,Chàng hoàng tử đưa mình thoát khỏi nơi này\Nđang trốn ở phương nào rồi nhỉ?
+Dialogue: 0,1:03:38.34,1:03:42.92,Default,Chika,0,0,0,,Hoàng tử tới đón mình khỏi nơi này\Nđang ở phương nào rồi nhỉ?
 Dialogue: 0,1:03:42.92,1:03:46.64,Top,Staff,0,0,0,,Ohtaki ơi, tờ danh sách đăng ký\Nanh nhờ em đâu rồi?
 Dialogue: 0,1:03:46.64,1:03:51.10,Default,Chika,0,0,0,,Á, em xin lỗi! Em để nó trên xe đẩy\Nngay ngoài cửa vào rồi ạ!
 Dialogue: 0,1:04:48.53,1:04:50.57,Default,Akane,0,0,0,,Sao anh lại dừng thế?
 Dialogue: 0,1:04:53.54,1:04:55.25,Default,Shinnosuke,0,0,0,,Đánh tiếp đi.
-Dialogue: 0,1:05:04.26,1:05:11.35,Default,Shinnosuke,0,0,0,,Anh cứ ngỡ hễ rời khỏi đây lên Tokyo,\Nmọi ước mơ của mình sẽ thành hiện thực.
+Dialogue: 0,1:05:04.26,1:05:11.35,Default,Shinnosuke,0,0,0,,Anh cứ tưởng lên Tokyo rồi,\Nmọi ước mơ sẽ thành hiện thực.
 Dialogue: 0,1:05:11.35,1:05:14.01,Default,Shinnosuke,0,0,0,,Nhưng hóa ra chẳng phải.
 Dialogue: 0,1:05:15.14,1:05:19.44,Default,Shinnosuke,0,0,0,,Ước mơ thành hiện thực rồi mà.\NAnh vẫn kiếm sống bằng guitar đấy thôi.
-Dialogue: 0,1:05:19.44,1:05:24.32,Default,Shinnosuke,0,0,0,,Anh đâu có muốn làm chân đánh đàn\Ncho ban nhạc phụ họa của ca sĩ enka.
+Dialogue: 0,1:05:19.44,1:05:24.32,Default,Shinnosuke,0,0,0,,Anh đâu có muốn đánh đàn đệm\Ncho ca sĩ enka đâu.
 Dialogue: 0,1:05:24.32,1:05:25.07,Default,Akane,0,0,0,,Nhưng—
 Dialogue: 0,1:05:25.07,1:05:27.90,Default,Shinnosuke,0,0,0,,Không phải anh phàn nàn gì đâu.
 Dialogue: 0,1:05:27.90,1:05:30.28,Default,Shinnosuke,0,0,0,,Anh rất biết ơn Nitobe-san.
 Dialogue: 0,1:05:30.28,1:05:33.41,Default,Shinnosuke,0,0,0,,Còn được gắn bó với âm nhạc\Nđã là may lắm rồi.
-Dialogue: 0,1:05:34.54,1:05:41.42,Default,Shinnosuke,0,0,0,,Chỉ là anh không biết có đáng phải vứt bỏ\Nbao nhiêu thứ để rời khỏi đây hay không.
+Dialogue: 0,1:05:34.54,1:05:41.42,Default,Shinnosuke,0,0,0,,Chỉ không biết có đáng vứt bỏ\Nbao thứ để bỏ đi hay không.
 Dialogue: 0,1:05:46.26,1:05:50.05,Default,Akane,0,0,0,,Vậy em yêu cầu một bài khác được không?
 Dialogue: 0,1:05:54.47,1:05:56.72,Default,Akane,0,0,0,,"Người Biết Sắc Xanh Bầu Trời".
 Dialogue: 0,1:05:59.64,1:06:00.56,Default,Shinnosuke,0,0,0,,Sao em lại—
@@ -1070,26 +1070,26 @@ Dialogue: 0,1:07:11.55,1:07:14.55,Default,Akane,0,0,0,,Gì thế hả? Hát đà
 Dialogue: 0,1:07:14.55,1:07:17.01,Default,Shinnosuke,0,0,0,,Tiếp theo, phong cách thầy dạy toán Saito!
 Dialogue: 0,1:07:25.60,1:07:26.73,Italics,Aoi,0,0,0,,Aka-nee...
 Dialogue: 0,1:07:27.82,1:07:29.69,Italics,Aoi,0,0,0,,và...
-Dialogue: 0,1:07:32.36,1:07:36.45,Italics,Aoi,0,0,0,,người có thể khiến Aka-nee cười như thế,
+Dialogue: 0,1:07:32.36,1:07:36.45,Italics,Aoi,0,0,0,,người làm Aka-nee cười được như thế,
 Dialogue: 0,1:07:37.91,1:07:39.16,Italics,Aoi,0,0,0,,đúng là...
 Dialogue: 0,1:07:42.96,1:07:46.25,Italics,Aoi,0,0,0,,vẫn là Shinno mà.
 Dialogue: 0,1:07:50.25,1:07:52.21,Default,Shinnosuke,0,0,0,,Vâng, xin cảm ơn quý vị rất nhiều.
 Dialogue: 0,1:07:54.72,1:07:56.84,Default,Akane,0,0,0,,Ôi trời, cười đau cả bụng.
 Dialogue: 0,1:07:56.84,1:07:59.72,Default,Akane,0,0,0,,Thật là, đã bảo hát bình thường đi mà.
 Dialogue: 0,1:07:59.72,1:08:02.73,Default,Shinnosuke,0,0,0,,Công nhận ở bên em vẫn dễ chịu thật.
-Dialogue: 0,1:08:03.89,1:08:05.73,Default,Shinnosuke,0,0,0,,Kiểu thấy lòng bình yên hẳn.
+Dialogue: 0,1:08:03.89,1:08:05.73,Default,Shinnosuke,0,0,0,,Kiểu thấy nhẹ nhõm hẳn.
 Dialogue: 0,1:08:06.94,1:08:09.19,Default,Shinnosuke,0,0,0,,Hay là anh quay về đây nhé?
-Dialogue: 0,1:08:10.23,1:08:13.82,Default,Shinnosuke,0,0,0,,Công việc hiện tại của anh cũng\Nchẳng có tương lai gì.
+Dialogue: 0,1:08:10.23,1:08:13.82,Default,Shinnosuke,0,0,0,,Việc bây giờ cũng chẳng có\Ntương lai gì đâu.
 Dialogue: 0,1:08:13.82,1:08:14.90,Italics,Aoi,0,0,0,,Không được!
 Dialogue: 0,1:08:15.24,1:08:17.11,Default,Shinnosuke,0,0,0,,Biết nói sao nhỉ?
-Dialogue: 0,1:08:17.11,1:08:22.33,Default,Shinnosuke,0,0,0,,Bạn bè quanh anh đều kiếm việc làm ổn định\Nvà yên bề gia thất cả rồi.
-Dialogue: 0,1:08:22.33,1:08:25.21,Default,Shinnosuke,0,0,0,,Có lẽ anh cũng tới tuổi\Nnên dừng lại rồi nhỉ.
+Dialogue: 0,1:08:17.11,1:08:22.33,Default,Shinnosuke,0,0,0,,Quanh anh ai cũng kiếm việc ổn định,\Nyên bề gia thất cả rồi.
+Dialogue: 0,1:08:22.33,1:08:25.21,Default,Shinnosuke,0,0,0,,Chắc anh cũng tới tuổi\Nnên ổn định rồi nhỉ.
 Dialogue: 0,1:08:25.21,1:08:26.71,Italics,Aoi,0,0,0,,Đừng mà!
 Dialogue: 0,1:08:26.71,1:08:29.59,Italics,Aoi,0,0,0,,Nếu thế thì Shinno sẽ biến mất mất!
 Dialogue: 0,1:08:29.59,1:08:31.30,Default,Akane,0,0,0,,Anh đang nói gì thế hả?
 Dialogue: 0,1:08:31.67,1:08:36.05,Default,Akane,0,0,0,,Thời buổi này, mới ngoài ba mươi\Nthì vẫn còn trẻ chán mà.
 Dialogue: 0,1:08:36.05,1:08:39.18,Default,Shinnosuke,0,0,0,,Còn sớm chán để mà an phận đấy.
-Dialogue: 0,1:08:41.26,1:08:44.77,Default,Akane,0,0,0,,Em vẫn còn những việc chỉ có thể làm ở đây.
+Dialogue: 0,1:08:41.26,1:08:44.77,Default,Akane,0,0,0,,Em còn việc chỉ ở đây mới làm được.
 Dialogue: 0,1:08:44.77,1:08:47.69,Default,Akane,0,0,0,,Em vẫn chưa từ bỏ gì cả đâu.
 Dialogue: 0,1:08:48.10,1:08:50.86,Default,Akane,0,0,0,,Ừ, giờ mới là bắt đầu thôi.
 Dialogue: 0,1:08:57.07,1:08:58.24,Default,Shinnosuke,0,0,0,,Ra thế.
@@ -1099,20 +1099,20 @@ Dialogue: 0,1:09:08.96,1:09:10.29,Default,Akane,0,0,0,,Anh quay lại à?
 Dialogue: 0,1:09:10.29,1:09:12.92,Default,Shinnosuke,0,0,0,,Ừ, anh cũng phải đi thôi.
 Dialogue: 0,1:09:13.21,1:09:14.67,Default,Shinnosuke,0,0,0,,Gặp lại sau nhé.
 Dialogue: 0,1:10:07.52,1:10:11.69,Italics,Aoi,0,0,0,,Hóa ra Aka-nee cũng khóc như thế sao.
-Dialogue: 0,1:10:13.02,1:10:15.44,Italics,Aoi,0,0,0,,Mình chẳng hề hay biết.
+Dialogue: 0,1:10:13.02,1:10:15.44,Italics,Aoi,0,0,0,,Mình chẳng biết luôn.
 Dialogue: 0,1:10:15.44,1:10:16.94,Italics,Aoi,0,0,0,,Cảnh chị ấy khóc...
-Dialogue: 0,1:10:19.57,1:10:22.24,Italics,Aoi,0,0,0,,Đã bao lâu rồi mình chưa từng thấy?
+Dialogue: 0,1:10:19.57,1:10:22.24,Italics,Aoi,0,0,0,,Bao lâu rồi mình chưa thấy nhỉ?
 Dialogue: 0,1:10:37.38,1:10:38.96,Default,Aoi,0,0,0,,Aka-nee, lấy hộ em lọ bôi—
 Dialogue: 0,1:10:58.07,1:10:59.90,Default,Aoi,0,0,0,,Thật là...
 Dialogue: 0,1:11:05.78,1:11:07.87,Default,Aoi,0,0,0,,"Chinh phục" ư...
 Dialogue: 0,1:11:33.56,1:11:35.19,Default,Akane,0,0,0,,Này Aoi! Em có sao—
 Dialogue: 0,1:11:35.19,1:11:35.65,Default,Aoi,0,0,0,,Ngon quá!
-Dialogue: 0,1:11:35.65,1:11:41.24,Default,Akane,0,0,0,,Thôi nào Aoi-kun, nếu rảnh rỗi thế\Nthì phụ chị một tay đi chứ.
+Dialogue: 0,1:11:35.65,1:11:41.24,Default,Akane,0,0,0,,Nào Aoi-kun, rảnh thế\Nthì phụ chị chút đi chứ.
 Dialogue: 0,1:11:41.24,1:11:42.11,Default,Aoi,0,0,0,,Không đời nào!
-Dialogue: 0,1:11:42.11,1:11:49.87,Default,Aoi,0,0,0,,Aka-nee chiên rán khéo lắm, nguyên liệu\Nđược người giỏi nấu chắc sướng lắm đấy.
+Dialogue: 0,1:11:42.11,1:11:49.87,Default,Aoi,0,0,0,,Aka-nee rán khéo lắm, đồ ăn vào tay\Nngười giỏi chắc cũng mừng rơn đấy.
 Dialogue: 0,1:11:51.08,1:11:53.29,Default,Akane,0,0,0,,Ừ thì, cũng đúng.
 Dialogue: 0,1:11:53.29,1:11:57.04,Italics,Aoi,0,0,0,,Cái gì mà không làm phiền chứ?
-Dialogue: 0,1:11:57.04,1:12:01.46,Italics,Aoi,0,0,0,,Mình cứ luôn có cảm giác\NAka-nee việc gì cũng làm được.
+Dialogue: 0,1:11:57.04,1:12:01.46,Italics,Aoi,0,0,0,,Mình cứ nghĩ việc gì\NAka-nee cũng làm được.
 Dialogue: 0,1:12:01.46,1:12:02.09,Italics,Aoi,0,0,0,,Nhưng...
 Dialogue: 0,1:12:03.22,1:12:07.14,Italics,Aoi,0,0,0,,Aka-nee trông hoàn hảo như vậy chỉ là...
 Dialogue: 0,1:12:28.03,1:12:29.87,Italics,Aoi,0,0,0,,tất cả vì mình...
@@ -1123,18 +1123,18 @@ Dialogue: 0,1:13:29.89,1:13:32.18,Default,Shinno,0,0,0,,Gì chứ, hóa ra là A
 Dialogue: 0,1:13:32.18,1:13:33.81,Default,Shinno,0,0,0,,Mật khẩu của mình đâu rồi hả?
 Dialogue: 0,1:13:33.81,1:13:35.06,Default,Shinno,0,0,0,,Thật là, làm anh hết hồn.
 Dialogue: 0,1:13:35.06,1:13:36.81,Default,Aoi,0,0,0,,Em thích anh, Shinno.
-Dialogue: 0,1:13:44.40,1:13:49.70,Default,Aoi,0,0,0,,À... Anh rất vui khi nghe tình cảm của em,\Nnhưng em thử nghĩ kỹ xem...
+Dialogue: 0,1:13:44.40,1:13:49.70,Default,Aoi,0,0,0,,À... Được em thích anh cũng vui,\Nnhưng em nghĩ kỹ lại đi...
 Dialogue: 0,1:13:49.70,1:13:50.70,Default,Aoi,0,0,0,,Anh là hồn sống—
 Dialogue: 0,1:13:50.70,1:13:51.87,Default,Aoi,0,0,0,,Anh im đi!
 Dialogue: 0,1:13:54.91,1:13:58.54,Default,Aoi,0,0,0,,Tại giọng Shinno dịu dàng quá mà.
-Dialogue: 0,1:13:58.54,1:14:05.30,Default,Aoi,0,0,0,,Mấy người giọng như thế kiểu gì cũng\Nnói mấy lời an ủi hay thương hại thôi!
+Dialogue: 0,1:13:58.54,1:14:05.30,Default,Aoi,0,0,0,,Giọng kiểu đó thế nào cũng toàn\Nnói lời an ủi với thương hại thôi!
 Dialogue: 0,1:14:07.26,1:14:10.80,Default,Aoi,0,0,0,,Kể cả anh không có ý an ủi em,
-Dialogue: 0,1:14:10.80,1:14:19.48,Default,Aoi,0,0,0,,giọng Shinno vừa hay vừa ấm, nhưng nghe\Nlại làm em nhói lòng nên không muốn nghe.
+Dialogue: 0,1:14:10.80,1:14:19.48,Default,Aoi,0,0,0,,giọng Shinno hay và ấm quá,\Nnghe thấy nhói lòng nên không muốn nghe.
 Dialogue: 0,1:14:20.44,1:14:23.86,Default,Aoi,0,0,0,,Trước mắt cứ để em nói hết lòng mình đã.
 Dialogue: 0,1:14:34.78,1:14:37.16,Default,Aoi,0,0,0,,Em thích anh, Shinno.
-Dialogue: 0,1:14:38.08,1:14:43.04,Default,Aoi,0,0,0,,Không phải Shinnosuke, mà là Shinno\Nđang đứng trước mặt em lúc này.
+Dialogue: 0,1:14:38.08,1:14:43.04,Default,Aoi,0,0,0,,Không phải Shinnosuke, mà là Shinno\Nđang ở đây với em cơ.
 Dialogue: 0,1:14:43.92,1:14:45.84,Default,Aoi,0,0,0,,Em muốn ở bên anh mãi mãi.
-Dialogue: 0,1:14:46.46,1:14:51.51,Default,Aoi,0,0,0,,Thay vì để anh quay về làm Shinnosuke,\Nem muốn anh cứ ở mãi thế này cơ!
+Dialogue: 0,1:14:46.46,1:14:51.51,Default,Aoi,0,0,0,,Nếu anh phải quay về với Shinnosuke,\Nthà anh cứ ở nguyên thế này đi!
 Dialogue: 0,1:14:53.59,1:14:54.47,Default,Shinno,0,0,0,,Ao...
 Dialogue: 0,1:14:54.47,1:14:57.85,Default,Aoi,0,0,0,,Nhưng... nhưng mà!
 Dialogue: 0,1:14:58.64,1:15:02.69,Default,Aoi,0,0,0,,Em cũng thương Aka-nee lắm chứ bộ!
@@ -1154,11 +1154,11 @@ Dialogue: 0,1:15:46.19,1:15:48.11,Default,Shinno,0,0,0,,Khoan đã, Ao! Anh bả
 Dialogue: 0,1:15:48.52,1:15:50.23,Default,Shinno,0,0,0,,Anh xin em đấy!
 Dialogue: 0,1:15:51.36,1:15:53.20,Default,Shinno,0,0,0,,Làm ơn đi,
 Dialogue: 0,1:15:54.03,1:15:55.03,Default,Shinno,0,0,0,,chờ đã.
-Dialogue: 0,1:15:55.91,1:15:59.16,Default,Shinno,0,0,0,,Anh không thể đuổi theo em được.
-Dialogue: 0,1:16:00.58,1:16:04.83,Default,Shinno,0,0,0,,Dù anh có muốn đuổi theo em\Ncũng chẳng làm được.
+Dialogue: 0,1:15:55.91,1:15:59.16,Default,Shinno,0,0,0,,Anh không đuổi theo em được.
+Dialogue: 0,1:16:00.58,1:16:04.83,Default,Shinno,0,0,0,,Có muốn đuổi theo em\Ncũng chẳng được.
 Dialogue: 0,1:16:06.42,1:16:09.00,Default,Shinno,0,0,0,,Anh chỉ biết đứng đây nhìn theo em thôi.
-Dialogue: 0,1:16:10.71,1:16:17.93,Default,Shinno,0,0,0,,Anh cũng chẳng biết nếu quay về\Ncon người thật thì mình sẽ ra sao nữa.
-Dialogue: 0,1:16:18.68,1:16:27.52,Default,Shinno,0,0,0,,Nhưng cứ phải đứng nhìn Ao khóc như trẻ con\Nmà chẳng làm được gì thế này...
+Dialogue: 0,1:16:10.71,1:16:17.93,Default,Shinno,0,0,0,,Anh cũng không biết quay về bản thân cũ\Nthì mình sẽ ra sao.
+Dialogue: 0,1:16:18.68,1:16:27.52,Default,Shinno,0,0,0,,Nhưng cứ đứng nhìn Ao khóc như con nít\Nmà chẳng làm được gì thế này...
 Dialogue: 0,1:16:29.86,1:16:31.19,Default,Shinno,0,0,0,,Em đâu có khóc.
 Dialogue: 0,1:16:32.57,1:16:34.40,Default,Shinno,0,0,0,,Em không có khóc!
 Dialogue: 0,1:16:34.40,1:16:36.07,Default,Shinno,0,0,0,,Là tại trời mưa thôi!
@@ -1174,16 +1174,16 @@ Dialogue: 0,1:17:40.14,1:17:40.51,Alternative,Chika,0,0,0,,Nhưng—
 Dialogue: 0,1:17:40.51,1:17:41.76,Default,Chika,0,0,0,,Thôi mà, nên là—
 Dialogue: 0,1:17:41.76,1:17:45.06,Default,Nitobe,0,0,0,,Mất rồi! Không thấy đâu cả!
 Dialogue: 0,1:17:45.06,1:17:47.27,Default,Masamichi,0,0,0,,Thầy ơi, thầy mất thứ gì thế ạ?
-Dialogue: 0,1:17:47.27,1:17:51.44,Default,Nitobe,0,0,0,,Mặt dây chuyền của ta! Cái ta luôn đeo\Nbên mình không thấy đâu nữa!
+Dialogue: 0,1:17:47.27,1:17:51.44,Default,Nitobe,0,0,0,,Mặt dây chuyền! Cái ta đeo suốt\Nkhông thấy đâu nữa!
 Dialogue: 0,1:17:51.44,1:17:56.03,Default,Chika,0,0,0,,Mặt dây chuyền à? À!\NCái trông lòe loẹt đó ấy hả.
 Dialogue: 0,1:17:57.94,1:18:00.45,Default,Nitobe,0,0,0,,Đó là nguồn sinh lực của ta đấy.
 Dialogue: 0,1:18:00.45,1:18:05.33,Default,Nitobe,0,0,0,,Tất cả tâm tình ta đón nhận từ bà con\Nkhắp mọi miền đều cất giữ bên trong nó.
 Dialogue: 0,1:18:05.79,1:18:09.04,Default,Nitobe,0,0,0,,Không có nó, ta không hát nổi\Nhồn quê hương đâu.
 Dialogue: 0,1:18:09.04,1:18:12.88,Default,Nitobe,0,0,0,,Ta chẳng thể hát nên cái hồn của Enka đâu!
-Dialogue: 0,1:18:12.88,1:18:16.21,Default,Masamichi,0,0,0,,Câu này nghe cứ quen quen thế nào ấy nhỉ.
+Dialogue: 0,1:18:12.88,1:18:16.21,Default,Masamichi,0,0,0,,Câu kiểu này nghe quen quen nhỉ...
 Dialogue: 0,1:18:17.30,1:18:20.72,Default,Manager,0,0,0,,Thầy ơi, trong xe cũng không có đâu ạ.
 Dialogue: 0,1:18:22.05,1:18:23.18,Default,Manager,0,0,0,,Thầy ơi!
-Dialogue: 0,1:18:23.18,1:18:26.89,Default,Band Member,0,0,0,,Trước hết, lần cuối thầy thấy nó\Nlà khi nào thế ạ?
+Dialogue: 0,1:18:23.18,1:18:26.89,Default,Band Member,0,0,0,,Thế lần cuối thầy thấy nó\Nlà khi nào ạ?
 Dialogue: 0,1:18:27.77,1:18:29.02,Default,Nitobe,0,0,0,,Lần cuối ư?
 Dialogue: 0,1:18:29.02,1:18:32.15,Default,Manager,0,0,0,,À, nếu thế thì... xem nào...
 Dialogue: 0,1:18:32.15,1:18:33.81,Default,Chika,0,0,0,,A, Di tích Wado kìa!
@@ -1191,7 +1191,7 @@ Dialogue: 0,1:18:33.81,1:18:34.90,Default,Manager,0,0,0,,Ô, đây rồi!
 Dialogue: 0,1:18:34.90,1:18:38.32,Default,Akane,0,0,0,,Đây là... Đền Mitsumine đúng không ạ?
 Dialogue: 0,1:18:38.32,1:18:40.07,Default,Tsugu,0,0,0,,Tận hưởng quá trời luôn.
 Dialogue: 0,1:18:40.07,1:18:45.16,Default,Tsugu,0,0,0,,Mà sao ảnh nào cũng thấy thầy\Nkhoác vai phụ nữ thế kia...
-Dialogue: 0,1:18:45.16,1:18:48.16,Default,Nitobe,0,0,0,,Ấy chính là sự giao lưu\Ngắn kết với bà con đấy.
+Dialogue: 0,1:18:45.16,1:18:48.16,Default,Nitobe,0,0,0,,Ấy là giao lưu gần gũi\Nvới bà con đấy.
 Dialogue: 0,1:18:48.16,1:18:50.71,Default,Manager,0,0,0,,Từ đoạn này trở đi là ảnh hôm qua ạ.
 Dialogue: 0,1:18:50.71,1:18:51.46,Default,Akane,0,0,0,,A, nhìn xem.
 Dialogue: 0,1:18:51.46,1:18:53.79,Default,Akane,0,0,0,,Từ tấm này trở đi không còn dây chuyền nữa.
@@ -1201,11 +1201,11 @@ Dialogue: 0,1:18:56.50,1:18:58.92,Default,Akane,0,0,0,,Nơi cuối cùng thầy 
 Dialogue: 0,1:18:58.92,1:19:00.17,Default,Akane,0,0,0,,Đây rồi!
 Dialogue: 0,1:19:00.17,1:19:01.68,Default,Nitobe,0,0,0,,À, đường hầm đó!
 Dialogue: 0,1:19:01.68,1:19:03.51,Default,Nitobe,0,0,0,,Hữu tình lắm phải không?
-Dialogue: 0,1:19:03.51,1:19:06.85,Default,Nitobe,0,0,0,,Có cái hàng rào chắn, nhưng ta\Ncứ thế lách nhẹ qua luôn.
+Dialogue: 0,1:19:03.51,1:19:06.85,Default,Nitobe,0,0,0,,Có rào chắn, nhưng ta cứ thế\Nlách cái vèo qua luôn.
 Dialogue: 0,1:19:06.85,1:19:07.85,Default,Chika & Akane,0,0,0,,Chính là lúc đó!
-Dialogue: 0,1:19:07.85,1:19:12.60,Default,Chika & Akane,0,0,0,,À, đúng thật. Lúc đó quả thực\Ncó cảm giác như đang sinh tồn vậy.
+Dialogue: 0,1:19:07.85,1:19:12.60,Default,Chika & Akane,0,0,0,,À đúng rồi, lúc đó đúng kiểu\Nsinh tồn luôn ấy nhỉ.
 Dialogue: 0,1:19:12.60,1:19:14.56,Default,Akane,0,0,0,,Vậy để em đi tìm cho ạ.
-Dialogue: 0,1:19:14.56,1:19:17.07,Default,Nitobe,0,0,0,,Hả? Có phiền cô quá không?
+Dialogue: 0,1:19:14.56,1:19:17.07,Default,Nitobe,0,0,0,,Phiền cô thế có được không?
 Dialogue: 0,1:19:17.07,1:19:19.73,Default,Akane,0,0,0,,Thầy cứ ở đây chuẩn bị tổng duyệt đi ạ.
 Dialogue: 0,1:19:19.73,1:19:22.45,Default,Masamichi,0,0,0,,A-Akane, đi cẩn thận đấy nhé!
 Dialogue: 0,1:19:36.38,1:19:38.00,Default,Aoi,0,0,0,,Aka-nee!
@@ -1234,7 +1234,7 @@ Dialogue: 0,1:21:35.25,1:21:36.29,Top,Masamichi,0,0,0,,Hả?!
 Dialogue: 0,1:21:37.12,1:21:39.71,Default,Masamichi,0,0,0,,Vâng, tôi hiểu rồi. Thế nhé.
 Dialogue: 0,1:21:39.71,1:21:41.21,Default,Chika,0,0,0,,Có chuyện gì thế ạ?
 Dialogue: 0,1:21:41.21,1:21:43.59,Default,Masamichi,0,0,0,,Có vụ sạt lở đất ở phía Hino.
-Dialogue: 0,1:21:43.59,1:21:47.92,Default,Masamichi,0,0,0,,Phòng Du lịch phải ra thông báo cảnh báo\Nnên anh cần quay về một lát.
+Dialogue: 0,1:21:43.59,1:21:47.92,Default,Masamichi,0,0,0,,Phòng Du lịch phải ra cảnh báo,\Nnên bảo anh quay về chút.
 Dialogue: 0,1:21:47.92,1:21:48.88,Default,Manager,0,0,0,,Sạt lở đất sao?
 Dialogue: 0,1:21:48.88,1:21:49.88,Default,Nitobe,0,0,0,,Cái gì?!
 Dialogue: 0,1:21:49.88,1:21:56.06,Default,Masamichi,0,0,0,,À không, nghe nói xảy ra tận trong núi\Nnên giờ vẫn chưa thấy thiệt hại gì lớn.
@@ -1254,7 +1254,7 @@ Dialogue: 0,1:22:26.63,1:22:29.09,Default,Nitobe,0,0,0,,Hãy tích cực lên! T
 Dialogue: 0,1:22:29.09,1:22:30.43,Default,Chika,0,0,0,,Không tới lượt ông nói!
 Dialogue: 0,1:22:30.43,1:22:32.84,Default,Masamichi,0,0,0,,Trước mắt anh về Tòa thị chính đã.
 Dialogue: 0,1:22:32.84,1:22:36.26,Default,Masamichi,0,0,0,,Có tin gì anh sẽ báo ngay,\Nnên cứ chờ ở đây nhé!
-Dialogue: 0,1:22:36.76,1:22:39.64,Default,Masamichi,0,0,0,,Xin lỗi thầy,\Nphiền thầy cũng chịu khó chờ ở đây nhé.
+Dialogue: 0,1:22:36.76,1:22:39.64,Default,Masamichi,0,0,0,,Xin lỗi thầy, phiền thầy\Nchờ ở đây chút nhé.
 Dialogue: 0,1:22:39.64,1:22:41.98,Default,Nitobe,0,0,0,,Ừ, cứ đi cẩn thận nhé!
 Dialogue: 0,1:22:41.98,1:22:43.81,Default,Masamichi,0,0,0,,Tsugu, ở đây nhờ con trông nhé!
 Dialogue: 0,1:22:43.81,1:22:44.73,Default,Tsugu,0,0,0,,Vâng!
@@ -1268,12 +1268,12 @@ Dialogue: 0,1:23:08.51,1:23:13.76,Italics,Shinnosuke,0,0,0,,Tại sao mình hồ
 Dialogue: 0,1:23:15.39,1:23:18.43,Italics,Shinno,0,0,0,,Ra thế... Đúng như mình nghĩ...
 Dialogue: 0,1:23:20.02,1:23:23.31,Default,Shinno,0,0,0,,Mày tới lấy cây Akane Special?
 Dialogue: 0,1:23:24.10,1:23:26.02,Default,Shinnosuke,0,0,0,,Hả? Sao mày lại—
-Dialogue: 0,1:23:26.02,1:23:31.28,Default,Shinno,0,0,0,,Cây guitar báu vật mà mày dành dụm tiền\Nlàm thêm đi mua cùng Akane đúng không?
+Dialogue: 0,1:23:26.02,1:23:31.28,Default,Shinno,0,0,0,,Cây guitar báu vật mày để dành tiền\Nlàm thêm đi mua với Akane đấy chứ?
 Dialogue: 0,1:23:31.78,1:23:34.99,Default,Shinno,0,0,0,,Dù trông như bị vứt xó bao năm rồi ấy.
 Dialogue: 0,1:23:37.28,1:23:38.83,Default,Shinno,0,0,0,,Thảm hại thật.
-Dialogue: 0,1:23:38.83,1:23:43.67,Default,Shinno,0,0,0,,Chỉ vì ước mơ không thành mà mày\Nbê tha ra nông nỗi này sao?
+Dialogue: 0,1:23:38.83,1:23:43.67,Default,Shinno,0,0,0,,Ước mơ không thành mà bày đặt\Nbê tha thế này à?
 Dialogue: 0,1:23:44.33,1:23:45.92,Default,Shinnosuke,0,0,0,,Thằng ranh mày thì biết gì?!
-Dialogue: 0,1:23:45.92,1:23:50.26,Default,Shinno,0,0,0,,Tao cũng chẳng thèm biết chuyện\Ncủa một lão già nhếch nhác!
+Dialogue: 0,1:23:45.92,1:23:50.26,Default,Shinno,0,0,0,,Tao cũng chẳng thèm biết\Nchuyện lão già lôi thôi như mày!
 Dialogue: 0,1:23:50.26,1:23:51.67,Default,Shinnosuke,0,0,0,,Mày...
 Dialogue: 0,1:23:55.26,1:23:56.68,Default,Aoi,0,0,0,,Shin—
 Dialogue: 0,1:23:59.10,1:24:00.18,Default,Aoi,0,0,0,,Shin{\alpha&FF}nosuke-san?
@@ -1287,7 +1287,7 @@ Dialogue: 0,1:24:10.69,1:24:11.94,Default,Shinno,0,0,0,,Sạt lở đất sao?
 Dialogue: 0,1:24:11.94,1:24:13.11,Default,Shinnosuke,0,0,0,,Rồi Akane bị—
 Dialogue: 0,1:24:13.11,1:24:14.61,Default,Aoi,0,0,0,,Em chưa rõ nữa, nhưng...
 Dialogue: 0,1:24:15.11,1:24:18.37,Default,Aoi,0,0,0,,Giờ Michinko đang kiểm tra rồi.
-Dialogue: 0,1:24:18.37,1:24:28.33,Default,Aoi,0,0,0,,Chắc chị ấy không sao, nhưng gọi không\Nđược, mà trong lòng em cứ bất an lắm...
+Dialogue: 0,1:24:18.37,1:24:28.33,Default,Aoi,0,0,0,,Chắc không sao, nhưng gọi chẳng được,\Ntrong lòng em cứ bất an lắm...
 Dialogue: 0,1:24:28.33,1:24:30.96,Default,Shinnosuke,0,0,0,,Cái gì chứ, làm anh hết cả hồn.
 Dialogue: 0,1:24:30.96,1:24:35.38,Default,Shinnosuke,0,0,0,,Thôi, trước mắt cứ chờ tin\Ntừ Michinko xem sao đã.
 Dialogue: 0,1:24:35.38,1:24:37.72,Default,Shinno,0,0,0,,Sao mày bình thản thế được hả?!
@@ -1301,7 +1301,7 @@ Dialogue: 0,1:24:51.69,1:24:52.90,Default,Shinnosuke,0,0,0,,N-Này!
 Dialogue: 0,1:24:52.90,1:24:55.24,Default,Shinno,0,0,0,,Mày không đi thì ai đi hả?!
 Dialogue: 0,1:24:56.82,1:24:58.99,Default,Shinno,0,0,0,,Đừng làm tao thất vọng chứ!
 Dialogue: 0,1:25:00.16,1:25:01.99,Default,Aoi,0,0,0,,Shinno...
-Dialogue: 0,1:25:01.99,1:25:07.83,Default,Shinno,0,0,0,,Chẳng phải mày phải thành nhạc sĩ lớn\Nrồi quay về đón Akane đi sao?!
+Dialogue: 0,1:25:01.99,1:25:07.83,Default,Shinno,0,0,0,,Chẳng phải mày định thành nhạc sĩ lớn\Nrồi về đón Akane sao?!
 Dialogue: 0,1:25:08.58,1:25:11.34,Default,Shinno,0,0,0,,Vậy mà lại đi làm nhạc công phụ họa.
 Dialogue: 0,1:25:11.34,1:25:12.38,Default,Shinno,0,0,0,,Lại còn là enka?!
 Dialogue: 0,1:25:12.92,1:25:14.34,Default,Shinnosuke,0,0,0,,Không thể tin nổi luôn!
@@ -1312,9 +1312,9 @@ Dialogue: 0,1:25:19.30,1:25:21.05,Default,Shinno,0,0,0,,Nghĩ tới tương lai 
 Dialogue: 0,1:25:21.05,1:25:22.06,Default,Shinnosuke,0,0,0,,Đã bảo im đi cơ mà!
 Dialogue: 0,1:25:22.06,1:25:22.93,Default,Aoi,0,0,0,,Dừng lại đi!
 Dialogue: 0,1:25:22.93,1:25:24.10,Default,Shinnosuke,0,0,0,,Dù thế thì,
-Dialogue: 0,1:25:24.10,1:25:27.02,Default,Shinnosuke,0,0,0,,mỗi ngày tao vẫn đang cố xoay xở đấy!
-Dialogue: 0,1:25:27.02,1:25:29.52,Default,Shinno,0,0,0,,Ừ, mày đánh guitar giỏi mà phí hoài quá.
-Dialogue: 0,1:25:29.52,1:25:32.57,Default,Shinno,0,0,0,,Đánh được cỡ đó thì ở đâu\Nmày chẳng kiếm sống được chứ!
+Dialogue: 0,1:25:24.10,1:25:27.02,Default,Shinnosuke,0,0,0,,ngày nào tao cũng cố gắng đấy!
+Dialogue: 0,1:25:27.02,1:25:29.52,Default,Shinno,0,0,0,,Ừ, đánh guitar giỏi mà uổng quá.
+Dialogue: 0,1:25:29.52,1:25:32.57,Default,Shinno,0,0,0,,Đánh cỡ đó thì ở đâu\Nmày chẳng sống được!
 Dialogue: 0,1:25:32.57,1:25:35.82,Default,Shinnosuke,0,0,0,,Cái giới này chỉ có quan hệ\Nvới may mắn thôi!
 Dialogue: 0,1:25:35.82,1:25:37.86,Default,Shinnosuke,0,0,0,,Đâu phải cứ đàn giỏi là làm nên chuyện.
 Dialogue: 0,1:25:37.86,1:25:39.57,Default,Shinnosuke,0,0,0,,Thằng ranh chẳng biết gì.
@@ -1322,23 +1322,23 @@ Dialogue: 0,1:25:39.57,1:25:42.37,Default,Shinno,0,0,0,,Ừ, đúng rồi, tao c
 Dialogue: 0,1:25:43.24,1:25:47.25,Default,Shinno,0,0,0,,Tại tao có rời khỏi nơi này được đâu.
 Dialogue: 0,1:25:48.08,1:25:49.00,Default,Shinnosuke,0,0,0,,Hả?
 Dialogue: 0,1:25:49.42,1:25:51.25,Default,Aoi,0,0,0,,Shinno...
-Dialogue: 0,1:25:51.25,1:25:55.34,Default,Shinno,0,0,0,,Ngày hôm đó, khi Akane bảo sẽ không\Nlên Tokyo cùng tao,
+Dialogue: 0,1:25:51.25,1:25:55.34,Default,Shinno,0,0,0,,Hôm đó, lúc Akane bảo không lên\NTokyo với tao,
 Dialogue: 0,1:25:55.34,1:25:58.26,Default,Shinno,0,0,0,,tao đã sốc khủng khiếp.
 Dialogue: 0,1:25:58.26,1:26:06.56,Default,Shinno,0,0,0,,Lên Tokyo, lập ban nhạc, diễn hết mình,\Nra mắt rồi sống vui vẻ mỗi ngày.
 Dialogue: 0,1:26:06.56,1:26:08.77,Default,Shinno,0,0,0,,Đó là ước mơ của tao.
-Dialogue: 0,1:26:09.60,1:26:17.28,Default,Shinno,0,0,0,,Nhưng tất cả những điều đó đều\Nphải có Akane ở bên cạnh.
-Dialogue: 0,1:26:18.49,1:26:25.12,Default,Shinno,0,0,0,,Tao bảo sẽ thành nhạc sĩ lớn về đón cô ấy,\Nnhưng thực tế ra sao ai mà biết được.
-Dialogue: 0,1:26:25.12,1:26:32.63,Default,Shinno,0,0,0,,Lúc đó, sâu thẳm trong lòng tao chẳng muốn\Nđi đâu nữa, chỉ muốn mãi ở lại đây thôi.
+Dialogue: 0,1:26:09.60,1:26:17.28,Default,Shinno,0,0,0,,Nhưng tất cả đều chỉ vì\Ncó Akane ở bên.
+Dialogue: 0,1:26:18.49,1:26:25.12,Default,Shinno,0,0,0,,Bảo thành nhạc sĩ lớn về đón cô ấy,\Nnhưng thật sự có được không ai biết.
+Dialogue: 0,1:26:25.12,1:26:32.63,Default,Shinno,0,0,0,,Lúc đó, trong lòng tao chẳng muốn đi đâu,\Nchỉ muốn ở nguyên đây thôi.
 Dialogue: 0,1:26:33.21,1:26:34.92,Default,Shinno,0,0,0,,Tao đã nghĩ như thế đấy.
 Dialogue: 0,1:26:35.80,1:26:37.05,Default,Shinno,0,0,0,,Nhưng...
 Dialogue: 0,1:26:37.96,1:26:39.80,Default,Shinno,0,0,0,,mày đã rời đi!
 Dialogue: 0,1:26:41.34,1:26:43.68,Default,Shinno,0,0,0,,Mày đã bước về phía trước rồi mà!
 Dialogue: 0,1:26:44.35,1:26:46.68,Default,Shinno,0,0,0,,Này, làm cho tao tin đi chứ.
-Dialogue: 0,1:26:47.22,1:26:48.93,Default,Shinno,0,0,0,,Tao chính là mày, đúng không?
+Dialogue: 0,1:26:47.22,1:26:48.93,Default,Shinno,0,0,0,,Tao là mày, đúng không?
 Dialogue: 0,1:26:49.48,1:26:52.15,Default,Shinno,0,0,0,,Vậy thì làm cho tao tin đi!
-Dialogue: 0,1:26:52.15,1:26:55.31,Default,Shinno,0,0,0,,Chắc sẽ có bao nhiêu chuyện\Nchẳng như ý muốn đâu.
+Dialogue: 0,1:26:52.15,1:26:55.31,Default,Shinno,0,0,0,,Chắc sẽ có nhiều chuyện\Nchẳng suôn sẻ đâu.
 Dialogue: 0,1:26:55.31,1:26:56.44,Default,Shinno,0,0,0,,Dù thế, tương lai...
-Dialogue: 0,1:26:58.57,1:27:02.20,Default,Shinno,0,0,0,,rằng có trở thành một người như mày\Ncũng chẳng sao cả,
+Dialogue: 0,1:26:58.57,1:27:02.20,Default,Shinno,0,0,0,,rằng sau này thành như mày\Ncũng chẳng sao cả,
 Dialogue: 0,1:27:04.12,1:27:06.24,Default,Shinno,0,0,0,,cho tao tin điều đó đi!
 Dialogue: 0,1:27:09.29,1:27:10.79,Default,Shinno,0,0,0,,Tao...
 Dialogue: 0,1:27:12.54,1:27:14.29,Default,Shinno,0,0,0,,Thôi kệ mày!
@@ -1346,14 +1346,14 @@ Dialogue: 0,1:27:14.29,1:27:16.13,Default,Aoi,0,0,0,,Shin—
 Dialogue: 0,1:27:25.22,1:27:27.93,Default,Shinnosuke,0,0,0,,Mày đang... làm cái gì thế?
 Dialogue: 0,1:27:28.89,1:27:30.93,Default,Shinno,0,0,0,,Tao đi đây!
 Dialogue: 0,1:27:32.44,1:27:35.69,Default,Shinno,0,0,0,,Tao bảo là tao sẽ đi đấy!
-Dialogue: 0,1:27:38.86,1:27:45.11,Default,Shinno,0,0,0,,Mày cứ ngồi đấy mà cằn nhằn mãi\Nnhư một lão già đi!
+Dialogue: 0,1:27:38.86,1:27:45.11,Default,Shinno,0,0,0,,Mày cứ ở đấy mà lải nhải mãi\Nnhư lão già đi!
 Dialogue: 0,1:27:45.11,1:27:46.45,Italics,Aoi,0,0,0,,Tại sao...
-Dialogue: 0,1:27:46.45,1:27:49.33,Default,Shinno,0,0,0,,Tuy thời gian của tao đã dừng lại rồi,
-Dialogue: 0,1:27:49.33,1:27:55.12,Default,Shinno,0,0,0,,nhưng tình cảm tao dành cho Akane\Nthì chưa từng dừng lại bao giờ!
-Dialogue: 0,1:27:56.29,1:28:03.59,Default,Shinno,0,0,0,,Riêng chuyện đó, tao sẽ không thua ai cả,\Nkể cả là mày!
+Dialogue: 0,1:27:46.45,1:27:49.33,Default,Shinno,0,0,0,,Thời gian của tao đứng yên thật,
+Dialogue: 0,1:27:49.33,1:27:55.12,Default,Shinno,0,0,0,,nhưng tình cảm tao dành cho Akane\Nvẫn luôn tiếp diễn!
+Dialogue: 0,1:27:56.29,1:28:03.59,Default,Shinno,0,0,0,,Riêng chuyện đó, tao không thua\Nkể cả mày đâu!
 Dialogue: 0,1:28:06.01,1:28:07.72,Default,Shinno,0,0,0,,A-Ao?
 Dialogue: 0,1:28:07.72,1:28:08.81,Default,Aoi,0,0,0,,Em cũng thế!
-Dialogue: 0,1:28:09.31,1:28:14.35,Default,Aoi,0,0,0,,Về tình cảm dành cho Aka-nee,\Nem cũng không chịu thua đâu!
+Dialogue: 0,1:28:09.31,1:28:14.35,Default,Aoi,0,0,0,,Tình cảm em dành cho Aka-nee\Ncũng chẳng thua ai đâu!
 Dialogue: 0,1:28:21.23,1:28:25.32,Default,Shinno,0,0,0,,Chẳng phải em cấm anh chạm vào em sao, Ao?
 Dialogue: 0,1:28:25.66,1:28:30.62,Default,Aoi,0,0,0,,{\fade(0,2000)}Anh nói nhiều quá đi!
 Dialogue: 0,1:28:54.85,1:28:55.18,Default,Shinno & Aoi,0,0,0,,Ui{\alpha&FF} da!
@@ -1369,7 +1369,7 @@ Dialogue: 0,1:29:14.95,1:29:16.00,Default,Shinnosuke,0,0,0,,Tao...
 Dialogue: 0,1:29:16.00,1:29:17.25,Default,Shinno,0,0,0,,Đi thôi, Ao!
 Dialogue: 0,1:29:17.25,1:29:18.96,Default,Aoi,0,0,0,,Hả? Khoan—
 Dialogue: 0,1:29:18.96,1:29:20.25,Default,Shinnosuke,0,0,0,,Này! Chúng mày—
-Dialogue: 0,1:29:24.42,1:29:27.84,Default,Shinnosuke,0,0,0,,Đừng tưởng muốn nói gì thì nói\Nrồi bỏ đi thế nhé!
+Dialogue: 0,1:29:24.42,1:29:27.84,Default,Shinnosuke,0,0,0,,Đừng có muốn nói gì thì nói thế chứ!
 Dialogue: 0,1:29:29.76,1:29:32.60,Default,Aoi,0,0,0,,Khoan đã! Shinno!
 Dialogue: 0,1:29:32.93,1:29:34.85,Default,Aoi,0,0,0,,Anh đi nhanh quá rồi!
 Dialogue: 0,1:29:35.98,1:29:37.64,Default,Aoi,0,0,0,,Này! Chờ—
@@ -1380,12 +1380,12 @@ Dialogue: 0,1:29:57.00,1:29:58.58,Default,Shinno,0,0,0,,Hoang đường vừa th
 Dialogue: 0,1:30:04.42,1:30:06.76,Default,Shinno,0,0,0,,Đỉnh quá! Sao mình làm được thế này?!
 Dialogue: 0,1:30:06.76,1:30:10.38,Default,Aoi,0,0,0,,Em mới là người muốn hỏi đấy!
 Dialogue: 0,1:30:11.34,1:30:15.72,Default,Shinnosuke,0,0,0,,Chẳng có lấy một chiếc taxi nào sao?\NVùng quê chết tiệt!
-Dialogue: 0,1:30:36.33,1:30:41.50,Default,Shinno,0,0,0,,Em biết không, nhìn tấm ảnh đó xong\Nanh chợt vỡ lẽ ra nhiều chuyện lắm.
+Dialogue: 0,1:30:36.33,1:30:41.50,Default,Shinno,0,0,0,,Nhìn tấm ảnh đó xong,\Nanh hiểu ra nhiều chuyện lắm.
 Dialogue: 0,1:30:41.50,1:30:43.21,Default,Aoi,0,0,0,,Là chuyện gì?
-Dialogue: 0,1:30:43.21,1:30:50.93,Default,Shinno,0,0,0,,Lúc đó, anh ta buộc phải chôn giấu\Ntình cảm lại để bước tiếp.
-Dialogue: 0,1:30:50.93,1:30:53.72,Default,Shinno,0,0,0,,Nhưng giờ, anh ta quyết định\Nđối mặt lại lần nữa.
-Dialogue: 0,1:31:06.90,1:31:13.74,Default,Shinno,0,0,0,,Để những tình cảm vẫn còn trong anh đây\Nkhông biến thành nỗi hối hận.
-Dialogue: 0,1:31:14.62,1:31:20.96,Default,Abo,0,0,0,,Tôi đã bảo rồi, chừng nào chưa xác nhận\Nan toàn thì xe không đi tiếp được đâu.
+Dialogue: 0,1:30:43.21,1:30:50.93,Default,Shinno,0,0,0,,Hồi đó, anh ta phải cất giấu\Ntình cảm đi mới bước tiếp được.
+Dialogue: 0,1:30:50.93,1:30:53.72,Default,Shinno,0,0,0,,Giờ anh ta muốn đối mặt lại lần nữa.
+Dialogue: 0,1:31:06.90,1:31:13.74,Default,Shinno,0,0,0,,Để tình cảm trong anh đây\Nkhông thành nỗi hối hận.
+Dialogue: 0,1:31:14.62,1:31:20.96,Default,Abo,0,0,0,,Tôi bảo rồi, chưa kiểm tra an toàn xong\Nthì xe không vào tiếp được đâu.
 Dialogue: 0,1:31:20.96,1:31:22.67,Default,Abo,0,0,0,,Anh vòng về trạm dừng gần nhất—
 Dialogue: 0,1:31:22.67,1:31:23.96,Default,Shinnosuke,0,0,0,,Thôi được rồi!
 Dialogue: 0,1:31:23.96,1:31:25.96,Default,Shinnosuke,0,0,0,,Tiền đây, khỏi thối.
@@ -1402,25 +1402,25 @@ Dialogue: 0,1:31:40.47,1:31:44.73,Default,Abo,0,0,0,,Này, chờ đã! Mày vộ
 Dialogue: 0,1:31:44.73,1:31:46.69,Default,Shinnosuke,0,0,0,,Đến Gandhara!
 Dialogue: 0,1:31:50.19,1:31:54.45,Default,Shinno,0,0,0,,Đó là lý do anh đã ở lại nơi ấy.
 Dialogue: 0,1:31:55.07,1:31:56.53,Default,Aoi,0,0,0,,Hối hận sao...
-Dialogue: 0,1:31:57.53,1:31:59.87,Default,Aoi,0,0,0,,Em hiểu cảm giác đó.
-Dialogue: 0,1:32:03.33,1:32:11.55,Default,Aoi,0,0,0,,Nếu không ủng hộ được tình cảm của người\Nmình yêu, mình sẽ hối hận suốt đời mất.
-Dialogue: 0,1:32:13.38,1:32:18.68,Default,Aoi,0,0,0,,Em biết chứ, vì em đã không thể\Nủng hộ Aka-nee mà.
+Dialogue: 0,1:31:57.53,1:31:59.87,Default,Aoi,0,0,0,,Em biết mà.
+Dialogue: 0,1:32:03.33,1:32:11.55,Default,Aoi,0,0,0,,Không ủng hộ được tâm nguyện người\Nmình thương, sẽ hối hận mãi thôi.
+Dialogue: 0,1:32:13.38,1:32:18.68,Default,Aoi,0,0,0,,Em biết mà, vì em từng chẳng\Nủng hộ Aka-nee.
 Dialogue: 0,1:32:19.85,1:32:21.14,Default,Shinno,0,0,0,,Ao...
-Dialogue: 0,1:32:21.14,1:32:28.06,Default,Aoi,0,0,0,,Cho nên... em sẽ ủng hộ anh\Nvà cả Shinnosuke-san nữa!
+Dialogue: 0,1:32:21.14,1:32:28.06,Default,Aoi,0,0,0,,Thế nên... em sẽ ủng hộ anh\Nvà cả Shinnosuke-san nữa!
 Dialogue: 0,1:32:34.49,1:32:35.53,Default,Aoi,0,0,0,,Á—
 Dialogue: 0,1:32:51.38,1:32:52.92,Default,Aoi,0,0,0,,Anh làm cái gì thế hả?!
 Dialogue: 0,1:32:52.92,1:32:53.71,Default,Aoi,0,0,0,,À thì...
-Dialogue: 0,1:32:54.17,1:32:59.10,Default,Aoi,0,0,0,,Nghe bảo thổi một hơi vào mặt\Nthì trẻ con sẽ nín khóc mà.
+Dialogue: 0,1:32:54.17,1:32:59.10,Default,Aoi,0,0,0,,Nghe bảo thổi hơi vào đó\Nlà trẻ con nín khóc mà.
 Dialogue: 0,1:33:06.73,1:33:08.69,Default,Aoi,0,0,0,,Cái kiểu gì thế?
 Dialogue: 0,1:33:08.69,1:33:10.23,Default,Shinno,0,0,0,,Im đi.
 Dialogue: 0,1:33:14.74,1:33:17.78,Default,Aoi,0,0,0,,Bầu trời xanh thật đấy.
-Dialogue: 0,1:33:21.37,1:33:28.17,Default,Aoi,0,0,0,,Em cứ mải miết nghĩ chuyện rời khỏi đây,\Nmà chẳng hề nhận ra nơi này đẹp đến thế.
+Dialogue: 0,1:33:21.37,1:33:28.17,Default,Aoi,0,0,0,,Em cứ đòi rời khỏi đây mãi,\Nmà không ngờ lại đẹp đến thế.
 Dialogue: 0,1:33:30.25,1:33:31.63,Default,Shinno,0,0,0,,Ừ.
 Dialogue: 0,1:33:34.63,1:33:36.30,Default,Shinno,0,0,0,,Đẹp thật đấy.
 Dialogue: 0,1:33:47.43,1:33:49.44,Default,Akane,0,0,0,,Tìm thấy rồi!
 Dialogue: 0,1:33:49.44,1:33:52.73,Default,Akane,0,0,0,,Thật là, làm cả đám một phen nháo nhào.
-Dialogue: 0,1:33:52.73,1:33:55.40,Default,Shinno,0,0,0,,Rơi vào tình huống thế này rồi mà em...
-Dialogue: 0,1:33:56.07,1:33:58.65,Default,Shinno,0,0,0,,Phải công nhận em gan thật đấy.
+Dialogue: 0,1:33:52.73,1:33:55.40,Default,Shinno,0,0,0,,Gặp cảnh này rồi mà em vẫn...
+Dialogue: 0,1:33:56.07,1:33:58.65,Default,Shinno,0,0,0,,Công nhận em gan thật đấy.
 Dialogue: 0,1:34:03.28,1:34:05.04,Default,Akane,0,0,0,,Shinno?
 Dialogue: 0,1:34:14.13,1:34:15.50,Default,Shinnosuke,0,0,0,,Kia rồi!
 Dialogue: 0,1:34:16.84,1:34:19.18,Default,Shinnosuke,0,0,0,,Thằng tôi kia đâu rồi?
@@ -1429,16 +1429,16 @@ Dialogue: 0,1:34:25.97,1:34:27.60,Default,Akane,0,0,0,,Ra là vậy.
 Dialogue: 0,1:34:27.60,1:34:29.39,Default,Akane,0,0,0,,Hoang đường thật đấy nhỉ.
 Dialogue: 0,1:34:30.10,1:34:31.65,Default,Akane,0,0,0,,Đúng kiểu của Shinno luôn.
 Dialogue: 0,1:34:31.65,1:34:33.15,Default,Shinno,0,0,0,,Em tin anh sao?
-Dialogue: 0,1:34:33.15,1:34:36.53,Default,Akane,0,0,0,,Thì thực tế là Shinno đang đứng\Nngay trước mặt em rồi còn gì.
-Dialogue: 0,1:34:37.32,1:34:40.07,Default,Shinno,0,0,0,,Gan em đúng là to đến mức đáng sợ đấy.
+Dialogue: 0,1:34:33.15,1:34:36.53,Default,Akane,0,0,0,,Thì Shinno đang ở ngay đây\Nrồi còn gì nữa.
+Dialogue: 0,1:34:37.32,1:34:40.07,Default,Shinno,0,0,0,,Em gan lì quá mức rồi đấy.
 Dialogue: 0,1:34:40.91,1:34:42.62,Default,Akane,0,0,0,,À, nhưng may thật đấy.
 Dialogue: 0,1:34:43.20,1:34:45.12,Default,Akane,0,0,0,,Vì trong này tối quá.
-Dialogue: 0,1:34:45.12,1:34:48.12,Default,Akane,0,0,0,,Ra chỗ sáng là lộ ngay\Nchuyện em già đi mất thôi.
+Dialogue: 0,1:34:45.12,1:34:48.12,Default,Akane,0,0,0,,Chỗ sáng là lộ hết\Nem già đi mất.
 Dialogue: 0,1:34:48.91,1:34:51.42,Default,Akane,0,0,0,,Chắc sẽ làm Shinno thất vọng lắm nhỉ.
-Dialogue: 0,1:34:51.42,1:34:54.96,Default,Shinno,0,0,0,,À, xin lỗi nhé, anh nhìn rõ\NAkane của hiện tại mất rồi.
+Dialogue: 0,1:34:51.42,1:34:54.96,Default,Shinno,0,0,0,,À xin lỗi, anh thấy Akane\Nbây giờ rõ mồn một rồi.
 Dialogue: 0,1:34:54.96,1:34:56.88,Default,Akane,0,0,0,,Hả? Khi nào? Ở đâu?
 Dialogue: 0,1:34:56.88,1:34:57.84,Default,Shinno,0,0,0,,Ở gian thờ ấy.
-Dialogue: 0,1:34:59.01,1:35:03.55,Default,Shinno,0,0,0,,Lúc em sang xem tình hình của Ao,\Nvà lúc em mang cơm nắm tới nữa.
+Dialogue: 0,1:34:59.01,1:35:03.55,Default,Shinno,0,0,0,,Lúc em qua thăm Ao,\Nvới lúc mang cơm nắm tới ấy.
 Dialogue: 0,1:35:04.05,1:35:05.60,Default,Akane,0,0,0,,Hả, thật luôn á?
 Dialogue: 0,1:35:05.60,1:35:07.72,Default,Akane,0,0,0,,Lại là tảo bẹ nữa đấy.
 Dialogue: 0,1:35:08.85,1:35:12.06,Default,Shinno,0,0,0,,Cơm nắm ấy. Anh dặn mãi là thích\Ncá ngừ sốt mayo cơ mà,
@@ -1460,10 +1460,10 @@ Dialogue: 0,1:36:05.95,1:36:08.95,Default,Shinno,0,0,0,,Nhưng con bé thẳng t
 Dialogue: 0,1:36:10.24,1:36:13.46,Default,Akane,0,0,0,,Thẳng thắn mà hơi ngốc...
 Dialogue: 0,1:36:14.46,1:36:17.38,Default,Akane,0,0,0,,Chỗ đó giống hệt Shinno luôn đấy.
 Dialogue: 0,1:36:18.96,1:36:20.55,Default,Shinno,0,0,0,,Thật may quá.
-Dialogue: 0,1:36:22.80,1:36:27.39,Default,Shinno,0,0,0,,Một người luôn đặt cô em gái Ao\Nlên trên hết như em...
+Dialogue: 0,1:36:22.80,1:36:27.39,Default,Shinno,0,0,0,,Một người thương cô em gái Ao\Nnhất trên đời như em...
 Dialogue: 0,1:36:31.06,1:36:34.89,Default,Shinno,0,0,0,,Thật may vì anh đã yêu em.
 Dialogue: 0,1:36:39.23,1:36:40.86,Default,Aoi,0,0,0,,Không được đâu!
-Dialogue: 0,1:36:40.86,1:36:46.16,Default,Aoi,0,0,0,,Đất đá có thể sạt nữa bất cứ lúc nào,\Ntrừ khi anh biết bay—
+Dialogue: 0,1:36:40.86,1:36:46.16,Default,Aoi,0,0,0,,Sạt lở lại bất cứ lúc nào đấy,\Ntrừ khi anh biết bay—
 Dialogue: 0,1:36:46.16,1:36:48.91,Default,Shinnosuke,0,0,0,,Buông anh ra! Akane vẫn đang—
 Dialogue: 0,1:36:50.83,1:36:52.37,Default,Shinno,0,0,0,,Hai người đang làm trò gì thế?
 Dialogue: 0,1:36:56.17,1:36:57.17,Default,Shinnosuke,0,0,0,,Akane! May quá—
@@ -1472,7 +1472,7 @@ Dialogue: 0,1:36:58.54,1:37:00.96,Default,Aoi,0,0,0,,Khoan... Aka-nee, nặng qu
 Dialogue: 0,1:37:00.96,1:37:01.42,Default,Akane,0,0,0,,Quá {\alpha&FF}đáng!
 Dialogue: 0,1:37:01.42,1:37:02.21,Default,Akane,0,0,0,,Quá đáng!
 Dialogue: 0,1:37:02.21,1:37:04.01,Default,Aoi,0,0,0,,Mà chị có làm sao không đấy?
-Dialogue: 0,1:37:04.01,1:37:07.05,Default,Akane,0,0,0,,Không hề hấn gì! Em cứ lo bò trắng răng.
+Dialogue: 0,1:37:04.01,1:37:07.05,Default,Akane,0,0,0,,Chị không sao đâu! Em cứ hay lo xa.
 Dialogue: 0,1:37:07.05,1:37:10.85,Default,Aoi,0,0,0,,Chị nói gì thế?!\NMọi người lo cho chị lắm đấy!
 Dialogue: 0,1:37:10.85,1:37:12.43,Default,Akane,0,0,0,,Chị xin lỗi, Aoi.
 Dialogue: 0,1:37:12.43,1:37:15.27,Default,Akane,0,0,0,,Xin lỗi vì làm em lo lắng nhé!
@@ -1494,14 +1494,14 @@ Dialogue: 0,1:38:27.09,1:38:28.05,Default,Shinnosuke,0,0,0,,Ủa?
 Dialogue: 0,1:38:29.22,1:38:32.59,Default,Shinnosuke,0,0,0,,Cậu ta ngủ mất rồi à?
 Dialogue: 0,1:38:33.80,1:38:37.27,Default,Akane,0,0,0,,Không sao đâu, cậu ấy đã vất vả lắm rồi.
 Dialogue: 0,1:38:42.44,1:38:43.94,Default,Shinnosuke,0,0,0,,Em biết không,
-Dialogue: 0,1:38:45.57,1:38:49.19,Default,Shinnosuke,0,0,0,,cậu ta bảo anh đã bước về phía trước rồi.
+Dialogue: 0,1:38:45.57,1:38:49.19,Default,Shinnosuke,0,0,0,,cậu ta bảo anh đã tiến về trước rồi.
 Dialogue: 0,1:38:51.07,1:38:54.28,Default,Shinnosuke,0,0,0,,Nhưng mọi thứ vẫn còn dang dở lắm.
 Dialogue: 0,1:38:55.74,1:38:58.79,Default,Shinnosuke,0,0,0,,Anh nhớ ra mình mới đi được\Nnửa chặng đường thôi.
 Dialogue: 0,1:39:00.04,1:39:04.79,Default,Shinnosuke,0,0,0,,Thế nên, anh vẫn chưa muốn bỏ cuộc đâu.
-Dialogue: 0,1:39:08.84,1:39:12.72,Default,Shinnosuke,0,0,0,,Và anh cũng nhất quyết không từ bỏ em đâu.
+Dialogue: 0,1:39:08.84,1:39:12.72,Default,Shinnosuke,0,0,0,,Nên anh cũng không từ bỏ em đâu.
 Dialogue: 0,1:39:23.10,1:39:25.65,Default,Akane,0,0,0,,"Ba người" ư...
 Dialogue: 0,1:39:27.52,1:39:33.61,Default,Akane,0,0,0,,Ra thế. Aoi giờ cũng trạc\Ntuổi em hồi ấy rồi nhỉ.
-Dialogue: 0,1:39:44.42,1:39:49.34,Default,Akane,0,0,0,,Lần tới... chắc em sẽ làm thử\Ncơm nắm cá ngừ sốt mayo xem sao.
+Dialogue: 0,1:39:44.42,1:39:49.34,Default,Akane,0,0,0,,Lần tới em làm thử cơm nắm\Ncá ngừ sốt mayo xem sao.
 Dialogue: 0,1:39:52.17,1:39:54.30,Default,Shinnosuke,0,0,0,,Này, ý em là—
 Dialogue: 0,1:39:55.14,1:39:56.68,Default,Shinnosuke,0,0,0,,Ủa?
 Dialogue: 0,1:40:24.25,1:40:27.04,Default,Aoi,0,0,0,,Em không có khóc!
