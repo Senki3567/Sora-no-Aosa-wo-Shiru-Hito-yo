@@ -17,9 +17,8 @@ Video File: Her.Blue.Sky.2019.1080p.BluRay.Dual-Audio.Opus.5.1.x265-YURASUKA.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Scroll Position: 30
-Active Line: 33
-Video Position: 4164
+Active Line: 2361
+Video Position: 61723
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +38,7 @@ Style: Top,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,==================== [THOẠI] ====================
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=97}==================== [THOẠI] ====================
 Dialogue: 0,0:01:17.56,0:01:20.10,Italics,Aoi,0,0,0,,Mình lúc nào cũng đi tìm.
 Dialogue: 0,0:01:30.40,0:01:31.95,Italics,Aoi,0,0,0,,Vẫn luôn kiếm tìm.
 Dialogue: 0,0:01:41.58,0:01:44.67,Default,Shinno,0,0,0,,Hụt rồi. Lại là nhân tảo bẹ nữa à?
@@ -220,7 +219,7 @@ Dialogue: 0,0:12:31.02,0:12:32.94,Default,Akane,0,0,0,,Tên gì mà kỳ cục t
 Dialogue: 0,0:12:32.94,0:12:34.40,Default,Akane,0,0,0,,Chẳng ai hiểu nổi đâu.
 Dialogue: 0,0:12:34.40,0:12:36.74,Default,Shinno,0,0,0,,Gì chứ? Ngầu thế còn gì!
 Dialogue: 0,0:12:36.74,0:12:38.61,Default,Aoi,0,0,0,,Ngầu lắm luôn!
-Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Nitobe Dankichi từng lên diễn\NĐêm Giao Thừa đúng không nhỉ?
+Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Dankichi Nitobe từng lên diễn\NĐêm Giao Thừa đúng không nhỉ?
 Dialogue: 0,0:12:53.59,0:12:55.96,Default,Akane,0,0,0,,À, em nhớ mang máng rồi.
 Dialogue: 0,0:12:55.96,0:12:58.76,Default,Akane,0,0,0,,Ông ấy cưỡi kiệu vàng chói\Ntrông kỳ cục lắm nhỉ?
 Dialogue: 0,0:12:58.76,0:13:01.59,Default,Colleague,0,0,0,,À, chị cũng xem cái đó rồi.
@@ -320,7 +319,7 @@ Dialogue: 0,0:19:00.58,0:19:04.46,Default,Tsugu,0,0,0,,Thế là bị ăn chực
 Dialogue: 0,0:19:05.87,0:19:07.25,Default,Aoi,0,0,0,,Tsugu?
 Dialogue: 0,0:19:11.46,0:19:12.80,Top,Townsperson,0,0,0,,Cái gì thế—
 Dialogue: 0,0:19:17.14,0:19:20.31,Default,Nitobe,0,0,0,,Thưa quý vị, xin lỗi để mọi người chờ lâu!
-Dialogue: 0,0:19:20.31,0:19:23.06,Default,Nitobe,0,0,0,,Đấng nam nhi cô độc,\NNitobe Dankichi ta đây,
+Dialogue: 0,0:19:20.31,0:19:23.06,Default,Nitobe,0,0,0,,Đấng nam nhi cô độc,\NDankichi Nitobe ta đây,
 Dialogue: 0,0:19:23.06,0:19:30.40,Default,Nitobe,0,0,0,,đã vượt núi băng đồng từ phương xa,\Nmang món quà nụ cười tới tặng chư vị!
 Dialogue: 0,0:19:30.40,0:19:32.15,Default,Masamichi,0,0,0,,C-Cú lừa à?
 Dialogue: 0,0:19:32.15,0:19:33.49,Top,Townsperson,0,0,0,,Dan-chan kìa phải không?!
@@ -354,7 +353,7 @@ Dialogue: 0,0:21:38.11,0:21:39.90,Default,Shinno,0,0,0,,Đã bảo tôi là Shin
 Dialogue: 0,0:21:39.90,0:21:41.74,Default,Shinno,0,0,0,,Còn cậu là ai?
 Dialogue: 0,0:21:41.74,0:21:44.28,Default,Tsugu,0,0,0,,Ao-chan, cứ chạy trước đi đã.
 Dialogue: 0,0:21:44.28,0:21:44.91,Default,Shinno,0,0,0,,Ao-chan á?
-Dialogue: 0,0:21:47.62,0:21:49.75,Default,Aoi,0,0,0,,Aioi Aoi.
+Dialogue: 0,0:21:47.62,0:21:49.75,Default,Aoi,0,0,0,,Aoi Aioi.
 Dialogue: 0,0:21:49.75,0:21:52.29,Default,Aoi,0,0,0,,Sao Mắt Biếc số hai.
 Dialogue: 0,0:21:59.80,0:22:00.67,Default,Shinno,0,0,0,,Hôm đó,
 Dialogue: 0,0:22:00.67,0:22:03.59,Default,Shinno,0,0,0,,lúc Akane bảo không lên Tokyo cùng anh.
@@ -504,7 +503,7 @@ Dialogue: 0,0:29:37.88,0:29:38.67,Default,Aoi,0,0,0,,Hả?
 Dialogue: 0,0:29:38.67,0:29:41.80,Default,Akane,0,0,0,,Có sao đâu!\NLâu rồi chị em mình chưa ngủ chung.
 Dialogue: 0,0:29:47.97,0:29:48.77,Default,Aoi,0,0,0,,Chị này.
 Dialogue: 0,0:29:48.77,0:29:49.81,Default,Akane,0,0,0,,Ừ?
-Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Kể em nghe về\NKanamuro Shinnosuke đi.
+Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Kể em nghe về\NShinnosuke Kanamuro đi.
 Dialogue: 0,0:29:53.48,0:29:54.98,Default,Akane,0,0,0,,Chỉ là một gã nát rượu thôi.
 Dialogue: 0,0:29:54.98,0:29:58.11,Default,Aoi,0,0,0,,Không phải bây giờ, hồi xưa cơ.
 Dialogue: 0,0:29:58.11,0:30:01.49,Default,Akane,0,0,0,,Lâu quá rồi, chị quên sạch rồi.
@@ -616,12 +615,12 @@ Dialogue: 0,0:35:52.38,0:35:54.38,Top,Staff,0,0,0,,cho tới khi hết viêm m�
 Dialogue: 0,0:35:54.38,0:35:56.97,Default,Masamichi,0,0,0,,Chắc khó lên sân khấu nổi rồi.
 Dialogue: 0,0:35:56.97,0:35:59.26,Default,Masamichi,0,0,0,,Dù sao cũng có bản thu sẵn rồi,
 Dialogue: 0,0:35:59.26,0:36:02.14,Default,Masamichi,0,0,0,,Cùng lắm thì không diễn nhạc sống nữa...
-Dialogue: 0,0:36:02.14,0:36:05.52,Default,Nitobe,0,0,0,,{\fnCrapGPPB\fs90\fscx90}Bác bỏ nhé, bác bỏ nhé~
+Dialogue: 0,0:36:02.14,0:36:05.52,Default,Nitobe,0,0,0,,Bác bỏ nhé, bác bỏ nhé~
 Dialogue: 0,0:36:05.52,0:36:07.19,Default,Masamichi,0,0,0,,Nitobe-sensei?
 Dialogue: 0,0:36:07.19,0:36:08.73,Default,Nitobe,0,0,0,,Âm thanh có sự sống đấy.
 Dialogue: 0,0:36:08.73,0:36:10.27,Default,Nitobe,0,0,0,,Là sinh mệnh đấy.
 Dialogue: 0,0:36:10.27,0:36:13.98,Default,Nitobe,0,0,0,,Không có nhạc sống,\Nta chẳng thể hát nên cái hồn của Enka.
-Dialogue: 0,0:36:13.98,0:36:19.53,Default,Nitobe,0,0,0,,Nitobe Dankichi ta đây tuyệt đối không\Nhát cùng nhạc thu sẵn đâu!
+Dialogue: 0,0:36:13.98,0:36:19.53,Default,Nitobe,0,0,0,,Dankichi Nitobe ta đây tuyệt đối không\Nhát cùng nhạc thu sẵn đâu!
 Dialogue: 0,0:36:19.53,0:36:20.83,Default,Masamichi,0,0,0,,Nh-Nhưng mà...
 Dialogue: 0,0:36:20.83,0:36:24.62,Default,Manager,0,0,0,,Giờ mà đi tìm người mới thì...
 Dialogue: 0,0:36:26.37,0:36:29.46,Default,Akane,0,0,0,,Đang thiếu một tay trống\Nvà một tay bass nhỉ?
@@ -1066,7 +1065,7 @@ Dialogue: 0,1:05:59.64,1:06:00.56,Default,Shinnosuke,0,0,0,,Sao em lại—
 Dialogue: 0,1:06:01.10,1:06:04.82,Default,Akane,0,0,0,,Em có mua đĩa hẳn hoi đấy,\Nbài ra mắt solo của Shinno.
 Dialogue: 0,1:06:04.82,1:06:07.03,Default,Shinnosuke,0,0,0,,Quá khứ đen tối của anh đấy.
 Dialogue: 0,1:06:08.82,1:06:12.41,Default,Akane,0,0,0,,Em thích bài đó ngang\Nbài "Gandhara" luôn đấy.
-Dialogue: 0,1:06:57.03,1:06:59.33,Default,Shinnosuke,0,0,0,,Phong cách Nitobe Dankichi!
+Dialogue: 0,1:06:57.03,1:06:59.33,Default,Shinnosuke,0,0,0,,Phong cách Dankichi Nitobe!
 Dialogue: 0,1:07:11.55,1:07:14.55,Default,Akane,0,0,0,,Gì thế hả? Hát đàng hoàng đi chứ!
 Dialogue: 0,1:07:14.55,1:07:17.01,Default,Shinnosuke,0,0,0,,Tiếp theo, phong cách thầy dạy toán Saito!
 Dialogue: 0,1:07:25.60,1:07:26.73,Italics,Aoi,0,0,0,,Aka-nee...
@@ -1510,9 +1509,9 @@ Dialogue: 0,1:40:53.03,1:40:53.99,Default,Aoi,0,0,0,,Em không...
 Dialogue: 0,1:40:57.16,1:40:59.20,Default,Aoi,0,0,0,,có khóc.
 Dialogue: 0,1:41:04.83,1:41:06.00,Default,Aoi,0,0,0,,Đồ ngốc Shinno.
 Dialogue: 0,1:41:32.15,1:41:33.19,Default,Aoi,0,0,0,,Ôi... Bầu trời...
-Dialogue: 0,1:41:35.28,1:41:36.82,Default,Aoi,0,0,0,,xanh chết đi được.
+Dialogue: 0,1:41:35.28,1:41:36.82,Default,Aoi,0,0,0,,{=98}xanh chết đi được.
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,==================== [SIGN] ====================
-Dialogue: 0,0:05:33.86,0:05:33.90,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(839.2,358.1)\frz-10.49\fnStem-Medium\fs17\c&H252625&\blur0.7}Akane
+Dialogue: 0,0:05:33.86,0:05:33.90,Signs - Anarchy,,0,0,0,,{=67=125}{\an4\pos(839.2,358.1)\frz-10.49\fnStem-Medium\fs17\c&H252625&\blur0.7}Akane
 Dialogue: 0,0:05:33.90,0:05:33.94,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(839.21,358.12)\fscx99.99\fscy99.99\frz-10.49\fnStem-Medium\fs17\c&H252625&\blur0.7}Akane
 Dialogue: 0,0:05:33.94,0:05:33.98,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(839.22,358.14)\fscx99.99\fscy99.99\frz-10.5\fnStem-Medium\fs17\c&H252625&\blur0.7}Akane
 Dialogue: 0,0:05:33.98,0:05:34.02,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(857.1,367.1)\fscx100.02\fscy100.02\frz-9.52\fnStem-Medium\fs17\c&H252625&\blur0.7}Akane
@@ -1543,8 +1542,8 @@ Dialogue: 0,0:05:34.69,0:05:34.73,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(858.6,5
 Dialogue: 0,0:05:34.73,0:05:34.77,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(853.63,527.5)\fscx98.79\fscy98.79\frz-10.25\fs17\c&H252625&\blur0.7}1 Unread Message
 Dialogue: 0,0:05:34.77,0:05:34.81,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(863.35,519.24)\fscx94.45\fscy94.45\frz-10.08\fs17\c&H252625&\blur0.7}1 Unread Message
 Dialogue: 0,0:05:34.81,0:05:34.86,Signs - Anarchy,,0,0,0,,{=67}{\an4\pos(876.89,507.52)\fscx88.29\fscy88.29\frz-10.3\fs17\c&H252625&\blur0.7\clip(m 853 528 l 933 545 946 486 867 472)}1 Unread Message
-Dialogue: 0,0:05:34.86,0:05:34.90,Signs - Anarchy,,0,0,0,,{\an4\pos(883.747,507.52)\fscx88.29\fscy88.29\frz-10.3\fs17\c&H252625&\blur0.7\clip(m 853 528 l 893 533 904 474 867 472)}1 Unread Message
-Dialogue: 1,0:05:34.86,0:05:34.90,Signs,,0,0,0,,{=66}{\fscx100\fscy100\1a&H00&\fnLeelawadee UI Semilight\fax-0.06\be1\fs16\c&HF6F6F6&\frz354.4\pos(1073.39,261.57)}Akane
+Dialogue: 0,0:05:34.86,0:05:34.90,Signs - Anarchy,,0,0,0,,{=126}{\an4\pos(883.747,507.52)\fscx88.29\fscy88.29\frz-10.3\fs17\c&H252625&\blur0.7\clip(m 853 528 l 893 533 904 474 867 472)}1 Unread Message
+Dialogue: 1,0:05:34.86,0:05:34.90,Signs,,0,0,0,,{=66=127}{\fscx100\fscy100\1a&H00&\fnLeelawadee UI Semilight\fax-0.06\be1\fs16\c&HF6F6F6&\frz354.4\pos(1073.39,261.57)}Akane
 Dialogue: 0,0:05:34.86,0:05:34.90,Signs,,0,0,0,,{=65}{\fscx100\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fax-0.06\be0\fs16\bord5\frz354.4\1c&H443B39&\3c&H443B39&\pos(1073.39,261.57)}llllllll
 Dialogue: 1,0:05:34.90,0:05:34.94,Signs,,0,0,0,,{=66}{\fscx100\fscy100\1a&H00&\fnLeelawadee UI Semilight\fax-0.07\be1\fs22\c&HF6F6F6&\frz354.4\pos(1099.47,166.4)}Akane
 Dialogue: 0,0:05:34.90,0:05:34.94,Signs,,0,0,0,,{=65}{\fscx100\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fax-0.07\be0\fs22\bord5\frz354.4\pos(1099.47,166.4)\1c&H443B39&\3c&H443B39&}lllllllllll
@@ -1564,8 +1563,8 @@ Dialogue: 0,0:05:35.15,0:05:35.19,Signs,,0,0,0,,{=65}{\fscx129.42\fscy129.42\1a&
 Dialogue: 1,0:05:35.19,0:05:35.23,Signs,,0,0,0,,{=66}{\fscx129.42\fscy129.42\1a&H00&\fnLeelawadee UI Semilight\fax-0.07\be1\fs22\c&HF6F6F6&\frz354.4\pos(1141.26,-0.1)}Akane
 Dialogue: 0,0:05:35.19,0:05:35.23,Signs,,0,0,0,,{=65}{\fscx125.98\fscy125.98\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fax-0.07\be0\fs22\bord6.3\frz354.4\1c&H4B494D&\3c&H4B494D&\pos(1141.26,-0.1)}lllllllllll
 Dialogue: 1,0:05:35.23,0:05:35.27,Signs,,0,0,0,,{=66}{\fad(0,50)\fscx129.42\fscy129.42\1a&H00&\fnLeelawadee UI Semilight\fax-0.07\be1\fs22\c&HF6F6F6&\frz354.4\pos(1141.26,-0.84)}Akane
-Dialogue: 0,0:05:35.23,0:05:35.27,Signs,,0,0,0,,{=65}{\fad(0,50)\fscx125.98\fscy125.98\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fax-0.07\be0\fs22\bord6.3\frz354.4\c&H4B494D&\3c&H4B494D&\pos(1139.31,0.46)}lllllllllll
-Dialogue: 1,0:05:34.86,0:05:34.90,Signs - Anarchy,,0,0,0,,{=65}{\pos(1108.3,314.92)\fscx61.37\fscy61.37\frz-7.77\fax-0.09\fs15\c&H1C5A7C&\blur0.7}I want pork meat for dinner.
+Dialogue: 0,0:05:35.23,0:05:35.27,Signs,,0,0,0,,{=65=128}{\fad(0,50)\fscx125.98\fscy125.98\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fax-0.07\be0\fs22\bord6.3\frz354.4\c&H4B494D&\3c&H4B494D&\pos(1139.31,0.46)}lllllllllll
+Dialogue: 1,0:05:34.86,0:05:34.90,Signs - Anarchy,,0,0,0,,{=65=129}{\pos(1108.3,314.92)\fscx61.37\fscy61.37\frz-7.77\fax-0.09\fs15\c&H1C5A7C&\blur0.7}I want pork meat for dinner.
 Dialogue: 1,0:05:34.90,0:05:34.94,Signs - Anarchy,,0,0,0,,{=65}{\pos(1142.19,234.47)\fscx76.55\fscy76.55\frz-7.35\fax-0.09\fs15\c&H1C5A7C&\blur0.7}{I want pork meat for dinner..}I want pork meat for dinner.
 Dialogue: 1,0:05:34.94,0:05:34.98,Signs - Anarchy,,0,0,0,,{=65}{\pos(1163.47,184.08)\fscx86.06\fscy86.06\frz-7.12\fax-0.09\fs15\c&H1C5A7C&\blur0.7}{I want pork meat for dinner..}I want pork meat for dinner.
 Dialogue: 1,0:05:34.98,0:05:35.02,Signs - Anarchy,,0,0,0,,{=65}{\pos(1173.98,153.63)\fscx92.21\fscy92.21\frz-6.37\fax-0.09\fs15\c&H1C5A7C&\blur0.7}{I want pork meat for dinner..}I want pork meat for dinner.
@@ -1629,35 +1628,35 @@ Dialogue: 0,0:05:35.11,0:05:35.15,Signs - Anarchy,,0,0,0,,{=65}{\pos(1088.3,274.
 Dialogue: 0,0:05:35.15,0:05:35.19,Signs - Anarchy,,0,0,0,,{=65}{\pos(1089.91,269.25)\fscx103.66\fscy103.66\frz-7.87\fax-0.03\fs10\c&HDFDFDF&\blur0.7}{New}New
 Dialogue: 0,0:05:35.19,0:05:35.23,Signs - Anarchy,,0,0,0,,{=65}{\pos(1090.92,266.36)\fscx103.58\fscy103.58\frz-7.53\fax-0.03\fs10\c&HDFDFDF&\blur0.7}{New}New
 Dialogue: 0,0:05:35.23,0:05:35.27,Signs - Anarchy,,0,0,0,,{=65}{\pos(1091.08,265.49)\fscx104.29\fscy104.29\frz-7.6\fax-0.03\fs10\c&HDFDFDF&\blur0.7}{New}New
-Dialogue: 0,0:05:35.27,0:05:36.86,Signs - Anarchy,,0,0,0,,{=65}{\pos(1091.11,265.42)\fscx104.29\fscy104.29\frz-7.58\fax-0.03\fs10\c&HDFDFDF&\blur0.7}{New}New
-Dialogue: 0,0:06:04.43,0:06:04.47,Signs,,0,0,0,,{\frz345.6\fs15\fscy108\bord6\be1\fax-0.1\pos(1186.778,495.556)\1c&H39301E&\2c&H39301E&\3c&H39301E&}l{\1c&H39301E&\2c&H39301E&\3c&H39301E&}l{\1c&H382F1D&\2c&H382F1D&\3c&H382F1D&}l{\1c&H382F1D&\2c&H382F1D&\3c&H382F1D&}l{\1c&H382E1C&\2c&H382E1C&\3c&H382E1C&}l{\1c&H372E1C&\2c&H372E1C&\3c&H372E1C&}l{\1c&H372D1B&\2c&H372D1B&\3c&H372D1B&}l{\1c&H372D1B&\2c&H372D1B&\3c&H372D1B&}l{\1c&H372C1A&\2c&H372C1A&\3c&H372C1A&}l{\1c&H362C1A&\2c&H362C1A&\3c&H362C1A&}l{\1c&H362B19&\2c&H362B19&\3c&H362B19&}l{\1c&H362B19&\2c&H362B19&\3c&H362B19&}l{\1c&H352A18&\2c&H352A18&\3c&H352A18&}l{\1c&H352918&\2c&H352918&\3c&H352918&}l{\1c&H352918&\2c&H352918&\3c&H352918&}l{\1c&H342817&\2c&H342817&\3c&H342817&}l{\1c&H342817&\2c&H342817&\3c&H342817&}l{\1c&H342716&\2c&H342716&\3c&H342716&}l{\1c&H332716&\2c&H332716&\3c&H332716&}l{\1c&H332615&\2c&H332615&\3c&H332615&}l{\1c&H332615&\2c&H332615&\3c&H332615&}l{\1c&H332514&\2c&H332514&\3c&H332514&}l{\1c&H322514&\2c&H322514&\3c&H322514&}l{\1c&H322413&\2c&H322413&\3c&H322413&}l{\1c&H322413&\2c&H322413&\3c&H322413&}l{\1c&H312312&\2c&H312312&\3c&H312312&}l{\1c&H312312&\2c&H312312&\3c&H312312&}lll
+Dialogue: 0,0:05:35.27,0:05:36.86,Signs - Anarchy,,0,0,0,,{=65=130}{\pos(1091.11,265.42)\fscx104.29\fscy104.29\frz-7.58\fax-0.03\fs10\c&HDFDFDF&\blur0.7}{New}New
+Dialogue: 0,0:06:04.43,0:06:04.47,Signs,,0,0,0,,{=131}{\frz345.6\fs15\fscy108\bord6\be1\fax-0.1\pos(1186.778,495.556)\1c&H39301E&\2c&H39301E&\3c&H39301E&}l{\1c&H39301E&\2c&H39301E&\3c&H39301E&}l{\1c&H382F1D&\2c&H382F1D&\3c&H382F1D&}l{\1c&H382F1D&\2c&H382F1D&\3c&H382F1D&}l{\1c&H382E1C&\2c&H382E1C&\3c&H382E1C&}l{\1c&H372E1C&\2c&H372E1C&\3c&H372E1C&}l{\1c&H372D1B&\2c&H372D1B&\3c&H372D1B&}l{\1c&H372D1B&\2c&H372D1B&\3c&H372D1B&}l{\1c&H372C1A&\2c&H372C1A&\3c&H372C1A&}l{\1c&H362C1A&\2c&H362C1A&\3c&H362C1A&}l{\1c&H362B19&\2c&H362B19&\3c&H362B19&}l{\1c&H362B19&\2c&H362B19&\3c&H362B19&}l{\1c&H352A18&\2c&H352A18&\3c&H352A18&}l{\1c&H352918&\2c&H352918&\3c&H352918&}l{\1c&H352918&\2c&H352918&\3c&H352918&}l{\1c&H342817&\2c&H342817&\3c&H342817&}l{\1c&H342817&\2c&H342817&\3c&H342817&}l{\1c&H342716&\2c&H342716&\3c&H342716&}l{\1c&H332716&\2c&H332716&\3c&H332716&}l{\1c&H332615&\2c&H332615&\3c&H332615&}l{\1c&H332615&\2c&H332615&\3c&H332615&}l{\1c&H332514&\2c&H332514&\3c&H332514&}l{\1c&H322514&\2c&H322514&\3c&H322514&}l{\1c&H322413&\2c&H322413&\3c&H322413&}l{\1c&H322413&\2c&H322413&\3c&H322413&}l{\1c&H312312&\2c&H312312&\3c&H312312&}l{\1c&H312312&\2c&H312312&\3c&H312312&}lll
 Dialogue: 0,0:06:04.43,0:06:04.47,Signs,,0,0,0,,{\fnLeelawadee UI Semilight\c&H181614&\3c&HF5F8F6&\1a&H72&\blur0.5\frz345.6\fs22\fax-0.1\1a&H78&\c&H8B8B8B&\pos(1184.778,493.556)\be1}October 28th
 Dialogue: 1,0:06:04.43,0:06:04.47,Signs,,0,0,0,,{\pos(1048.207,541.909)\org(1049,540)\frz-14.59\fry-0.48\frx1.26\fax-0.18\fnStem-Medium\fs14\c&H181614&\3c&HF5F8F6&\1a&H72&\blur0.5}Manager
 Dialogue: 1,0:06:04.43,0:06:04.47,Signs,,0,0,0,,{\pos(1056.931,582.756)\org(1059,583)\frz-14.69\fry-0.48\frx1.26\fax-0.17\fnStem-Medium\fs14\c&H181614&\3c&HF5F8F6&\1a&H72&\blur0.5}{1 Unread Message}1 Unread Message
 Dialogue: 0,0:06:04.47,0:06:05.43,Signs,,0,0,0,,{\frz345.6\fs15\fscy108\bord6\be1\blur\fax-0.1\pos(1186.778,495.556)\1c&HAF9E5B&\3c&HAF9E5B&}I{\1c&HAF9C59&\3c&HAF9C59&}l{\1c&HAE9B58&\3c&HAE9B58&}l{\1c&HAF9956&\3c&HAF9956&}l{\1c&HAE9754&\3c&HAE9754&}l{\1c&HAE9653&\3c&HAE9653&}l{\1c&HAE9551&\3c&HAE9551&}l{\1c&HAD9450&\3c&HAD9450&}l{\1c&HAD924E&\3c&HAD924E&}l{\1c&HAC904C&\3c&HAC904C&}l{\1c&HAC8F4B&\3c&HAC8F4B&}l{\1c&HAC8D49&\3c&HAC8D49&}l{\1c&HAB8B47&\3c&HAB8B47&}l{\1c&HAB8A46&\3c&HAB8A46&}l{\1c&HAA8844&\3c&HAA8844&}l{\1c&HAA8642&\3c&HAA8642&}l{\1c&HAA8541&\3c&HAA8541&}l{\1c&HA9833F&\3c&HA9833F&}l{\1c&HA9813D&\3c&HA9813D&}l{\1c&HA9813C&\3c&HA9813C&}l{\1c&HA87F3A&\3c&HA87F3A&}l{\1c&HA87D38&\3c&HA87D38&}l{\1c&HA77C37&\3c&HA77C37&}l{\1c&HA87A35&\3c&HA87A35&}l{\1c&HA87934&\3c&HA87934&}l{\1c&HA77732&\3c&HA77732&}l{\1c&HA77530&\3c&HA77530&}l{\1c&HA6742F&\3c&HA6742F&}l{\1c&HA6722D&\3c&HA6722D&}lll
 Dialogue: 0,0:06:04.47,0:06:05.43,Signs,,0,0,0,,{\fnLeelawadee UI Semilight\frz345.6\fs22\fax-0.1\1a&H28&\c&HFAFAFA&\pos(1184.778,493.556)\be1}October 28th
 Dialogue: 1,0:06:04.47,0:06:05.43,Signs,,0,0,0,,{\pos(1048.207,541.909)\org(1049,540)\frz-14.59\fry-0.48\frx1.26\fax-0.18\fnStem-Medium\fs14\c&H242424&\3c&HF5F8F6&\1a&H72&\blur0.5}Manager
-Dialogue: 1,0:06:04.47,0:06:05.43,Signs,,0,0,0,,{\pos(1056.931,582.756)\org(1059,583)\frz-14.69\fry-0.48\frx1.26\fax-0.17\fnStem-Medium\fs14\c&H242424&\3c&HF5F8F6&\1a&H72&\blur0.5}{1 Unread Message}1 Unread Message
-Dialogue: 0,0:06:35.04,0:06:43.55,Signs,,0,0,0,,{=43}{\clip()\t(21,8488,\clip())\fscx100\t(21,8488,\fscx108.72)\fscy100\t(21,8488,\fscy108.72)\1a&H00&\fnIwata Mincho Old Pro-Fate B\fs55\be0\c&HFFFFFF&\t(4000,4450,\c&HEADDC9&)\t(4451,4900,\c&HC5959D&)\t(4901,6600,\c&H674778&)\t(6601,6948,\c&H000000&)\move(1316.71,551.63,1327.69,557.6,21,8488)}Her
+Dialogue: 1,0:06:04.47,0:06:05.43,Signs,,0,0,0,,{=132}{\pos(1056.931,582.756)\org(1059,583)\frz-14.69\fry-0.48\frx1.26\fax-0.17\fnStem-Medium\fs14\c&H242424&\3c&HF5F8F6&\1a&H72&\blur0.5}{1 Unread Message}1 Unread Message
+Dialogue: 0,0:06:35.04,0:06:43.55,Signs,,0,0,0,,{=43=133}{\clip()\t(21,8488,\clip())\fscx100\t(21,8488,\fscx108.72)\fscy100\t(21,8488,\fscy108.72)\1a&H00&\fnIwata Mincho Old Pro-Fate B\fs55\be0\c&HFFFFFF&\t(4000,4450,\c&HEADDC9&)\t(4451,4900,\c&HC5959D&)\t(4901,6600,\c&H674778&)\t(6601,6948,\c&H000000&)\move(1316.71,551.63,1327.69,557.6,21,8488)}Her
 Dialogue: 0,0:06:35.04,0:06:43.55,Signs,,0,0,0,,{=44}{\clip()\t(21,8488,\clip())\fscx100\t(21,8488,\fscx108.72)\fscy100\t(21,8488,\fscy108.72)\1a&H00&\fnIwata Mincho Old Pro-Fate B\fs56\be0\c&HFFFFFF&\t(4000,4450,\c&HEADDC9&)\t(4451,4900,\c&HC5959D&)\t(4901,6600,\c&H674778&)\t(6601,6948,\c&H000000&)\frz0.2\move(1411.37,548.73,1430.6,554.45,21,8488)}Blue
-Dialogue: 0,0:06:35.04,0:06:43.55,Signs,,0,0,0,,{=46}{\clip()\t(21,8488,\clip())\fscx100\t(21,8488,\fscx108.72)\fscy100\t(21,8488,\fscy108.72)\1a&H00&\fnIwata Mincho Old Pro-Fate B\fs53\be0\c&HFFFFFF&\t(4000,4450,\c&HEADDC9&)\t(4451,4900,\c&HC5959D&)\t(4901,6600,\c&H674778&)\t(6601,6948,\c&H000000&)\frz0.4\move(1506.12,550.74,1533.63,556.64,21,8488)}Sky
-Dialogue: 0,0:06:47.14,0:06:48.64,Signs,,0,0,0,,{\fnDK Crayon Crumble\fscx80\fax0.14\be0\fs48\blur0.7\frx350\fry348\c&HF3F3F3&\1a&H32&\pos(1456,524)\frz350.2}October 25th
-Dialogue: 0,0:06:47.14,0:06:48.64,Signs,,0,0,0,,{\fnDK Crayon Crumble\fscx90\fax0.14\be0\blur0.7\fs48\frx350\fry348\c&HF3F3F3&\1a&H32&\pos(1450,670)\frz348.5}Friday
+Dialogue: 0,0:06:35.04,0:06:43.55,Signs,,0,0,0,,{=46=134}{\clip()\t(21,8488,\clip())\fscx100\t(21,8488,\fscx108.72)\fscy100\t(21,8488,\fscy108.72)\1a&H00&\fnIwata Mincho Old Pro-Fate B\fs53\be0\c&HFFFFFF&\t(4000,4450,\c&HEADDC9&)\t(4451,4900,\c&HC5959D&)\t(4901,6600,\c&H674778&)\t(6601,6948,\c&H000000&)\frz0.4\move(1506.12,550.74,1533.63,556.64,21,8488)}Sky
+Dialogue: 0,0:06:47.14,0:06:48.64,Signs,,0,0,0,,{=135}{\fnDK Crayon Crumble\fscx80\fax0.14\be0\fs48\blur0.7\frx350\fry348\c&HF3F3F3&\1a&H32&\pos(1456,524)\frz350.2}October 25th
+Dialogue: 0,0:06:47.14,0:06:48.64,Signs,,0,0,0,,{=136}{\fnDK Crayon Crumble\fscx90\fax0.14\be0\blur0.7\fs48\frx350\fry348\c&HF3F3F3&\1a&H32&\pos(1450,670)\frz348.5}Friday
 Dialogue: 0,0:09:12.74,0:09:15.70,Signs,,0,0,0,,{\fnEraserDust\fs50\fscx80\frx0\fry352\fax-0.2\blur0.6\frz8.837\c&HFFFFFF&\1a&H48&\pos(1120,86.971)}City of Music Festival - First Informational Meeting
 Dialogue: 0,0:09:21.71,0:09:28.30,Signs,,0,0,0,,{\fnEraserDust\fs30\fscx80\fax0.35\blur0.6\c&HFFFFFF&\1a&H48&\frz346.6\pos(1070.4,50.171)}City of Music Festival - First Informational Meeting
-Dialogue: 0,0:14:18.80,0:14:22.51,Signs,,0,0,0,,{\p1\pos(742.4,711.2)\blur1\c&H9DC3D7&}m 0 0 l 6 117 l 217 50 l 215 -66 l 0 -4
+Dialogue: 0,0:14:18.80,0:14:22.51,Signs,,0,0,0,,{=137}{\p1\pos(742.4,711.2)\blur1\c&H9DC3D7&}m 0 0 l 6 117 l 217 50 l 215 -66 l 0 -4
 Dialogue: 1,0:14:18.80,0:14:22.51,Signs,,0,0,0,,{\fnBettysHand\fs56\frz17.57\fax-0.24\be1\pos(752.933,672.333)\c&H000000&\1a&H1E&}Akane and Aoi
-Dialogue: 1,0:14:18.80,0:14:22.51,Signs,,0,0,0,,{\fnBettysHand\fs66\frz17.57\fax-0.24\be1\pos(677.633,644.533)\c&H000000&\1a&H1E&}Aioi
-Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs70\be1\c&H38393B&\frx350\pos(893.8,394.667)\frz353.4}Wel
+Dialogue: 1,0:14:18.80,0:14:22.51,Signs,,0,0,0,,{=138}{\fnBettysHand\fs66\frz17.57\fax-0.24\be1\pos(677.633,644.533)\c&H000000&\1a&H1E&}Aioi
+Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{=139}{\fnBee Marker Ink\fs70\be1\c&H38393B&\frx350\pos(893.8,394.667)\frz353.4}Wel
 Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs70\be1\c&H38393B&\frx350\pos(1025.1,401.067)\frz358.3}come
 Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs70\be1\c&H38393B&\frz2.625\frx350\pos(1198.1,398.667)}home
 Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs70\be1\c&H38393B&\frx350\fax-0.05\pos(1368.6,381.6)\frz7.153}Mast
 Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs70\be1\c&H38393B&\frx350\fax-0.05\pos(1489.3,360.8)\frz10.57}er!
 Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs50\be1\frz351.8\c&H38393B&\pos(774.4,786.8)}Welcome
 Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs50\be1\frz358.8\c&H38393B&\pos(944.9,802.4)}home
-Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{\fnBee Marker Ink\fs50\be1\frz8.843\c&H38393B&\pos(1149.1,781.6)}Shinnouske!
+Dialogue: 0,0:20:00.35,0:20:02.56,Signs,,0,0,0,,{=140}{\fnBee Marker Ink\fs50\be1\frz8.843\c&H38393B&\pos(1149.1,781.6)}Shinnouske!
 Dialogue: 0,0:21:09.12,0:21:11.37,Signs - Anarchy,,0,0,0,,{\pos(964.667,541.467)\org(964,541)\frz-0.48\fry-0.04\frx-10.88\fnBad Paintjob\fs45\c&H222122&\blur0.7}Fire Extinguisher
-Dialogue: 0,0:27:36.97,0:27:37.01,Signs - Anarchy,,0,0,0,,{=17}{\pos(934.88,625.53)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\blur0.6}Gandhara
+Dialogue: 0,0:27:36.97,0:27:37.01,Signs - Anarchy,,0,0,0,,{=17=141}{\pos(934.88,625.53)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\blur0.6}Gandhara
 Dialogue: 0,0:27:37.01,0:27:37.05,Signs - Anarchy,,0,0,0,,{=17}{\pos(934.87,625.43)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\blur0.6}Gandhara
 Dialogue: 0,0:27:37.05,0:27:37.09,Signs - Anarchy,,0,0,0,,{=17}{\pos(934.86,625.33)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\blur0.6}Gandhara
 Dialogue: 0,0:27:37.09,0:27:37.14,Signs - Anarchy,,0,0,0,,{=17}{\pos(934.84,624.71)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\blur0.6}Gandhara
@@ -1918,16 +1917,16 @@ Dialogue: 0,0:27:47.69,0:27:47.73,Signs - Anarchy,,0,0,0,,{=17}{\pos(934.45,622.
 Dialogue: 0,0:27:47.73,0:27:47.77,Signs - Anarchy,,0,0,0,,{=17}{\pos(934.24,625.99)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\1c&H030406&\blur0.6}Gandhara
 Dialogue: 0,0:27:47.77,0:27:47.81,Signs - Anarchy,,0,0,0,,{=17}{\pos(933.24,623.51)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\1c&H030406&\blur0.6}Gandhara
 Dialogue: 0,0:27:47.81,0:27:47.85,Signs - Anarchy,,0,0,0,,{=17}{\pos(933.59,626.36)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\1c&H030406&\blur0.6}Gandhara
-Dialogue: 0,0:27:47.85,0:27:47.90,Signs - Anarchy,,0,0,0,,{=17}{\pos(936.02,623.26)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\1c&H030406&\blur0.6}Gandhara
-Dialogue: 0,0:29:30.29,0:29:33.63,Signs,,0,0,0,,{\fnLeelawadee UI Semilight\fs34\bord3.6\be1\frz1.483\pos(896.889,286.222)\1c&HAB814F&\2c&HAF8451&\3c&HAB814F&}l{\1c&HAB814F&\2c&HAF8451&\3c&HAB814F&}l{\1c&HAB814F&\2c&HAF8451&\3c&HAB814F&}l{\1c&HAC824F&\2c&HAF8451&\3c&HAC824F&}l{\1c&HAC824F&\2c&HAF8451&\3c&HAC824F&}l{\1c&HAC8250&\2c&HAF8451&\3c&HAC8250&}l{\1c&HAC8250&\2c&HAF8451&\3c&HAC8250&}l{\1c&HAD8250&\2c&HAF8451&\3c&HAD8250&}l{\1c&HAD8350&\2c&HAF8451&\3c&HAD8350&}l{\1c&HAD8350&\2c&HAF8451&\3c&HAD8350&}l{\1c&HAE8350&\2c&HAF8451&\3c&HAE8350&}l{\1c&HAE8350&\2c&HAF8451&\3c&HAE8350&}l{\1c&HAE8351&\2c&HAF8451&\3c&HAE8351&}l{\1c&HAE8351&\2c&HAF8451&\3c&HAE8351&}l{\1c&HAF8451&\2c&HAF8451&\3c&HAF8451&}l{\1c&HAF8451&\2c&HAF8451&\3c&HAF8451&}l{\1c&HAF8451&\2c&HAF8451&\3c&HAF8451&}l
+Dialogue: 0,0:27:47.85,0:27:47.90,Signs - Anarchy,,0,0,0,,{=17=142}{\pos(936.02,623.26)\org(934,623)\frz-6.7\fry-0.08\frx-0.34\fs25\b0\1c&H030406&\blur0.6}Gandhara
+Dialogue: 0,0:29:30.29,0:29:33.63,Signs,,0,0,0,,{=143}{\fnLeelawadee UI Semilight\fs34\bord3.6\be1\frz1.483\pos(896.889,286.222)\1c&HAB814F&\2c&HAF8451&\3c&HAB814F&}l{\1c&HAB814F&\2c&HAF8451&\3c&HAB814F&}l{\1c&HAB814F&\2c&HAF8451&\3c&HAB814F&}l{\1c&HAC824F&\2c&HAF8451&\3c&HAC824F&}l{\1c&HAC824F&\2c&HAF8451&\3c&HAC824F&}l{\1c&HAC8250&\2c&HAF8451&\3c&HAC8250&}l{\1c&HAC8250&\2c&HAF8451&\3c&HAC8250&}l{\1c&HAD8250&\2c&HAF8451&\3c&HAD8250&}l{\1c&HAD8350&\2c&HAF8451&\3c&HAD8350&}l{\1c&HAD8350&\2c&HAF8451&\3c&HAD8350&}l{\1c&HAE8350&\2c&HAF8451&\3c&HAE8350&}l{\1c&HAE8350&\2c&HAF8451&\3c&HAE8350&}l{\1c&HAE8351&\2c&HAF8451&\3c&HAE8351&}l{\1c&HAE8351&\2c&HAF8451&\3c&HAE8351&}l{\1c&HAF8451&\2c&HAF8451&\3c&HAF8451&}l{\1c&HAF8451&\2c&HAF8451&\3c&HAF8451&}l{\1c&HAF8451&\2c&HAF8451&\3c&HAF8451&}l
 Dialogue: 0,0:29:30.29,0:29:33.63,Signs - Anarchy,,0,0,0,,{\frz0.9\fry0.1\frx-3.18\fax0.02\fnStem-Medium\fs30\c&HF9F8F9&\blur0.7\pos(941.43,284.69)}Web Encyclopedia
 Dialogue: 0,0:29:30.29,0:29:33.63,Signs,,0,0,0,,{\fnLeelawadee UI Semilight\fs50\bord3\be1\fscx25\frz1.483\1c&HE4E4E4&\3c&HE4E4E4&\pos(832.997,351.223)}l{\1c&HE5E5E5&\3c&HE5E5E5&}l{\1c&HE6E6E6&\3c&HE6E6E6&}l{\1c&HE7E7E7&\3c&HE7E7E7&}l{\1c&HE8E8E8&\3c&HE8E8E8&}l{\1c&HE9E9E9&\3c&HE9E9E9&}l{\1c&HEAEAEA&\3c&HEAEAEA&}l{\1c&HEBEBEB&\3c&HEBEBEB&}l{\1c&HECECEC&\3c&HECECEC&}l{\1c&HEEEEEE&\3c&HEEEEEE&}l{\1c&HEFEFEF&\3c&HEFEFEF&}l{\1c&HF0F0F0&\3c&HF0F0F0&}l{\1c&HF1F1F1&\3c&HF1F1F1&}l{\1c&HF2F2F2&\3c&HF2F2F2&}l{\1c&HF3F3F3&\3c&HF3F3F3&}l{\1c&HF4F4F4&\3c&HF4F4F4&}l{\1c&HF5F5F5&\3c&HF5F5F5&}l{\1c&HF6F6F6&\3c&HF6F6F6&}l{\1c&HF7F7F7&\3c&HF7F7F7&}llllllllll
-Dialogue: 0,0:29:30.29,0:29:33.63,Signs - Anarchy,,0,0,0,,{\org(864,372)\frz0.73\fry0.08\frx-3.25\fax0.03\fs30\c&H2B2C2B&\blur0.5\pos(880.842,348.642)}Living Spirits
-Dialogue: 1,0:32:10.91,0:32:13.37,Signs - Anarchy,,0,0,0,,{\frz17.55\fnGizmo Pencil Personal Use\fs130\fsp-4\bord2\c&H464341&\3c&H464341&\blur0.6\pos(988.41,617.71)}{CONQUER THE WORLD!}CONQUER
+Dialogue: 0,0:29:30.29,0:29:33.63,Signs - Anarchy,,0,0,0,,{=144}{\org(864,372)\frz0.73\fry0.08\frx-3.25\fax0.03\fs30\c&H2B2C2B&\blur0.5\pos(880.842,348.642)}Living Spirits
+Dialogue: 1,0:32:10.91,0:32:13.37,Signs - Anarchy,,0,0,0,,{=145}{\frz17.55\fnGizmo Pencil Personal Use\fs130\fsp-4\bord2\c&H464341&\3c&H464341&\blur0.6\pos(988.41,617.71)}{CONQUER THE WORLD!}CONQUER
 Dialogue: 2,0:32:10.91,0:32:13.37,Signs - Anarchy,,0,0,0,,{\frz17.55\fnGizmo Pencil Personal Use\fs130\fsp-4\c&H464341&\3c&H464341&\4a&HFF&\blur0.6\pos(988.41,617.71)}{CONQUER THE WORLD!}CONQUER
 Dialogue: 1,0:32:10.91,0:32:13.37,Signs - Anarchy,,0,0,0,,{\frz17.55\fnGizmo Pencil Personal Use\fs110\fsp-3\bord2\c&H464341&\3c&H464341&\blur0.6\pos(1483.2,542.62)}THE WORLD!
-Dialogue: 2,0:32:10.91,0:32:13.37,Signs - Anarchy,,0,0,0,,{\frz17.55\fnGizmo Pencil Personal Use\fs110\fsp-3\c&H464341&\4a&HFF&\blur0.6\pos(1483.2,542.62)}THE WORLD!
-Dialogue: 0,0:32:20.46,0:32:21.50,Signs,,0,0,0,,{=23}{\1a&H00&\p1\fscx174\fscy174\c&HFEFEFF&\pos(1456,863)}m 0 0 l -251 70 l -268 503 l -8 596 l 328 439 l 334 194 l 226 39 l 3 0
+Dialogue: 2,0:32:10.91,0:32:13.37,Signs - Anarchy,,0,0,0,,{=146}{\frz17.55\fnGizmo Pencil Personal Use\fs110\fsp-3\c&H464341&\4a&HFF&\blur0.6\pos(1483.2,542.62)}THE WORLD!
+Dialogue: 0,0:32:20.46,0:32:21.50,Signs,,0,0,0,,{=23=147}{\1a&H00&\p1\fscx174\fscy174\c&HFEFEFF&\pos(1456,863)}m 0 0 l -251 70 l -268 503 l -8 596 l 328 439 l 334 194 l 226 39 l 3 0
 Dialogue: 1,0:32:20.46,0:32:21.50,Signs,,0,0,0,,{=26}{\fscx100\fscy100\1a&H00&\3a&H00&\fnBoopee\fs111\bord2\blur1\c&H292F36&\3c&H292F36&\pos(944,880)}The frog at the bottom of a well \N\Ndoesn't know the vastness of the sea\N\Nbut it does know the blueness of the sky.\N\N\N\N\NAkane Aioi
 Dialogue: 2,0:32:20.46,0:32:21.50,Signs,,0,0,0,,{=26}{\fscx100\fscy100\1a&H00&\3a&H00&\fnBoopee\fs111\bord1.8\c&H292F36&\3c&H292F36&\pos(944,880)}The frog at the bottom of a well \N\Ndoesn't know the vastness of the sea\N\Nbut it does know the blueness of the sky.\N\N\N\N\NAkane Aioi
 Dialogue: 0,0:32:21.50,0:32:21.54,Signs,,0,0,0,,{=23}{\1a&H00&\p1\fscx174\fscy174\c&HFEFEFF&\pos(1455.99,863)}m 0 0 l -251 70 l -268 503 l -8 596 l 328 439 l 334 194 l 226 39 l 3 0
@@ -2289,9 +2288,9 @@ Dialogue: 1,0:32:26.51,0:32:26.55,Signs,,0,0,0,,{=26}{\fscx100.02\fscy100.02\1a&
 Dialogue: 2,0:32:26.51,0:32:26.55,Signs,,0,0,0,,{=26}{\fscx100.02\fscy100.02\1a&H00&\3a&H00&\fnBoopee\fs111\bord1.8\c&H292F36&\3c&H292F36&\pos(943.9,436.69)}The frog at the bottom of a well \N\Ndoesn't know the vastness of the sea\N\Nbut it does know the blueness of the sky.\N\N\N\N\NAkane Aioi
 Dialogue: 0,0:32:26.55,0:32:26.59,Signs,,0,0,0,,{=23}{\1a&H00&\p1\fscx174.03\fscy174.03\c&HFEFEFF&\pos(1456.01,418.95)}m 0 0 l -251 70 l -268 503 l -8 596 l 328 439 l 334 194 l 226 39 l 3 0
 Dialogue: 1,0:32:26.55,0:32:26.59,Signs,,0,0,0,,{=26}{\fscx100.02\fscy100.02\1a&H00&\3a&H00&\fnBoopee\fs111\bord2\blur1\c&H292F36&\3c&H292F36&\pos(943.91,435.95)}The frog at the bottom of a well \N\Ndoesn't know the vastness of the sea\N\Nbut it does know the blueness of the sky.\N\N\N\N\NAkane Aioi
-Dialogue: 2,0:32:26.55,0:32:26.59,Signs,,0,0,0,,{=26}{\fscx100.02\fscy100.02\1a&H00&\3a&H00&\fnBoopee\fs111\bord1.8\c&H292F36&\3c&H292F36&\pos(943.91,435.95)}The frog at the bottom of a well \N\Ndoesn't know the vastness of the sea\N\Nbut it does know the blueness of the sky.\N\N\N\N\NAkane Aioi
+Dialogue: 2,0:32:26.55,0:32:26.59,Signs,,0,0,0,,{=26=148}{\fscx100.02\fscy100.02\1a&H00&\3a&H00&\fnBoopee\fs111\bord1.8\c&H292F36&\3c&H292F36&\pos(943.91,435.95)}The frog at the bottom of a well \N\Ndoesn't know the vastness of the sea\N\Nbut it does know the blueness of the sky.\N\N\N\N\NAkane Aioi
 Dialogue: 0,0:33:26.86,0:33:38.87,Signs,,0,0,0,,{\fnBettysHand\fs32\be1\frx0\fry12\blur0.6\pos(543.667,247.778)\frz359.6\c&H101010&\1a&H00&}City of Music Festival
-Dialogue: 0,0:33:39.00,0:33:44.54,Signs,,0,0,0,,{\p1\bord6\be8\c&HF8DB94&\3c&HF8DB94&\frz359.9\pos(901.778,206.222)}m 0 0 l 40 -45 l 394 -53 l 430 -27 l 432 52 l 400 83 l 51 89 l 13 72 l 3 -2
+Dialogue: 0,0:33:39.00,0:33:44.54,Signs,,0,0,0,,{=149}{\p1\bord6\be8\c&HF8DB94&\3c&HF8DB94&\frz359.9\pos(901.778,206.222)}m 0 0 l 40 -45 l 394 -53 l 430 -27 l 432 52 l 400 83 l 51 89 l 13 72 l 3 -2
 Dialogue: 0,0:33:39.00,0:33:44.54,Signs - Anarchy,,0,0,0,,{\fax-0.01\fs50\pos(902.286,154.286)\blur0.7\frz1.001\c&H625653&}Members are enjoying\Nthemselves too!{\alpha&FF}............
 Dialogue: 0,0:33:44.54,0:33:44.59,Signs - Anarchy,,0,0,0,,{\pos(967.73,937.07)\frz-1.82\fnStem-Medium\fs30\c&H4E393A&\blur0.7}{Receipt}Rec{\c&H8A6768&}eipt
 Dialogue: 0,0:33:44.59,0:33:44.63,Signs - Anarchy,,0,0,0,,{\pos(964.52,704.5)\frz-1.82\fnStem-Medium\fs30\c&H4E393A&\blur0.7}{Receipt}Rec{\c&H8A6768&}eipt
@@ -2308,8 +2307,8 @@ Dialogue: 1,0:33:46.30,0:33:46.34,Signs - Anarchy,,0,0,0,,{\fax-0.01\fs50\frz1.3
 Dialogue: 0,0:33:46.34,0:33:46.38,Signs,,0,0,0,,{\p1\c&HF9CB75&\bord1\frz0.3331\blur3\3c&HF9CB75&\pos(966,1005.267)}m 0 0 l -2 -32 l 2 -41 l 9 -48 l 14 -54 l 22 -61 l 36 -64 l 49 -66 l 487 -74 l 502 -71 l 511 -65 l 519 -58 l 526 -49 l 529 -40 l 531 -29 l 533 83 l 526 95 l 520 104 l 512 109 l 504 112 l 493 114 l 477 116 l 466 118 l 454 117 l 435 118 l 48 126 l 32 123 l 23 118 l 18 115 l 10 108 l 4 100 l 0 95 l -2 89 l -1 -3
 Dialogue: 1,0:33:46.34,0:33:46.38,Signs - Anarchy,,0,0,0,,{\fax-0.01\fs50\pos(947.333,933.267)\frz1.331\c&H343230&\blur0.7}Excuse me, Is this the\Ncontact address that's\Nlisted on the receipt?{\alpha&FF}..
 Dialogue: 0,0:33:46.38,0:33:48.59,Signs,,0,0,0,,{\p1\c&HF9CB75&\bord1\frz0.3331\blur3\3c&HF9CB75&\pos(966,973.6)}m 0 0 l -2 -32 l 2 -41 l 9 -48 l 14 -54 l 22 -61 l 36 -64 l 49 -66 l 487 -74 l 502 -71 l 511 -65 l 519 -58 l 526 -49 l 529 -40 l 531 -29 l 533 83 l 526 95 l 520 104 l 512 109 l 504 112 l 493 114 l 477 116 l 466 118 l 454 117 l 435 118 l 48 126 l 32 123 l 23 118 l 18 115 l 10 108 l 4 100 l 0 95 l -2 89 l -1 -3
-Dialogue: 1,0:33:46.38,0:33:48.59,Signs - Anarchy,,0,0,0,,{\fax-0.01\fs50\frz0.873\pos(946,897.6)\c&H343230&\blur0.7}Excuse me, Is this the\Ncontact address that's\Nlisted on the receipt?{\alpha&FF}..
-Dialogue: 0,0:33:48.59,0:33:56.89,Signs,,0,0,0,,{=69}{\fscx100\fscy100\fnBettysHand\fs100\blur0.8\be1\c&H333333&\1a&H00&\pos(136.24,194.64)}City of Music Festival
+Dialogue: 1,0:33:46.38,0:33:48.59,Signs - Anarchy,,0,0,0,,{=150}{\fax-0.01\fs50\frz0.873\pos(946,897.6)\c&H343230&\blur0.7}Excuse me, Is this the\Ncontact address that's\Nlisted on the receipt?{\alpha&FF}..
+Dialogue: 0,0:33:48.59,0:33:56.89,Signs,,0,0,0,,{=69=123}{\fscx100\fscy100\fnBettysHand\fs100\blur0.8\be1\c&H333333&\1a&H00&\pos(136.24,194.64)}City of Music Festival
 Dialogue: 0,0:33:56.89,0:33:56.93,Signs,,0,0,0,,{=69}{\fscx99.98\fscy99.98\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(136.2,194.62)\blur0.8}City of Music Festival
 Dialogue: 0,0:33:56.93,0:33:56.97,Signs,,0,0,0,,{=69}{\fscx99.88\fscy99.88\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(136.1,194.42)\blur0.8}City of Music Festival
 Dialogue: 0,0:33:56.97,0:33:57.01,Signs,,0,0,0,,{=69}{\fscx99.76\fscy99.76\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(135.9,194.15)\blur0.8}City of Music Festival
@@ -2398,10 +2397,10 @@ Dialogue: 0,0:34:00.39,0:34:00.43,Signs,,0,0,0,,{=69}{\fscx55.58\fscy55.58\fnBet
 Dialogue: 0,0:34:00.43,0:34:00.48,Signs,,0,0,0,,{=69}{\fscx55.51\fscy55.51\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(76.4,109.57)\blur0.8}City of Music Festival
 Dialogue: 0,0:34:00.48,0:34:00.52,Signs,,0,0,0,,{=69}{\fscx55.48\fscy55.48\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(76.34,109.51)\blur0.8}City of Music Festival
 Dialogue: 0,0:34:00.52,0:34:00.56,Signs,,0,0,0,,{=69}{\fscx55.46\fscy55.46\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(76.3,109.42)\blur0.8}City of Music Festival
-Dialogue: 0,0:34:00.56,0:34:01.31,Signs,,0,0,0,,{=69}{\fscx55.46\fscy55.46\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(76.27,109.34)\blur0.8}City of Music Festival
+Dialogue: 0,0:34:00.56,0:34:01.31,Signs,,0,0,0,,{=69=124}{\fscx55.46\fscy55.46\fnBettysHand\fs100\be1\c&H333333&\1a&H00&\pos(76.27,109.34)\blur0.8}City of Music Festival
 Dialogue: 0,0:36:36.09,0:36:37.72,Signs,,0,0,0,,{\fnIwata Mincho Pro M-Kami\fs28\be0\blur0.65\fax-0.05\frx358\fry0\frz4.01\pos(712.454,472)}Rehearsal Hall
 Dialogue: 0,0:42:54.34,0:42:56.35,Signs,,0,0,0,,{\fnIwata Mincho Pro M-Kami\fs48\be0\blur0.65\fax-0.03\frx358\fry0\c&H444138&\1a&H05&\frz1.664\pos(1028.809,586)}Rehearsal Hall
-Dialogue: 0,0:44:35.90,0:44:35.99,Signs,,0,0,0,,{=96}{\fscx100\fscy100\1a&H00&\p1\c&HFCFCFC&\pos(1031.85,206.47)}m 0 0 l -6 20 l 76 35 l 83 16
+Dialogue: 0,0:44:35.90,0:44:35.99,Signs,,0,0,0,,{=96=121}{\fscx100\fscy100\1a&H00&\p1\c&HFCFCFC&\pos(1031.85,206.47)}m 0 0 l -6 20 l 76 35 l 83 16
 Dialogue: 1,0:44:35.90,0:44:35.99,Signs,,0,0,0,,{=95}{\fscx100\fscy100\fnStem-Medium\fs25\fax-0.04\be1\3c&HF5F8F6&\3a&H00&\c&H4C4C4C&\1a&H00&\frz349.3\pos(1016.67,212.78)\b0\blur0.7}October 30th
 Dialogue: 0,0:44:35.99,0:44:36.11,Signs,,0,0,0,,{=96}{\fscx100.02\fscy100.02\1a&H00&\p1\c&HFCFCFC&\pos(1037.9,207.47)}m 0 0 l -6 20 l 76 35 l 83 16
 Dialogue: 1,0:44:35.99,0:44:36.11,Signs,,0,0,0,,{=95}{\fscx100.02\fscy100.02\fnStem-Medium\fs25\fax-0.04\be1\3c&HF5F8F6&\3a&H00&\c&H4C4C4C&\1a&H00&\frz349.3\pos(1022.7,213.78)\b0\blur0.7}October 30th
@@ -2439,8 +2438,8 @@ Dialogue: 1,0:44:38.70,0:44:38.78,Signs,,0,0,0,,{=95}{\fscx100.39\fscy100.39\fnS
 Dialogue: 0,0:44:38.78,0:44:38.82,Signs,,0,0,0,,{=96}{\fscx100.27\fscy100.27\1a&H00&\p1\c&HFCFCFC&\pos(1024.5,205.28)}m 0 0 l -6 20 l 76 35 l 83 16
 Dialogue: 1,0:44:38.78,0:44:38.82,Signs,,0,0,0,,{=95}{\fscx100.27\fscy100.27\fnStem-Medium\fs25\fax-0.04\be1\3c&HF5F8F6&\3a&H00&\c&H4C4C4C&\1a&H00&\frz349.3\pos(1009.27,211.6)\b0\blur0.7}October 30th
 Dialogue: 0,0:44:38.82,0:44:38.86,Signs,,0,0,0,,{=96}{\fscx100.26\fscy100.26\1a&H00&\p1\c&HFCFCFC&\pos(1024.5,205.27)}m 0 0 l -6 20 l 76 35 l 83 16
-Dialogue: 1,0:44:38.82,0:44:38.86,Signs,,0,0,0,,{=95}{\fscx100.26\fscy100.26\fnStem-Medium\fs25\fax-0.04\be1\3c&HF5F8F6&\3a&H00&\c&H4C4C4C&\1a&H00&\frz349.3\pos(1009.27,211.6)\b0\blur0.7}October 30th
-Dialogue: 0,0:52:12.48,0:52:15.57,Signs,,0,0,0,,{\fn@Hapole Pencil\fs120\be0\fax0.11\c&HFFFFFF&\1a&H40&\frx2\fry2\frz355.2\pos(1041.01,305.95)}Friday the   st
+Dialogue: 1,0:44:38.82,0:44:38.86,Signs,,0,0,0,,{=95=122}{\fscx100.26\fscy100.26\fnStem-Medium\fs25\fax-0.04\be1\3c&HF5F8F6&\3a&H00&\c&H4C4C4C&\1a&H00&\frz349.3\pos(1009.27,211.6)\b0\blur0.7}October 30th
+Dialogue: 0,0:52:12.48,0:52:15.57,Signs,,0,0,0,,{=119}{\fn@Hapole Pencil\fs120\be0\fax0.11\c&HFFFFFF&\1a&H40&\frx2\fry2\frz355.2\pos(1041.01,305.95)}Friday the   st
 Dialogue: 0,0:52:15.57,0:52:16.15,Signs,,0,0,0,,{\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1252.267,166.468)}Friday the  st
 Dialogue: 0,0:52:16.15,0:52:16.20,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1252.27,166.47)}Friday the  st
 Dialogue: 0,0:52:16.20,0:52:16.24,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1252.52,166.47)}Friday the  st
@@ -2537,11 +2536,11 @@ Dialogue: 0,0:52:19.95,0:52:19.99,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole
 Dialogue: 0,0:52:19.99,0:52:20.03,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1942.22,166.5)}Friday the  st
 Dialogue: 0,0:52:20.03,0:52:20.08,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1952.58,166.48)}Friday the  st
 Dialogue: 0,0:52:20.08,0:52:20.12,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1963.08,166.48)}Friday the  st
-Dialogue: 0,0:52:20.12,0:52:20.16,Signs,,0,0,0,,{=37}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1973.58,166.48)}Friday the  st
+Dialogue: 0,0:52:20.12,0:52:20.16,Signs,,0,0,0,,{=37=120}{\fscx100\fscy100\fn@Hapole Pencil\fs46\be0\fax-0.37\c&HFFFFFF&\1a&H40&\frx4\fry334\frz23.01\pos(1973.58,166.48)}Friday the  st
 Dialogue: 0,0:52:22.08,0:52:28.29,Signs - Anarchy,,0,0,0,,{\pos(1372.187,638.567)\org(1372,638)\fscx60\frz-98.65\fry0.39\frx13.43\fax0.12\fs28\c&H181614&\blur0.7}{Here Comes Handsome}Here Comes Handsome
-Dialogue: 0,0:58:10.09,0:58:12.89,Signs,,0,0,0,,{\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1488,422.933)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
-Dialogue: 0,0:58:10.09,0:58:12.89,Signs,,0,0,0,,{\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\be1\frz324.6\pos(1492.953,426.362)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
-Dialogue: 0,0:58:53.38,0:58:54.89,Signs,,0,0,0,,{=75}{\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1488,422.93)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
+Dialogue: 0,0:58:10.09,0:58:12.89,Signs,,0,0,0,,{=117}{\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1488,422.933)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
+Dialogue: 0,0:58:10.09,0:58:12.89,Signs,,0,0,0,,{=118}{\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\be1\frz324.6\pos(1492.953,426.362)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
+Dialogue: 0,0:58:53.38,0:58:54.89,Signs,,0,0,0,,{=75=115}{\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1488,422.93)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
 Dialogue: 0,0:58:54.89,0:58:54.93,Signs,,0,0,0,,{=75}{\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1487.98,424.69)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
 Dialogue: 0,0:58:54.93,0:58:54.97,Signs,,0,0,0,,{=75}{\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1488,430.2)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
 Dialogue: 0,0:58:54.97,0:58:55.01,Signs,,0,0,0,,{=75}{\fscy100\1a&H00&\3a&H00&\fnLeelawadee UI Semilight\fs30\fscx88\fax-0.36\pos(1487.96,439.8)\frx28\fry16\frz324.6\bord10\3c&HEFF2F2&\c&HEFF2F2&}m 0 0 l -22 18 l 126 105 l 150 84 l 3 -3
@@ -2590,14 +2589,14 @@ Dialogue: 0,0:58:55.68,0:58:55.72,Signs - Anarchy,,0,0,0,,{=73}{\fscy100\1a&H00&
 Dialogue: 0,0:58:55.72,0:58:55.76,Signs - Anarchy,,0,0,0,,{=73}{\fscy100\1a&H00&\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\frz324.6\be1\pos(1492.93,819.59)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
 Dialogue: 0,0:58:55.76,0:58:55.80,Signs - Anarchy,,0,0,0,,{=73}{\fscy100\1a&H00&\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\frz324.6\be1\pos(1492.93,823.59)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
 Dialogue: 0,0:58:55.80,0:58:55.85,Signs - Anarchy,,0,0,0,,{=73}{\fscy100\1a&H00&\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\frz324.6\be1\pos(1492.95,825.83)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
-Dialogue: 0,0:58:55.85,0:58:56.76,Signs - Anarchy,,0,0,0,,{=73}{\fscy100\1a&H00&\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\frz324.6\be1\pos(1492.96,826.59)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
-Dialogue: 1,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=48}{\clip()\t(40,2209,\clip())\1a&H00&\fnBuilt Titling Rg\fs180\be1\fscx70\t(40,2209,\fscx70)\fscy45\t(40,2209,\fscy45)\fax-0.03\frx0\fry357\frz2.44\c&H55534F&\move(797.54,119.2,797.58,163.37,40,2209)}1st
+Dialogue: 0,0:58:55.85,0:58:56.76,Signs - Anarchy,,0,0,0,,{=73=116}{\fscy100\1a&H00&\fnStem-Regular\fs36\fscx80\fax-0.36\frx28\fry16\frz324.6\be1\pos(1492.96,826.59)\c&H454245&\blur0.7}Here Comes {\fax-0.44}Handsome
+Dialogue: 1,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=48=113}{\clip()\t(40,2209,\clip())\1a&H00&\fnBuilt Titling Rg\fs180\be1\fscx70\t(40,2209,\fscx70)\fscy45\t(40,2209,\fscy45)\fax-0.03\frx0\fry357\frz2.44\c&H55534F&\move(797.54,119.2,797.58,163.37,40,2209)}1st
 Dialogue: 1,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=49}{\clip()\t(40,2209,\clip())\1a&H00&\fnBuilt Titling Rg\fs180\be1\fscx50\t(40,2209,\fscx50)\fscy45\t(40,2209,\fscy45)\fax-0.05\frx0\fry357\frz2.44\c&HDDD9D6&\move(796.59,183.77,796.63,227.94,40,2209)}2019
 Dialogue: 1,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=50}{\clip()\t(40,2209,\clip())\fscx100\t(40,2209,\fscx99.99)\fscy100\t(40,2209,\fscy99.99)\1a&H00&\fnBlockParty\fs70\bord4\t(40,2209,\bord4)\fax-0.045\be1\frx0\fry357\frz2.44\c&H5DA7B9&\move(1003.1,144.79,1003.13,188.96,40,2209)\3c&H505050&\3a&H33&}CITY OF\N{\fscx130\t(40,2209,\fscx129.99)}MUSIC
 Dialogue: 2,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=51}{\clip()\t(40,2209,\clip())\fscx100\t(40,2209,\fscx99.99)\fscy100\t(40,2209,\fscy99.99)\1a&H00&\fnBlockParty\fs70\bord\fax-0.045\be5\frx0\fry357\frz2.44\c&H5DA7B9&\move(1003.1,144.79,1003.13,188.96,40,2209)\3c&H000000&\3a&H78&}CITY OF\N{\fscx130\t(40,2209,\fscx129.99)}MUSIC
 Dialogue: 1,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=52}{\clip()\t(40,2209,\clip())\fscy100\t(40,2209,\fscy99.99)\1a&H00&\fnDang\fs220\fscx62\t(40,2209,\fscx62)\be1\fax-0.088\frx0\fry357\frz2.44\move(1399.9,126.26,1399.9,170.43,40,2209)\c&HDDD9D6&}FESTIVAL
-Dialogue: 0,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=47}{\clip()\t(40,2209,\clip())\fscx100\t(40,2209,\fscx99.99)\fscy100\t(40,2209,\fscy99.99)\1a&H00&\3a&H00&\p1\move(1192,309.33,1192.01,353.49,40,2209)\1c&HA48E64&\3c&HA48E64&\bord5\t(40,2209,\bord5)\blur8\t(40,2209,\blur8)}m 0 0 l 4 -140 l 976 -187 l 976 -23
-Dialogue: 0,0:59:48.69,0:59:48.73,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.67,876.49)\org(132,876)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
+Dialogue: 0,0:59:48.69,0:59:50.90,Signs,,0,0,0,,{=47=114}{\clip()\t(40,2209,\clip())\fscx100\t(40,2209,\fscx99.99)\fscy100\t(40,2209,\fscy99.99)\1a&H00&\3a&H00&\p1\move(1192,309.33,1192.01,353.49,40,2209)\1c&HA48E64&\3c&HA48E64&\bord5\t(40,2209,\bord5)\blur8\t(40,2209,\blur8)}m 0 0 l 4 -140 l 976 -187 l 976 -23
+Dialogue: 0,0:59:48.69,0:59:48.73,Signs - Anarchy,,0,0,0,,{=47=111}{\pos(138.67,876.49)\org(132,876)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
 Dialogue: 0,0:59:48.73,0:59:48.77,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.67,877.31)\org(132,877)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
 Dialogue: 0,0:59:48.77,0:59:48.82,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.67,878.17)\org(132,878)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
 Dialogue: 0,0:59:48.82,0:59:48.86,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.67,879.01)\org(132,879)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
@@ -2649,8 +2648,8 @@ Dialogue: 0,0:59:50.69,0:59:50.73,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.51,917.
 Dialogue: 0,0:59:50.73,0:59:50.78,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.51,918.72)\org(132,918)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
 Dialogue: 0,0:59:50.78,0:59:50.82,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.51,919.56)\org(132,919)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
 Dialogue: 0,0:59:50.82,0:59:50.86,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.51,920.39)\org(132,920)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
-Dialogue: 0,0:59:50.86,0:59:50.90,Signs - Anarchy,,0,0,0,,{=47}{\pos(138.52,921.33)\org(132,921)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
-Dialogue: 0,1:11:04.91,1:11:05.78,Signs - Anarchy,,0,0,0,,{=86}{\pos(1184.573,264.203)\org(1184,264)\frz-21.7\fry-7.28\frx-1.4\fax-0.29\fnKG Legacy of Virtue\fs36\c&H2D252E&\blur0.7\clip(m 1121 204 l 1369 300 1301 380 1066 280)}Strategy Notes
+Dialogue: 0,0:59:50.86,0:59:50.90,Signs - Anarchy,,0,0,0,,{=47=112}{\pos(138.52,921.33)\org(132,921)\frz-8.72\fry-3.31\frx2.21\fax-0.05\fs35\c&H0F0F0F&}{Entrance}Entrance
+Dialogue: 0,1:11:04.91,1:11:05.78,Signs - Anarchy,,0,0,0,,{=86=109}{\pos(1184.573,264.203)\org(1184,264)\frz-21.7\fry-7.28\frx-1.4\fax-0.29\fnKG Legacy of Virtue\fs36\c&H2D252E&\blur0.7\clip(m 1121 204 l 1369 300 1301 380 1066 280)}Strategy Notes
 Dialogue: 0,1:11:04.91,1:11:05.78,Signs - Anarchy,,0,0,0,,{=86}{\pos(1180.573,290.203)\org(1180,290)\frz-22.21\fry-7.31\frx-1.41\fax-0.28\fnKG Summer Sunshine Shadow\fs50\c&H2D252E&\blur0.7}for Aoi
 Dialogue: 0,1:11:04.91,1:11:05.78,Signs - Anarchy,,0,0,0,,{=87}{\pos(969.15,607.46)\org(965,609)\frz-24.76\fry3.34\frx-2.01\fax-0.16\fnKG Corner of the Sky\fs22\c&H2D252E&\blur0.7}Akane Aioi
 Dialogue: 0,1:11:05.78,1:11:05.91,Signs - Anarchy,,0,0,0,,{=86}{\pos(1184.573,254.203)\org(1184,264)\frz-19.74\fry-9.88\frx4.8\fax-0.33\fnKG Legacy of Virtue\fs36\c&H2D252E&\blur0.7\clip(m 1125 202 l 1380 288 1312 370 1070 273)}Strategy Notes
@@ -2661,19 +2660,19 @@ Dialogue: 0,1:11:05.91,1:11:06.03,Signs - Anarchy,,0,0,0,,{=86}{\pos(1180.973,27
 Dialogue: 0,1:11:05.91,1:11:06.03,Signs - Anarchy,,0,0,0,,{=87}{\pos(953.15,577.06)\org(965,609)\frz-19.92\fry3.63\frx2.25\fax-0.29\fnKG Corner of the Sky\fs22\c&H2D252E&\blur0.7}Akane Aioi
 Dialogue: 0,1:11:06.03,1:11:06.16,Signs - Anarchy,,0,0,0,,{=86}{\pos(1203.773,232.203)\org(1184,264)\frz346.9\fry-10.8\frx-7.97\fax-0.72\fnKG Legacy of Virtue\fs36\c&H2D252E&\blur0.7\clip(m 1121 204 l 1448 237 1363 312 1069 270)}Strategy Notes
 Dialogue: 0,1:11:06.03,1:11:06.16,Signs - Anarchy,,0,0,0,,{=86}{\pos(1199.773,258.203)\org(1180,290)\frz346.9\fry-10.96\frx-8.08\fax-0.71\fnKG Summer Sunshine Shadow\fs50\c&H2D252E&\blur0.7}for Aoi
-Dialogue: 0,1:11:06.03,1:11:06.16,Signs - Anarchy,,0,0,0,,{=87}{\pos(946.484,546.126)\org(965,609)\frz-17.13\fry-1.89\frx6.15\fax-0.44\fnKG Corner of the Sky\fs22\c&H2D252E&\blur0.7}Akane Aioi
-Dialogue: 0,1:12:31.45,1:12:33.20,Signs - Anarchy,,0,0,0,,{\pos(1475.931,789.08)\org(1475,789)\frz21.15\fry-1.33\frx4.11\fax0.3\fnKG Red Hands Outline\fs60\c&H505656&\1a&H50&\blur0.5}{Huge success in making Aoi happy!}Mission Success!
-Dialogue: 0,1:12:31.45,1:12:33.20,Signs - Anarchy,,0,0,0,,{\pos(1518.4,833.6)\org(1491,832)\frz21.18\fry-1.31\frx4.07\fax0.29\fnBurst My Bubble\fs30\c&H505656&\1a&H50&\blur0.5}Making Aoi happy
+Dialogue: 0,1:11:06.03,1:11:06.16,Signs - Anarchy,,0,0,0,,{=87=110}{\pos(946.484,546.126)\org(965,609)\frz-17.13\fry-1.89\frx6.15\fax-0.44\fnKG Corner of the Sky\fs22\c&H2D252E&\blur0.7}Akane Aioi
+Dialogue: 0,1:12:31.45,1:12:33.20,Signs - Anarchy,,0,0,0,,{=107}{\pos(1475.931,789.08)\org(1475,789)\frz21.15\fry-1.33\frx4.11\fax0.3\fnKG Red Hands Outline\fs60\c&H505656&\1a&H50&\blur0.5}{Huge success in making Aoi happy!}Mission Success!
+Dialogue: 0,1:12:31.45,1:12:33.20,Signs - Anarchy,,0,0,0,,{=108}{\pos(1518.4,833.6)\org(1491,832)\frz21.18\fry-1.31\frx4.07\fax0.29\fnBurst My Bubble\fs30\c&H505656&\1a&H50&\blur0.5}Making Aoi happy
 Dialogue: 0,1:17:15.82,1:17:18.16,Signs,,0,0,0,,{\fnNo Way Back\fs50\fscx90\be0\fax-0.12\c&HFEFAF1&\shad3.5\4c&H5A4E49&\4a&H29&\pos(1085.867,586.571)\frz6.54}Concert Hall
-Dialogue: 0,1:17:18.16,1:17:20.12,Signs,,0,0,0,,{\bord2\blur2\c&HC0CED9&\3c&HC0CED9&\pos(966.311,198.511)\p1}m 0 0 l 1 44 l 475 44 l 476 0
-Dialogue: 0,1:17:18.16,1:17:20.12,Signs - Anarchy,,0,0,0,,{\pos(969.543,198.333)\org(965,198)\frz-0.11\fry1.42\frx-1.43\fs40\c&H122B6E&\blur0.7}CDs from the City of Music
+Dialogue: 0,1:17:18.16,1:17:20.12,Signs,,0,0,0,,{=105}{\bord2\blur2\c&HC0CED9&\3c&HC0CED9&\pos(966.311,198.511)\p1}m 0 0 l 1 44 l 475 44 l 476 0
+Dialogue: 0,1:17:18.16,1:17:20.12,Signs - Anarchy,,0,0,0,,{=106}{\pos(969.543,198.333)\org(965,198)\frz-0.11\fry1.42\frx-1.43\fs40\c&H122B6E&\blur0.7}CDs from the City of Music
 Dialogue: 0,1:17:43.47,1:17:45.06,Signs,,0,0,0,,{\fnConformity\fs64\fscx88\frz7.946\fax-0.3\frx358\fry14\pos(1202.133,737.333)\c&H000000&\1a&H42&}Performers Waiting Room
-Dialogue: 0,1:18:30.85,1:18:30.89,Signs - Anarchy,,0,0,0,,{\pos(1031.92,182.89)\fscx74.08\fscy74.08\frz356\fs16\blur0.52}{Photos}Photos
+Dialogue: 0,1:18:30.85,1:18:30.89,Signs - Anarchy,,0,0,0,,{=103}{\pos(1031.92,182.89)\fscx74.08\fscy74.08\frz356\fs16\blur0.52}{Photos}Photos
 Dialogue: 0,1:18:30.89,1:18:30.94,Signs - Anarchy,,0,0,0,,{\pos(1017.89,140.69)\frz354.9\fs16\blur0.7}{Photos}Photos
 Dialogue: 0,1:18:30.94,1:18:30.98,Signs - Anarchy,,0,0,0,,{\pos(1010.51,128.05)\fscx109.32\fscy109.32\frz354.97\fs16\blur0.77}{Photos}Photos
 Dialogue: 0,1:18:30.98,1:18:31.02,Signs - Anarchy,,0,0,0,,{\pos(1008.4,125.21)\fscx111.62\fscy111.62\frz355.01\fs16\blur0.78}{Photos}Photos
-Dialogue: 0,1:18:31.02,1:18:33.19,Signs - Anarchy,,0,0,0,,{\pos(1008.4,125.22)\fscx111.52\fscy111.52\frz355.01\fs16\blur0.78}{Photos}Photos
-Dialogue: 0,1:22:36.26,1:22:36.31,Signs - Anarchy,,0,0,0,,{=55}{\pos(814.27,265.47)\org(817,384)\frz25.04\fry0.29\frx-0.68\fs30\c&HF5F7F5&\blur0.7}Akane
+Dialogue: 0,1:18:31.02,1:18:33.19,Signs - Anarchy,,0,0,0,,{=104}{\pos(1008.4,125.22)\fscx111.52\fscy111.52\frz355.01\fs16\blur0.78}{Photos}Photos
+Dialogue: 0,1:22:36.26,1:22:36.31,Signs - Anarchy,,0,0,0,,{=55=101}{\pos(814.27,265.47)\org(817,384)\frz25.04\fry0.29\frx-0.68\fs30\c&HF5F7F5&\blur0.7}Akane
 Dialogue: 0,1:22:36.31,1:22:36.35,Signs - Anarchy,,0,0,0,,{=55}{\pos(814.28,265.12)\org(817,384)\frz25.03\fry0.29\frx-0.68\fs30\c&HF5F7F5&\blur0.7}Akane
 Dialogue: 0,1:22:36.35,1:22:36.39,Signs - Anarchy,,0,0,0,,{=55}{\pos(814.27,264.74)\org(817,384)\frz25.03\fry0.29\frx-0.68\fs30\c&HF5F7F5&\blur0.7}Akane
 Dialogue: 0,1:22:36.39,1:22:36.43,Signs - Anarchy,,0,0,0,,{=55}{\pos(814.28,264.42)\org(817,383)\frz25.02\fry0.29\frx-0.68\fs30\c&HF5F7F5&\blur0.7}Akane
@@ -2970,8 +2969,8 @@ Dialogue: 0,1:22:42.27,1:22:42.31,Signs,,0,0,0,,{=55}{\pos(838.15,319.29)\org(83
 Dialogue: 0,1:22:42.31,1:22:42.35,Signs,,0,0,0,,{=55}{\pos(838.15,318.91)\org(838,335)\frz25.04\fry0.29\frx-0.68\fs20\c&HF5F7F5&\blur0.7}Calling...
 Dialogue: 0,1:22:42.35,1:22:42.40,Signs,,0,0,0,,{=55}{\pos(838.15,318.56)\org(838,335)\frz25.04\fry0.29\frx-0.68\fs20\c&HF5F7F5&\blur0.7}Calling...
 Dialogue: 0,1:22:42.40,1:22:42.44,Signs,,0,0,0,,{=55}{\pos(838.16,318.2)\org(838,335)\frz25.04\fry0.29\frx-0.68\fs20\c&HF5F7F5&\blur0.7}Calling...
-Dialogue: 0,1:22:42.44,1:22:42.48,Signs,,0,0,0,,{=55}{\pos(838.16,317.83)\org(838,334)\frz25.04\fry0.29\frx-0.68\fs20\c&HF5F7F5&\blur0.7}Calling...
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,==================== [SONG] ====================
+Dialogue: 0,1:22:42.44,1:22:42.48,Signs,,0,0,0,,{=55=102}{\pos(838.16,317.83)\org(838,334)\frz25.04\fry0.29\frx-0.68\fs20\c&HF5F7F5&\blur0.7}Calling...
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=99}==================== [SONG] ====================
 Dialogue: 0,0:03:25.27,0:03:27.69,Gandhara,,0,0,0,,{\be4}Nếu đặt chân tới nơi ấy
 Dialogue: 0,0:03:27.69,0:03:36.11,Gandhara,,0,0,0,,{\be4}Nghe rằng mọi giấc mơ đều sẽ thành hiện thực
 Dialogue: 0,0:03:36.11,0:03:46.29,Gandhara,,0,0,0,,{\fade(0,300)\be4}Ai cũng khát khao tìm đến, nhưng đó là cõi xa xăm
@@ -3086,8 +3085,7 @@ Dialogue: 1,1:44:38.40,1:44:49.19,Ending,,0,0,0,,{\fade(300,300)}Hãy bơi lội
 Dialogue: 1,1:44:49.19,1:44:56.65,Ending,,0,0,0,,{\fade(300,300)}Vậy nên giờ đây, tạm biệt nhé, hình bóng chàng thiếu niên
 Dialogue: 1,1:44:56.65,1:45:05.98,Ending,,0,0,0,,{\fade(300,300)}Nhất định gặp lại nhé, tôi vẫn giữ chốn này để còn nói "Đã về rồi"
 Dialogue: 1,1:45:05.98,1:45:14.53,Ending,,0,0,0,,{\fade(300,300)}Gửi sắc xanh của bầu trời bao la vào bảng màu trong đáy mắt
-Dialogue: 1,1:45:14.53,1:45:24.09,Ending,,0,0,0,,{\fade(300,300)}Đắm mình vào đó, ôm ấp lấy, để cả nước mắt cũng hóa tri kỷ
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,==================== [CÒN LẠI] ====================
+Dialogue: 1,1:45:14.53,1:45:24.09,Ending,,0,0,0,,{=100}{\fade(300,300)}Đắm mình vào đó, ôm ấp lấy, để cả nước mắt cũng hóa tri kỷ
 
 [Aegisub Extradata]
 Data: 17,a-mo,e{"uuid"#3A"7cbb00c4-9c9c-4d29-9541-04055855f121"#2C"originalText"#3A"{\\fnLeelawadee UI Semilight\\fs26\\be0.18\\frz353.1\\pos(935.239#2C629.912)\\c&H000000&\\1a&H90&\\t(0#2C4000#2C\\1a&H10&)\\t(6600#2C7000#2C\\1a&H50&)\\t(7200#2C7600#2C\\1a&H10&)\\t(9660#2C10000#2C\\1a&H60&)\\t(10250#2C10600#2C\\1a&H10&)}Gandhara"}
@@ -3114,3 +3112,57 @@ Data: 86,a-mo,e{"uuid"#3A"c6eb8a3d-c2ee-4362-a996-d82a6f4145cb"#2C"originalText"
 Data: 87,a-mo,e{"uuid"#3A"91ef54c7-953f-4a01-af11-0fd63062ba53"#2C"originalText"#3A"{\\fnHapole Pencil\\fscx150\\fs22\\fax-0.15\\be1\\c&H1D1D1D&\\frz337.6\\pos(835#2C677.401)}Akane Aio"}
 Data: 95,a-mo,e{"uuid"#3A"67213b1b-e834-4467-9b40-62eb794486ab"#2C"originalText"#3A"{\\fnx\\fs22\\fax-0.04\\be0.2\\3c&HF5F8F6&\\3a&H00&\\c&H797979&\\1a&H00&\\frz349.3\\pos(1016.667#2C212.778)}October 30th"}
 Data: 96,a-mo,e{"uuid"#3A"88e66ea4-5bb8-4acc-9acd-e45313f0a212"#2C"originalText"#3A"{\\p1\\c&HFCFCFC&\\pos(1031.854#2C206.473)}m 0 0 l -6 20 l 76 35 l 83 16 "}
+Data: 97,_aegi_folddata,e0;1;1
+Data: 98,_aegi_folddata,e1;1;1
+Data: 99,_aegi_folddata,e0;1;2
+Data: 100,_aegi_folddata,e1;1;2
+Data: 101,_aegi_folddata,e0;1;3
+Data: 102,_aegi_folddata,e1;1;3
+Data: 103,_aegi_folddata,e0;1;4
+Data: 104,_aegi_folddata,e1;1;4
+Data: 105,_aegi_folddata,e0;1;5
+Data: 106,_aegi_folddata,e1;1;5
+Data: 107,_aegi_folddata,e0;1;6
+Data: 108,_aegi_folddata,e1;1;6
+Data: 109,_aegi_folddata,e0;1;7
+Data: 110,_aegi_folddata,e1;1;7
+Data: 111,_aegi_folddata,e0;1;8
+Data: 112,_aegi_folddata,e1;1;8
+Data: 113,_aegi_folddata,e0;1;9
+Data: 114,_aegi_folddata,e1;1;9
+Data: 115,_aegi_folddata,e0;1;10
+Data: 116,_aegi_folddata,e1;1;10
+Data: 117,_aegi_folddata,e0;1;11
+Data: 118,_aegi_folddata,e1;1;11
+Data: 119,_aegi_folddata,e0;1;12
+Data: 120,_aegi_folddata,e1;1;12
+Data: 121,_aegi_folddata,e0;1;13
+Data: 122,_aegi_folddata,e1;1;13
+Data: 123,_aegi_folddata,e0;1;14
+Data: 124,_aegi_folddata,e1;1;14
+Data: 125,_aegi_folddata,e0;1;15
+Data: 126,_aegi_folddata,e1;1;15
+Data: 127,_aegi_folddata,e0;1;16
+Data: 128,_aegi_folddata,e1;1;16
+Data: 129,_aegi_folddata,e0;1;17
+Data: 130,_aegi_folddata,e1;1;17
+Data: 131,_aegi_folddata,e0;1;18
+Data: 132,_aegi_folddata,e1;1;18
+Data: 133,_aegi_folddata,e0;1;19
+Data: 134,_aegi_folddata,e1;1;19
+Data: 135,_aegi_folddata,e0;1;20
+Data: 136,_aegi_folddata,e1;1;20
+Data: 137,_aegi_folddata,e0;1;21
+Data: 138,_aegi_folddata,e1;1;21
+Data: 139,_aegi_folddata,e0;1;22
+Data: 140,_aegi_folddata,e1;1;22
+Data: 141,_aegi_folddata,e0;1;23
+Data: 142,_aegi_folddata,e1;1;23
+Data: 143,_aegi_folddata,e0;1;24
+Data: 144,_aegi_folddata,e1;1;24
+Data: 145,_aegi_folddata,e0;1;25
+Data: 146,_aegi_folddata,e1;1;25
+Data: 147,_aegi_folddata,e0;1;26
+Data: 148,_aegi_folddata,e1;1;26
+Data: 149,_aegi_folddata,e0;1;27
+Data: 150,_aegi_folddata,e1;1;27
