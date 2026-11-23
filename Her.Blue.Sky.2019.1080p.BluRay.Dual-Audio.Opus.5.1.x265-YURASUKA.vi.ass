@@ -17,8 +17,9 @@ Video File: Her.Blue.Sky.2019.1080p.BluRay.Dual-Audio.Opus.5.1.x265-YURASUKA.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 1
-Video Position: 1860
+Scroll Position: 30
+Active Line: 33
+Video Position: 4164
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,10 +32,10 @@ Style: Gandhara,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H0002111F,&H60000000,0,0,0
 Style: GandharaLight,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H28030F1B,&H60000000,0,0,0,0,100,100,0,0,1,2,0,8,50,50,50,1
 Style: HerBlueSky,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H00291B00,&H60000000,0,0,0,0,100,100,0,0,1,3,0,8,50,50,48,1
 Style: Signs - Anarchy,Stem-Regular,55,&H00000000,&H000019FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,0,5,50,50,50,1
-Style: Default,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,-1,0,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
-Style: Italics,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,-1,-1,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
-Style: Alternative,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0005053A,&HA21D032A,-1,0,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
-Style: Top,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,-1,0,0,0,98,100,0,0,1,4,2.5,8,130,130,60,1
+Style: Default,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,0,0,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
+Style: Italics,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,0,-1,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
+Style: Alternative,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0005053A,&HA21D032A,0,0,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
+Style: Top,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,0,0,0,0,98,100,0,0,1,4,2.5,8,130,130,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
