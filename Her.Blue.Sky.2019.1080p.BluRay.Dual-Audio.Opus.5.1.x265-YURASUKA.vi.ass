@@ -5,35 +5,36 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
 Export Filters: Transform Framerate
 Export Encoding: Unicode (UTF-8)
-Last Style Storage: her blue sky
-Audio File: Her.Blue.Sky.2019.1080p.BluRay.Dual-Audio.Opus.5.1.x265-YURASUKA.mkv
-Video File: Her.Blue.Sky.2019.1080p.BluRay.Dual-Audio.Opus.5.1.x265-YURASUKA.mkv
+Last Style Storage: Default
+Audio File: [DBD-Raws][4K_HDR][Sora no Aosa o Shiru Hito yo][2160P][UHDBDRip][HEVC-10bit][FLAC].mkv
+Video File: [DBD-Raws][4K_HDR][Sora no Aosa o Shiru Hito yo][2160P][UHDBDRip][HEVC-10bit][FLAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 1796
-Active Line: 1800
-Video Position: 24128
+Video Zoom Percent: 0.250000
+Active Line: 4
+Video Position: 2510
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Signs,,55,&H00000000,&H000019FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,0,5,50,50,50,1
-Style: Insert,Set Fire to the Rain,75,&H00F7F7F7,&H000019FF,&H6E6E5C00,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,8,20,20,40,1
-Style: Ending,KG HAPPY,66,&H00000000,&H000019FF,&H00F6D4C9,&H00000000,0,0,0,0,80,100,0,0,1,0,0,8,50,50,13,1
-Style: Solo,Dom Casual,75,&H00FFFFFF,&H000019FF,&H00000000,&H60000000,0,0,0,0,115,100,0,0,1,2.4,0,8,50,50,50,1
-Style: Nitobe,CrapGPPB,80,&H00FFFFFF,&H000019FF,&H0015172C,&H60000000,-1,0,0,0,90,100,0,0,1,2.4,0,8,40,40,50,1
-Style: Gandhara,KG Second Chances Solid,56,&H00FFFFFF,&H000019FF,&H0002111F,&H60000000,0,0,0,0,90,100,0,0,1,3,0,8,50,50,50,1
-Style: GandharaLight,Ink Free,64,&H00FFFFFF,&H000019FF,&H28030F1B,&H60000000,0,0,0,0,90,100,0,0,1,2,0,8,50,50,50,1
-Style: HerBlueSky,@Gunny Rewritten,95,&H00FFFFFF,&H000019FF,&H00291B00,&H60000000,-1,0,0,0,95,100,0,0,1,3,0,8,50,50,48,1
+Style: Insert,SVN-Georgia,75,&H00F7F7F7,&H000019FF,&H6E6E5C00,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,8,20,20,40,1
+Style: Ending,SVN-Georgia,75,&H00000000,&H000019FF,&H00F6D4C9,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,50,50,13,1
+Style: Solo,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H00000000,&H60000000,0,0,0,0,100,100,0,0,1,2.4,0,8,50,50,50,1
+Style: Nitobe,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H0015172C,&H60000000,0,0,0,0,100,100,0,0,1,2.4,0,8,40,40,50,1
+Style: Gandhara,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H0002111F,&H60000000,0,0,0,0,100,100,0,0,1,3,0,8,50,50,50,1
+Style: GandharaLight,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H28030F1B,&H60000000,0,0,0,0,100,100,0,0,1,2,0,8,50,50,50,1
+Style: HerBlueSky,SVN-Georgia,75,&H00FFFFFF,&H000019FF,&H00291B00,&H60000000,0,0,0,0,100,100,0,0,1,3,0,8,50,50,48,1
 Style: Signs - Anarchy,Stem-Regular,55,&H00000000,&H000019FF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,0,5,50,50,50,1
-Style: Default,Safran,78,&H00FFFFFF,&H000019FF,&H00140D00,&H60000000,-1,0,0,0,98,100,0,0,1,3,1.2,2,30,30,50,1
-Style: Italics,Safran,78,&H00FFFFFF,&H000019FF,&H00191000,&H60000000,-1,-1,0,0,98,100,0,0,1,3,1.2,2,50,50,50,1
-Style: Alternative,Safran,78,&H00FFFFFF,&H000019FF,&H00252900,&H60000000,-1,0,0,0,98,100,0,0,1,3,1.2,2,50,50,130,1
-Style: Top,Safran,78,&H00FFFFFF,&H000019FF,&H00212400,&H60000000,-1,0,0,0,98,100,0,0,1,3,1.2,8,40,40,50,1
+Style: Default,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,-1,0,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
+Style: Italics,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,-1,-1,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
+Style: Alternative,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0005053A,&HA21D032A,-1,0,0,0,98,100,0,0,1,4,2.5,2,130,130,60,1
+Style: Top,Fira Sans Medium,65,&H00FFFFFF,&H000019FF,&H0039080A,&HA2181818,-1,0,0,0,98,100,0,0,1,4,2.5,8,130,130,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -52,7 +53,7 @@ Dialogue: 0,0:01:58.72,0:02:00.14,Default,Shinno,0,0,0,,Im đi.
 Dialogue: 0,0:02:00.14,0:02:02.06,Default,Shinno,0,0,0,,Nào, vào tập thôi!
 Dialogue: 0,0:02:02.73,0:02:04.77,Default,Banba,0,0,0,,Ơ, tao vẫn đang ăn mà!
 Dialogue: 0,0:02:04.77,0:02:05.81,Default,Shinno,0,0,0,,Ăn lẹ lên!
-Dialogue: 0,0:02:06.11,0:02:08.73,Default,Shinno,0,0,0,,Cây {\i1}Akane Special{\i0} của tao sắp gầm vang đây!
+Dialogue: 0,0:02:06.11,0:02:08.73,Default,Shinno,0,0,0,,Cây Akane Special của tao sắp gầm vang đây!
 Dialogue: 0,0:02:08.73,0:02:10.61,Default,Abo,0,0,0,,Tên gì mà dở tệ.
 Dialogue: 0,0:02:11.49,0:02:13.07,Default,Aoi,0,0,0,,Em cũng...
 Dialogue: 0,0:02:13.66,0:02:15.45,Default,Aoi,0,0,0,,Em cũng muốn chơi.
@@ -123,7 +124,7 @@ Dialogue: 0,0:07:07.16,0:07:07.87,Default,Teacher,0,0,0,,Người tiếp!
 Dialogue: 0,0:07:08.24,0:07:09.41,Default,Teacher,0,0,0,,Ohtaki-san, vào đi.
 Dialogue: 0,0:07:09.41,0:07:10.87,Default,Chika,0,0,0,,Dạ vâng!
 Dialogue: 0,0:07:12.87,0:07:14.41,Default,Chika,0,0,0,,Áp lực dữ vậy trời...
-Dialogue: 0,0:07:14.41,0:07:16.08,Default,Teacher,0,0,0,,Nhanh lên nào, Oht—
+Dialogue: 0,0:07:14.41,0:07:16.08,Default,Teacher,0,0,0,,Ohtaki, nhanh lên—
 Dialogue: 0,0:07:16.08,0:07:18.54,Default,Chika,0,0,0,,À, em định đi lấy chồng ạ!
 Dialogue: 0,0:07:18.54,0:07:20.63,Default,Chika,0,0,0,,Giờ em chưa biết là ai, nhưng—
 Dialogue: 0,0:07:20.63,0:07:22.05,Default,Teacher,0,0,0,,Ghi mục đi làm nhé.
@@ -157,7 +158,7 @@ Dialogue: 0,0:08:57.06,0:08:59.31,Default,Townsperson,0,0,0,,À phải rồi, Ak
 Dialogue: 0,0:08:59.31,0:09:00.94,Default,Akane,0,0,0,,Dạ có, cháu thích lắm ạ!
 Dialogue: 0,0:09:00.94,0:09:03.31,Default,Townsperson,0,0,0,,Chị cháu đúng là người chị tuyệt vời.
 Dialogue: 0,0:09:03.31,0:09:05.86,Default,Townsperson,0,0,0,,Phải biết ơn chị đấy nhé, Aoi-chan.
-Dialogue: 0,0:09:05.86,0:09:12.74,Italics,Aoi,0,0,0,,Cứ hễ ai bảo phải {\i0}biết ơn{\i1},\Nmình lại càng muốn làm ngược lại.
+Dialogue: 0,0:09:05.86,0:09:12.74,Italics,Aoi,0,0,0,,Cứ hễ ai bảo phải biết ơn,\Nmình lại càng muốn làm ngược lại.
 Dialogue: 0,0:09:14.16,0:09:15.70,Default,Masamichi,0,0,0,,Nói gì thì nói chứ,
 Dialogue: 0,0:09:15.70,0:09:20.16,Default,Masamichi,0,0,0,,quầy khoai tây miso phải làm\Nthêm mấy vị mới cho phong phú vào.
 Dialogue: 0,0:09:20.16,0:09:23.42,Default,Masamichi,0,0,0,,Như trộn miso với quýt yuzu\Nhay ớt bột bảy vị chẳng hạn.
@@ -168,7 +169,7 @@ Dialogue: 0,0:09:34.01,0:09:37.81,Default,Masamichi,0,0,0,,Giờ phải làm m�
 Dialogue: 0,0:09:37.81,0:09:40.73,Default,Townsperson,0,0,0,,Phải đấy!\NKhông bắt sóng lớn lần này thì phí.
 Dialogue: 0,0:09:40.73,0:09:44.73,Default,Townsperson,0,0,0,,Masamichi-chan bên Phòng Du lịch\Nđã mất công thu xếp cho mình rồi mà.
 Dialogue: 0,0:09:44.73,0:09:45.44,Default,Akane,0,0,0,,Đúng đấy ạ!
-Dialogue: 0,0:09:45.44,0:09:50.07,Default,Akane,0,0,0,,Ở Tòa thị chính còn đồn ầm lên là\Ncậu ấy xoay được khối {\i1}cái này{\i0} đấy.
+Dialogue: 0,0:09:45.44,0:09:50.07,Default,Akane,0,0,0,,Ở Tòa thị chính còn đồn ầm lên là\Ncậu ấy xoay được khối cái này đấy.
 Dialogue: 0,0:09:50.36,0:09:51.78,Default,Masamichi,0,0,0,,Đừng bịa chuyện nữa, Akane!
 Dialogue: 0,0:09:51.78,0:09:53.61,Top,Townsperson,0,0,0,,Ủa, tin vịt à?
 Dialogue: 0,0:09:53.61,0:09:55.24,Top,Townsperson,0,0,0,,Chắc rót không ít vốn đâu nhỉ.
@@ -223,10 +224,10 @@ Dialogue: 0,0:12:53.59,0:12:55.96,Default,Akane,0,0,0,,À, em nhớ mang máng r
 Dialogue: 0,0:12:55.96,0:12:58.76,Default,Akane,0,0,0,,Ông ấy cưỡi kiệu vàng chói\Ntrông kỳ cục lắm nhỉ?
 Dialogue: 0,0:12:58.76,0:13:01.59,Default,Colleague,0,0,0,,À, chị cũng từng xem tiết mục đó.
 Dialogue: 0,0:13:01.59,0:13:05.64,Default,Masamichi,0,0,0,,Nhân sự kiện này, bọn tôi sẽ nhờ ông ấy\Nviết riêng một bài về thị trấn mình.
-Dialogue: 0,0:13:05.93,0:13:09.14,Default,Masamichi,0,0,0,,Trong lời sẽ có câu {\i1}pháo hoa nổ đùng đùng{\i0},
+Dialogue: 0,0:13:05.93,0:13:09.14,Default,Masamichi,0,0,0,,Trong lời sẽ có câu pháo hoa nổ đùng đùng,
 Dialogue: 0,0:13:09.14,0:13:12.27,Default,Masamichi,0,0,0,,lúc ông ấy hát tới đó\Nthì pháo hoa thật nổ đùng, đùng, đùng!
 Dialogue: 0,0:13:12.27,0:13:13.44,Default,Colleague,0,0,0,,Pháo hoa á? Đỉnh thế!
-Dialogue: 0,0:13:13.44,0:13:15.77,Default,Akane,0,0,0,,Vậy là xoay được khối {\i1}cái này{\i0} thật hả?
+Dialogue: 0,0:13:13.44,0:13:15.77,Default,Akane,0,0,0,,Vậy là xoay được khối cái này thật hả?
 Dialogue: 0,0:13:15.77,0:13:19.11,Default,Masamichi,0,0,0,,Đây sẽ là... trận đánh lớn nhất đời tớ.
 Dialogue: 0,0:13:19.11,0:13:24.49,Default,Masamichi,0,0,0,,Trận đánh lớn nhất\Nmà tớ dốc cả cuộc đời ra đặt cược.
 Dialogue: 0,0:13:26.12,0:13:29.71,Default,Masamichi,0,0,0,,Thế nên sự kiện này\Nnhờ cậu phụ một tay nhé, Akane.
@@ -333,7 +334,7 @@ Dialogue: 0,0:20:32.38,0:20:38.05,Default,Aoi,0,0,0,,Bố ơi, mẹ ơi, cả c�
 Dialogue: 0,0:20:38.34,0:20:39.97,Default,Tsugu,0,0,0,,Thật tình...
 Dialogue: 0,0:20:41.05,0:20:44.43,Default,Tsugu,0,0,0,,Ao-chan, bác tài xế đưa hóa đơn này—
 Dialogue: 0,0:20:45.35,0:20:46.52,Default,Tsugu,0,0,0,,Này.
-Dialogue: 0,0:20:48.89,0:20:52.56,Default,Tsugu,0,0,0,,Người tên {\i1}Shinno{\i0} đó\Ncó thật sự ở trong này không đấy?
+Dialogue: 0,0:20:48.89,0:20:52.56,Default,Tsugu,0,0,0,,Người tên Shinno đó\Ncó thật sự ở trong này không đấy?
 Dialogue: 0,0:20:52.56,0:20:53.44,Default,Aoi,0,0,0,,Ừ.
 Dialogue: 0,0:20:53.44,0:21:00.74,Default,Aoi,0,0,0,,Chị cứ tưởng là ma, nhưng nếu người ở ga\Nlà Shinno thật, thì người ở đây là ai?
 Dialogue: 0,0:21:00.74,0:21:02.45,Default,Aoi,0,0,0,,Người giống người à?
@@ -532,14 +533,14 @@ Dialogue: 0,0:31:21.53,0:31:24.49,Default,Shinno,0,0,0,,Không đọc KochiKame\
 Dialogue: 0,0:31:24.49,0:31:26.41,Default,Aoi,0,0,0,,Bộ đó hết rồi.
 Dialogue: 0,0:31:26.41,0:31:27.16,Default,Shinno,0,0,0,,Hả?!
 Dialogue: 0,0:31:27.16,0:31:28.78,Default,Shinno,0,0,0,,Làm sao mà KochiKame hết được!
-Dialogue: 0,0:31:28.78,0:31:31.37,Default,Shinno,0,0,0,,Ryo-san mà đi rồi\Nthì {\i1}vĩnh cửu{\i0} còn nghĩa lý gì nữa?
+Dialogue: 0,0:31:28.78,0:31:31.37,Default,Shinno,0,0,0,,Ryo-san mà đi rồi\Nthì vĩnh cửu còn nghĩa lý gì nữa?
 Dialogue: 0,0:31:31.37,0:31:33.04,Default,Aoi,0,0,0,,Ai mà biết được.
 Dialogue: 0,0:31:33.04,0:31:34.16,Default,Shinno,0,0,0,,Thật luôn hả?
 Dialogue: 0,0:31:34.16,0:31:38.25,Top,Shinno,0,0,0,,Ryo-san cưới ai thế?\NÀ thôi, đừng nói mất hay—
 Dialogue: 0,0:31:36.62,0:31:40.34,Italics,Aoi,0,0,0,,Đúng là chẳng biết lo nghĩ gì cả.
 Dialogue: 0,0:31:46.88,0:31:49.35,Italics,Aoi,0,0,0,,Ủa? Không phải Tsugu, mà là Michinko à?
 Dialogue: 0,0:31:49.68,0:31:52.06,Italics,Aoi,0,0,0,,Hồi xưa trông thế này sao?
-Dialogue: 0,0:31:52.06,0:31:54.31,Italics,Aoi,0,0,0,,Thảo nào Shinno gọi Tsugu\Nlà {\i1}bản thu nhỏ{\i0}.
+Dialogue: 0,0:31:52.06,0:31:54.31,Italics,Aoi,0,0,0,,Thảo nào Shinno gọi Tsugu\Nlà bản thu nhỏ.
 Dialogue: 0,0:31:56.89,0:31:58.60,Italics,Aoi,0,0,0,,Aka-nee.
 Dialogue: 0,0:31:59.90,0:32:03.44,Italics,Aoi,0,0,0,,Hóa ra hai người học cùng lớp.
 Dialogue: 0,0:32:10.03,0:32:10.91,Italics,Aoi,0,0,0,,Ôi trời.
@@ -563,7 +564,7 @@ Dialogue: 0,0:33:11.30,0:33:14.43,Default,Chika,0,0,0,,Này, giới thiệu bạ
 Dialogue: 0,0:33:14.43,0:33:17.60,Default,Chika,0,0,0,,Có chuyện gì tớ cũng chẳng kiện cậu đâu.
 Dialogue: 0,0:33:20.31,0:33:23.02,Default,Aoi,0,0,0,,Được thôi, đi luôn bây giờ nhé?
 Dialogue: 0,0:33:26.15,0:33:28.65,Default,Masamichi,0,0,0,,Tiếp theo, về ngân sách dựng sân khấu—
-Dialogue: 0,0:33:28.65,0:33:32.99,Default,Colleague,0,0,0,,Khoan đã, khoản {\i1}ngân sách để Nitobe-sensei\Nyêu mến địa phương{\i0} này là sao?
+Dialogue: 0,0:33:28.65,0:33:32.99,Default,Colleague,0,0,0,,Khoan đã, khoản ngân sách để Nitobe-sensei\Nyêu mến địa phương này là sao?
 Dialogue: 0,0:33:32.99,0:33:34.87,Default,Masamichi,0,0,0,,À, cái đó thì... ờm...
 Dialogue: 0,0:33:38.08,0:33:39.00,Default,Masamichi,0,0,0,,Cái đó là...
 Dialogue: 0,0:33:39.87,0:33:41.92,Default,Masamichi,0,0,0,,để dùng cho những việc thế này ạ.
@@ -638,7 +639,7 @@ Dialogue: 0,0:36:52.15,0:36:55.65,Default,Masamichi,0,0,0,,Sao mọi chuyện l�
 Dialogue: 0,0:36:55.65,0:36:58.07,Default,Shinnosuke,0,0,0,,Tôi không rảnh chơi đồ hàng với con nít.
 Dialogue: 0,0:36:58.49,0:37:01.07,Default,Shinnosuke,0,0,0,,Tôi là dân chuyên nghiệp.
 Dialogue: 0,0:37:01.91,0:37:04.74,Default,Aoi,0,0,0,,Rõ ràng... chính anh bảo em\Nlà Sao Mắt Biếc cơ mà.
-Dialogue: 0,0:37:07.33,0:37:10.37,Default,Aoi,0,0,0,,Cứ xem tôi đánh rồi hẵng phán\Ncó phải {\i1}trò con nít{\i0} không!
+Dialogue: 0,0:37:07.33,0:37:10.37,Default,Aoi,0,0,0,,Cứ xem tôi đánh rồi hẵng phán\Ncó phải trò con nít không!
 Dialogue: 0,0:37:10.37,0:37:12.42,Default,Masamichi,0,0,0,,Này, Aoi.
 Dialogue: 0,0:37:12.42,0:37:15.42,Default,Nitobe,0,0,0,,Ý hay đấy!
 Dialogue: 0,0:37:16.01,0:37:18.92,Default,Nitobe,0,0,0,,Cứ việc trổ tài cho ta xem thử nào.
@@ -871,7 +872,7 @@ Dialogue: 0,0:50:34.72,0:50:36.47,Default,Shinno,0,0,0,,Trả đũa á? Này, em
 Dialogue: 0,0:50:36.47,0:50:39.39,Default,Aoi,0,0,0,,Tay bass phải nâng đỡ mọi người mà!
 Dialogue: 0,0:50:43.31,0:50:44.48,Default,Shinno,0,0,0,,Ừ, phải rồi nhỉ!
 Dialogue: 0,0:50:44.48,0:50:46.98,Default,Shinno,0,0,0,,Đúng là tay bass tương lai của ban nhạc anh!
-Dialogue: 0,0:50:46.98,0:50:49.65,Default,Shinno,0,0,0,,Ủa khoan? Bây giờ {\i1}chính là{\i0}\Ntương lai rồi nhỉ.
+Dialogue: 0,0:50:46.98,0:50:49.65,Default,Shinno,0,0,0,,Ủa khoan? Bây giờ chính là\Ntương lai rồi nhỉ.
 Dialogue: 0,0:50:49.65,0:50:50.36,Default,Shinno,0,0,0,,Thế nghĩa là—
 Dialogue: 0,0:50:50.36,0:50:51.70,Default,Aoi,0,0,0,,Anh vẫn nhớ sao?
 Dialogue: 0,0:50:52.82,0:50:56.87,Default,Shinno,0,0,0,,Nhớ hay không gì chứ,\Nanh đã hứa với em rồi mà!
@@ -914,7 +915,7 @@ Dialogue: 0,0:53:22.89,0:53:23.56,Default,Chika,0,0,0,,Trời ạ.
 Dialogue: 0,0:53:23.89,0:53:27.93,Default,Chika,0,0,0,,Tớ đâu có đời nào đi đụng vào\Nngười của bạn mình chứ.
 Dialogue: 0,0:53:27.93,0:53:31.40,Default,Chika,0,0,0,,Shinno với Shinnosuke-san\Nlà hai người khác nhau đúng không?
 Dialogue: 0,0:53:31.40,0:53:32.40,Default,Aoi,0,0,0,,Đúng thế!
-Dialogue: 0,0:53:32.40,0:53:36.65,Default,Chika,0,0,0,,Và Aioi-san lại thích {\i1}Shinno{\i0} kia.
+Dialogue: 0,0:53:32.40,0:53:36.65,Default,Chika,0,0,0,,Và Aioi-san lại thích Shinno kia.
 Dialogue: 0,0:53:39.53,0:53:41.82,Default,Aoi,0,0,0,,Ừ, thích đấy!
 Dialogue: 0,0:53:42.74,0:53:44.12,Default,Chika,0,0,0,,S-Sao tự dưng đổi tông thế?
 Dialogue: 0,0:53:44.12,0:53:46.04,Default,Aoi,0,0,0,,Thích đấy! Có sao không?!
@@ -1110,7 +1111,7 @@ Dialogue: 0,1:11:35.65,1:11:41.24,Default,Akane,0,0,0,,Thôi nào Aoi-kun, nếu
 Dialogue: 0,1:11:41.24,1:11:42.11,Default,Aoi,0,0,0,,Không đời nào!
 Dialogue: 0,1:11:42.11,1:11:49.87,Default,Aoi,0,0,0,,Aka-nee chiên rán khéo lắm, nguyên liệu\Nđược người giỏi nấu chắc sướng lắm đấy.
 Dialogue: 0,1:11:51.08,1:11:53.29,Default,Akane,0,0,0,,Ừ thì, cũng đúng.
-Dialogue: 0,1:11:53.29,1:11:57.04,Italics,Aoi,0,0,0,,Cái gì mà {\i0}không làm phiền{\i1} chứ?
+Dialogue: 0,1:11:53.29,1:11:57.04,Italics,Aoi,0,0,0,,Cái gì mà không làm phiền chứ?
 Dialogue: 0,1:11:57.04,1:12:01.46,Italics,Aoi,0,0,0,,Mình cứ luôn có cảm giác\NAka-nee việc gì cũng làm được.
 Dialogue: 0,1:12:01.46,1:12:02.09,Italics,Aoi,0,0,0,,Nhưng...
 Dialogue: 0,1:12:03.22,1:12:07.14,Italics,Aoi,0,0,0,,Aka-nee trông hoàn hảo như vậy chỉ là...
@@ -1265,7 +1266,7 @@ Dialogue: 0,1:23:02.58,1:23:05.29,Default,Masamichi,0,0,0,,N-Này! Ao!
 Dialogue: 0,1:23:05.29,1:23:07.25,Default,Masamichi,0,0,0,,Em đi đâu thế hả?!
 Dialogue: 0,1:23:08.51,1:23:13.76,Italics,Shinnosuke,0,0,0,,Tại sao mình hồi cấp ba lại ở đây?
 Dialogue: 0,1:23:15.39,1:23:18.43,Italics,Shinno,0,0,0,,Ra thế... Đúng như mình nghĩ...
-Dialogue: 0,1:23:20.02,1:23:23.31,Default,Shinno,0,0,0,,Mày tới lấy cây {\i1}Akane Special?{\i0}
+Dialogue: 0,1:23:20.02,1:23:23.31,Default,Shinno,0,0,0,,Mày tới lấy cây Akane Special?
 Dialogue: 0,1:23:24.10,1:23:26.02,Default,Shinnosuke,0,0,0,,Hả? Sao mày lại—
 Dialogue: 0,1:23:26.02,1:23:31.28,Default,Shinno,0,0,0,,Cây guitar báu vật mà mày dành dụm tiền\Nlàm thêm đi mua cùng Akane đúng không?
 Dialogue: 0,1:23:31.78,1:23:34.99,Default,Shinno,0,0,0,,Dù trông như bị vứt xó bao năm rồi ấy.
@@ -1290,7 +1291,7 @@ Dialogue: 0,1:24:18.37,1:24:28.33,Default,Aoi,0,0,0,,Chắc chị ấy không sa
 Dialogue: 0,1:24:28.33,1:24:30.96,Default,Shinnosuke,0,0,0,,Cái gì chứ, làm anh hết cả hồn.
 Dialogue: 0,1:24:30.96,1:24:35.38,Default,Shinnosuke,0,0,0,,Thôi, trước mắt cứ chờ tin\Ntừ Michinko xem sao đã.
 Dialogue: 0,1:24:35.38,1:24:37.72,Default,Shinno,0,0,0,,Sao mày bình thản thế được hả?!
-Dialogue: 0,1:24:38.80,1:24:42.10,Default,Shinno,0,0,0,,Sao mày cứ {\i1}đứng đực{\i0} ra đấy hả?!
+Dialogue: 0,1:24:38.80,1:24:42.10,Default,Shinno,0,0,0,,Sao mày cứ đứng đực ra đấy hả?!
 Dialogue: 0,1:24:42.10,1:24:43.14,Default,Shinnosuke,0,0,0,,Sao là sao?
 Dialogue: 0,1:24:43.14,1:24:45.69,Default,Shinno,0,0,0,,Mau đi tìm Akane ngay đi chứ!
 Dialogue: 0,1:24:45.69,1:24:47.98,Default,Shinno,0,0,0,,Sao mày chẳng làm gì hết vậy?!
@@ -1331,7 +1332,7 @@ Dialogue: 0,1:26:25.12,1:26:32.63,Default,Shinno,0,0,0,,Lúc đó, sâu thẳm t
 Dialogue: 0,1:26:33.21,1:26:34.92,Default,Shinno,0,0,0,,Tao đã nghĩ như thế đấy.
 Dialogue: 0,1:26:35.80,1:26:37.05,Default,Shinno,0,0,0,,Nhưng...
 Dialogue: 0,1:26:37.96,1:26:39.80,Default,Shinno,0,0,0,,mày đã rời đi!
-Dialogue: 0,1:26:41.34,1:26:43.68,Default,Shinno,0,0,0,,{\i1}Mày{\i0} đã bước về phía trước rồi mà!
+Dialogue: 0,1:26:41.34,1:26:43.68,Default,Shinno,0,0,0,,Mày đã bước về phía trước rồi mà!
 Dialogue: 0,1:26:44.35,1:26:46.68,Default,Shinno,0,0,0,,Này, làm cho tao tin đi chứ.
 Dialogue: 0,1:26:47.22,1:26:48.93,Default,Shinno,0,0,0,,Tao chính là mày, đúng không?
 Dialogue: 0,1:26:49.48,1:26:52.15,Default,Shinno,0,0,0,,Vậy thì làm cho tao tin đi!
@@ -3086,6 +3087,7 @@ Dialogue: 1,1:44:56.65,1:45:05.98,Ending,,0,0,0,,{\fade(300,300)}Nhất định 
 Dialogue: 1,1:45:05.98,1:45:14.53,Ending,,0,0,0,,{\fade(300,300)}Gửi sắc xanh của bầu trời bao la vào bảng màu trong đáy mắt
 Dialogue: 1,1:45:14.53,1:45:24.09,Ending,,0,0,0,,{\fade(300,300)}Đắm mình vào đó, ôm ấp lấy, để cả nước mắt cũng hóa tri kỷ
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,==================== [CÒN LẠI] ====================
+
 [Aegisub Extradata]
 Data: 17,a-mo,e{"uuid"#3A"7cbb00c4-9c9c-4d29-9541-04055855f121"#2C"originalText"#3A"{\\fnLeelawadee UI Semilight\\fs26\\be0.18\\frz353.1\\pos(935.239#2C629.912)\\c&H000000&\\1a&H90&\\t(0#2C4000#2C\\1a&H10&)\\t(6600#2C7000#2C\\1a&H50&)\\t(7200#2C7600#2C\\1a&H10&)\\t(9660#2C10000#2C\\1a&H60&)\\t(10250#2C10600#2C\\1a&H10&)}Gandhara"}
 Data: 23,a-mo,e{"uuid"#3A"cc4f317e-befe-4a9a-86dd-2789e4afce4f"#2C"originalText"#3A"{\\p1\\fscx174\\fscy174\\c&HFEFEFF&\\pos(1456#2C863)}m 0 0 l -251 70 l -268 503 l -8 596 l 328 439 l 334 194 l 226 39 l 3 0"}
