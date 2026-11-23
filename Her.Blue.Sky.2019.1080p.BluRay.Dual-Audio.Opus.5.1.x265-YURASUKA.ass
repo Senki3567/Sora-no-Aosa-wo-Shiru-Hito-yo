@@ -138,8 +138,8 @@ Dialogue: 0,0:07:51.66,0:07:53.83,Default,Aoi,0,0,0,,I hate mountains.
 Dialogue: 0,0:07:54.91,0:08:00.42,Default,Aoi,0,0,0,,Living in a basin is like being surrounded by walls.
 Dialogue: 0,0:08:00.42,0:08:04.34,Default,Aoi,0,0,0,,It's as if we're being held captive in a gigantic prison.
 Dialogue: 0,0:08:04.34,0:08:06.76,Default,Akane,0,0,0,,There it is! Your puberty lyrics.
-Dialogue: 0,0:08:06.76,0:08:08.51,Default,Akane,0,0,0,,Yeah, whatever.
-Dialogue: 0,0:08:08.51,0:08:11.76,Default,Akane,0,0,0,,Anyway, I'm gonna get outta this place.
+Dialogue: 0,0:08:06.76,0:08:08.51,Default,Aoi,0,0,0,,Yeah, whatever.
+Dialogue: 0,0:08:08.51,0:08:11.76,Default,Aoi,0,0,0,,Anyway, I'm gonna get outta this place.
 Dialogue: 0,0:08:25.40,0:08:27.15,Default,Akane,0,0,0,,Huh?
 Dialogue: 0,0:08:30.78,0:08:31.87,Default,Akane,0,0,0,,Hello!
 Dialogue: 0,0:08:31.87,0:08:32.62,Default,Townsperson,0,0,0,,Oh!
@@ -147,8 +147,8 @@ Dialogue: 0,0:08:33.16,0:08:35.83,Default,Townsperson,0,0,0,,Welcome back, Akane
 Dialogue: 0,0:08:35.83,0:08:37.29,Default,Akane,0,0,0,,What are you up to?
 Dialogue: 0,0:08:37.29,0:08:38.83,Default,Townsperson,0,0,0,,It's for tonight's meeting.
 Dialogue: 0,0:08:38.83,0:08:44.34,Default,Townsperson,0,0,0,,Masamichi invited too many people so I was borrowing \Nsome cushions and tables from Mrs. Yamaguchi.
-Dialogue: 0,0:08:44.34,0:08:48.09,Default,Townsperson,0,0,0,,Ah, we'll lend you a hand. Come on, Aoi!
-Dialogue: 0,0:08:44.34,0:08:45.59,Top,Akane,0,0,0,,This should be plenty.
+Dialogue: 0,0:08:44.34,0:08:48.09,Default,Akane,0,0,0,,Ah, we'll lend you a hand. Come on, Aoi!
+Dialogue: 0,0:08:44.34,0:08:45.59,Top,Townsperson,0,0,0,,This should be plenty.
 Dialogue: 0,0:08:45.59,0:08:46.71,Top,Townsperson,0,0,0,,Yeah, it should.
 Dialogue: 0,0:08:51.34,0:08:53.68,Default,Townsperson,0,0,0,,Sorry for troubling you on your way home.
 Dialogue: 0,0:08:53.68,0:08:54.39,Default,Akane,0,0,0,,Not at all.
@@ -202,21 +202,21 @@ Dialogue: 0,0:11:21.62,0:11:22.45,Default,Aoi,0,0,0,,Why?
 Dialogue: 0,0:11:22.45,0:11:26.00,Default,Masamichi,0,0,0,,Oh never mind, it's okay if you don't.
 Dialogue: 0,0:11:45.14,0:11:47.27,Default,Tsugu,0,0,0,,About what my dad said earlier,
 Dialogue: 0,0:11:50.06,0:11:52.90,Default,Tsugu,0,0,0,,I don't agree with it either.
-Dialogue: 0,0:11:52.90,0:11:55.19,Default,Aoi,0,0,0,,But still, even he—
+Dialogue: 0,0:11:52.90,0:11:55.19,Default,Tsugu,0,0,0,,But still, even he—
 Dialogue: 0,0:11:55.19,0:11:58.66,Default,Aoi,0,0,0,,Don't talk about stuff like that in here.
 Dialogue: 0,0:11:58.66,0:12:01.03,Default,Tsugu,0,0,0,,So we can talk about it somewhere else?
-Dialogue: 0,0:12:02.66,0:12:07.75,Default,Tsugu,0,0,0,,I'd rather not but it'd be better than here.
+Dialogue: 0,0:12:02.66,0:12:07.75,Default,Aoi,0,0,0,,I'd rather not but it'd be better than here.
 Dialogue: 0,0:12:08.50,0:12:09.63,Default,Shinno,0,0,0,,Wrong.
 Dialogue: 0,0:12:09.63,0:12:12.38,Default,Shinno,0,0,0,,Here, you have to hold it down tight.
-Dialogue: 0,0:12:14.09,0:12:19.72,Default,Aoi,0,0,0,,Oh, hey Ao, I just noticed you have\N a mole in the white of your eye.
-Dialogue: 0,0:12:19.72,0:12:21.14,Default,Aoi,0,0,0,,Just like {\alpha&FF}me!
-Dialogue: 0,0:12:21.14,0:12:22.47,Default,Aoi,0,0,0,,Just like me!
-Dialogue: 0,0:12:22.81,0:12:25.56,Default,Aoi,0,0,0,,A mole in the eyeball is a sign \Nwe're gonna become big shots.
-Dialogue: 0,0:12:25.56,0:12:28.85,Default,Aoi,0,0,0,,We're both Eyeball stars.
+Dialogue: 0,0:12:14.09,0:12:19.72,Default,Shinno,0,0,0,,Oh, hey Ao, I just noticed you have\N a mole in the white of your eye.
+Dialogue: 0,0:12:19.72,0:12:21.14,Default,Shinno,0,0,0,,Just like {\alpha&FF}me!
+Dialogue: 0,0:12:21.14,0:12:22.47,Default,Shinno,0,0,0,,Just like me!
+Dialogue: 0,0:12:22.81,0:12:25.56,Default,Shinno,0,0,0,,A mole in the eyeball is a sign \Nwe're gonna become big shots.
+Dialogue: 0,0:12:25.56,0:12:28.85,Default,Shinno,0,0,0,,We're both Eyeball stars.
 Dialogue: 0,0:12:28.85,0:12:30.35,Default,Aoi,0,0,0,,Eyeball stars!
 Dialogue: 0,0:12:31.02,0:12:32.94,Default,Akane,0,0,0,,What's with that name?
 Dialogue: 0,0:12:32.94,0:12:34.40,Default,Akane,0,0,0,,No one would get it.
-Dialogue: 0,0:12:34.40,0:12:36.74,Default,Akane,0,0,0,,What? It's cool.
+Dialogue: 0,0:12:34.40,0:12:36.74,Default,Shinno,0,0,0,,What? It's cool.
 Dialogue: 0,0:12:36.74,0:12:38.61,Default,Aoi,0,0,0,,It's cool!
 Dialogue: 0,0:12:49.29,0:12:53.59,Default,Colleague,0,0,0,,Dankichi Nitobe is the one who performed\Nin the New Year's TV song contest, right?
 Dialogue: 0,0:12:53.59,0:12:55.96,Default,Akane,0,0,0,,Yeah, I kind of remember.
@@ -250,7 +250,7 @@ Dialogue: 0,0:14:33.02,0:14:34.31,Default,Akane,0,0,0,,College.
 Dialogue: 0,0:14:35.15,0:14:38.23,Default,Akane,0,0,0,,You can study and still be in a band.
 Dialogue: 0,0:14:38.23,0:14:41.03,Default,Aoi,0,0,0,,We've had this conversation already.
 Dialogue: 0,0:14:41.03,0:14:44.32,Default,Aoi,0,0,0,,You promised you'd stop bugging me about it.
-Dialogue: 0,0:14:45.70,0:14:48.99,Default,Akane,0,0,0,,Don't go back on your word.
+Dialogue: 0,0:14:45.70,0:14:48.99,Default,Aoi,0,0,0,,Don't go back on your word.
 Dialogue: 0,0:14:52.25,0:14:54.33,Default,Aoi,0,0,0,,Alright, I'm going to go practice.
 Dialogue: 0,0:16:00.06,0:16:01.65,Default,Shinno,0,0,0,,Stop it!
 Dialogue: 0,0:16:01.65,0:16:03.65,Default,Shinno,0,0,0,,Where the hell did that come from?!
@@ -285,8 +285,8 @@ Dialogue: 0,0:17:33.91,0:17:34.91,Default,Aoi,0,0,0,,Uh, right!
 Dialogue: 0,0:17:34.91,0:17:39.04,Default,Aoi,0,0,0,,I was practicing and thought of him all of a sudden.
 Dialogue: 0,0:17:39.04,0:17:41.50,Default,Aoi,0,0,0,,Like how's he doing...
 Dialogue: 0,0:17:41.50,0:17:43.83,Default,Aoi,0,0,0,,That's all, I guess.
-Dialogue: 0,0:17:45.09,0:17:47.96,Default,Aoi,0,0,0,,I haven't heard from him in ages.
-Dialogue: 0,0:17:48.42,0:17:52.01,Default,Aoi,0,0,0,,I don't even know if he's dead or alive.
+Dialogue: 0,0:17:45.09,0:17:47.96,Default,Akane,0,0,0,,I haven't heard from him in ages.
+Dialogue: 0,0:17:48.42,0:17:52.01,Default,Akane,0,0,0,,I don't even know if he's dead or alive.
 Dialogue: 0,0:17:54.72,0:17:57.60,Italics,Aoi,0,0,0,,I see. That's one possibility.
 Dialogue: 0,0:17:57.60,0:17:59.77,Italics,Aoi,0,0,0,,Actually, that's like, the only possibility!
 Dialogue: 0,0:17:59.77,0:18:03.23,Italics,Aoi,0,0,0,,After all, he hasn't changed one bit.
@@ -296,7 +296,7 @@ Dialogue: 0,0:18:08.11,0:18:09.94,Default,Masamichi,0,0,0,,That's careless.
 Dialogue: 0,0:18:09.94,0:18:10.90,Default,Akane,0,0,0,,Michinko?
 Dialogue: 0,0:18:10.90,0:18:13.45,Default,Masamichi,0,0,0,,Wait, what're you two doing?
 Dialogue: 0,0:18:13.45,0:18:14.74,Default,Aoi,0,0,0,,What are we doing?
-Dialogue: 0,0:18:14.74,0:18:15.20,Default,Aoi,0,0,0,,Making din—
+Dialogue: 0,0:18:14.74,0:18:15.20,Default,Akane,0,0,0,,Making din—
 Dialogue: 0,0:18:15.20,0:18:16.70,Default,Masamichi,0,0,0,,There's no time for that!
 Dialogue: 0,0:18:17.87,0:18:19.58,Default,Masamichi,0,0,0,,I need help with the event!
 Dialogue: 0,0:18:19.58,0:18:20.87,Default,Akane,0,0,0,,Yeah, I know but—
@@ -348,12 +348,12 @@ Dialogue: 0,0:21:26.93,0:21:28.43,Default,Tsugu,0,0,0,,L-Let go of her!
 Dialogue: 0,0:21:28.43,0:21:29.31,Default,Shinno,0,0,0,,Whoa.
 Dialogue: 0,0:21:30.27,0:21:33.27,Default,Shinno,0,0,0,,Huh? Who's this kid? He looks just like Michinko.
 Dialogue: 0,0:21:36.44,0:21:38.11,Default,Aoi,0,0,0,,Who are you?
-Dialogue: 0,0:21:38.11,0:21:39.90,Default,Aoi,0,0,0,,I told you already, I'm Shinno!
-Dialogue: 0,0:21:39.90,0:21:41.74,Default,Aoi,0,0,0,,Who the hell are you?
+Dialogue: 0,0:21:38.11,0:21:39.90,Default,Shinno,0,0,0,,I told you already, I'm Shinno!
+Dialogue: 0,0:21:39.90,0:21:41.74,Default,Shinno,0,0,0,,Who the hell are you?
 Dialogue: 0,0:21:41.74,0:21:44.28,Default,Tsugu,0,0,0,,Ao, let's run away for now.
-Dialogue: 0,0:21:44.28,0:21:44.91,Default,Tsugu,0,0,0,,Ao?
-Dialogue: 0,0:21:47.62,0:21:49.75,Default,Tsugu,0,0,0,,Aoi Aioi.
-Dialogue: 0,0:21:49.75,0:21:52.29,Default,Tsugu,0,0,0,,Eyeball star number two.
+Dialogue: 0,0:21:44.28,0:21:44.91,Default,Shinno,0,0,0,,Ao?
+Dialogue: 0,0:21:47.62,0:21:49.75,Default,Aoi,0,0,0,,Aoi Aioi.
+Dialogue: 0,0:21:49.75,0:21:52.29,Default,Aoi,0,0,0,,Eyeball star number two.
 Dialogue: 0,0:21:59.80,0:22:00.67,Default,Shinno,0,0,0,,That day,
 Dialogue: 0,0:22:00.67,0:22:03.59,Default,Shinno,0,0,0,,when Akane refused to go to Tokyo with me.
 Dialogue: 0,0:22:06.85,0:22:09.43,Default,Shinno,0,0,0,,I didn't feel like going home.
@@ -391,7 +391,7 @@ Dialogue: 0,0:23:40.61,0:23:42.94,Default,Shinno,0,0,0,,After thinking about it,
 Dialogue: 0,0:23:42.94,0:23:46.28,Default,Shinno,0,0,0,,First I'll go to Tokyo and become a big musician!
 Dialogue: 0,0:23:46.28,0:23:49.78,Default,Shinno,0,0,0,,Then I'll come back for Akane with all this fanfare!
 Dialogue: 0,0:23:49.78,0:23:51.08,Default,Aoi,0,0,0,,What's with the excessive positivity.
-Dialogue: 0,0:23:51.08,0:23:55.00,Default,Aoi,0,0,0,,Why'd this have to happen?
+Dialogue: 0,0:23:51.08,0:23:55.00,Default,Shinno,0,0,0,,Why'd this have to happen?
 Dialogue: 0,0:23:55.00,0:23:57.46,Default,Shinno,0,0,0,,Akane must be thirty-one by now, right?
 Dialogue: 0,0:23:57.46,0:23:58.67,Default,Shinno,0,0,0,,Wait, so thirty-one—
 Dialogue: 0,0:23:58.67,0:23:59.25,Default,Shinno,0,0,0,,Uhh.
@@ -458,7 +458,7 @@ Dialogue: 0,0:26:57.60,0:26:58.76,Default,Tsugu,0,0,0,,Is that so?
 Dialogue: 0,0:26:58.76,0:27:01.43,Default,Aoi,0,0,0,,It's better than having Akane
 Dialogue: 0,0:27:03.81,0:27:07.77,Default,Aoi,0,0,0,,be bound to me here forever.
 Dialogue: 0,0:27:08.77,0:27:11.28,Default,Nitobe,0,0,0,,C'mon, let's go to the next place! An after-party!
-Dialogue: 0,0:27:11.57,0:27:13.57,Default,Nitobe,0,0,0,,S-Sure, just a second.
+Dialogue: 0,0:27:11.57,0:27:13.57,Default,Masamichi,0,0,0,,S-Sure, just a second.
 Dialogue: 0,0:27:13.57,0:27:16.78,Top,Band Member,0,0,0,,Hey, Shinnosuke. If you're gonna puke, do it in the can.
 Dialogue: 0,0:27:16.78,0:27:18.45,Top,Band Member,0,0,0,,That was some tasty meat.
 Dialogue: 0,0:27:18.45,0:27:20.24,Top,Band Member,0,0,0,,Let's go somewhere with fish.
@@ -472,7 +472,7 @@ Dialogue: 0,0:27:53.99,0:27:54.78,Default,Akane,0,0,0,,You're awake?
 Dialogue: 0,0:27:56.99,0:28:01.62,Default,Shinnosuke,0,0,0,,My dream did come true, in a way, right?
 Dialogue: 0,0:28:01.62,0:28:03.58,Default,Akane,0,0,0,,It sure did.
 Dialogue: 0,0:28:04.83,0:28:06.66,Default,Shinnosuke,0,0,0,,You're mocking me.
-Dialogue: 0,0:28:07.12,0:28:12.09,Default,Shinnosuke,0,0,0,,I'm surprised you turned out \Nto be a morose drunk, Shinno.
+Dialogue: 0,0:28:07.12,0:28:12.09,Default,Akane,0,0,0,,I'm surprised you turned out \Nto be a morose drunk, Shinno.
 Dialogue: 0,0:28:12.59,0:28:17.72,Default,Shinnosuke,0,0,0,,You're single, so have you been waiting for me?
 Dialogue: 0,0:28:19.68,0:28:21.39,Default,Akane,0,0,0,,Have I been waiting?
 Dialogue: 0,0:28:22.31,0:28:23.01,Default,Akane,0,0,0,,Well,
@@ -487,14 +487,14 @@ Dialogue: 0,0:28:48.50,0:28:51.04,Default,Shinnosuke,0,0,0,,Don't act like this 
 Dialogue: 0,0:28:51.04,0:28:52.50,Default,Akane,0,0,0,,Are you being serious?
 Dialogue: 0,0:28:53.42,0:28:53.96,Default,Shinnosuke,0,0,0,,Why not?
 Dialogue: 0,0:28:53.96,0:28:55.84,Default,Shinnosuke,0,0,0,,You've got nothing to lose.
-Dialogue: 0,0:28:56.38,0:28:59.93,Default,Shinnosuke,0,0,0,,Is that the kind of thing you say \Nto someone you met after thirteen years?
-Dialogue: 0,0:29:01.89,0:29:03.55,Default,Shinnosuke,0,0,0,,Don't disappoint me.
+Dialogue: 0,0:28:56.38,0:28:59.93,Default,Akane,0,0,0,,Is that the kind of thing you say \Nto someone you met after thirteen years?
+Dialogue: 0,0:29:01.89,0:29:03.55,Default,Akane,0,0,0,,Don't disappoint me.
 Dialogue: 0,0:29:09.39,0:29:13.19,Default,Shinnosuke,0,0,0,,It's not like I wanted to come back.
 Dialogue: 0,0:29:14.23,0:29:17.53,Default,Shinnosuke,0,0,0,,Not as I am right now.
 Dialogue: 0,0:29:19.78,0:29:20.99,Default,Akane,0,0,0,,I'm back!
 Dialogue: 0,0:29:21.41,0:29:22.82,Default,Akane,0,0,0,,Aoi?
-Dialogue: 0,0:29:22.82,0:29:24.12,Default,Akane,0,0,0,,Welcome back.
-Dialogue: 0,0:29:24.12,0:29:25.16,Default,Akane,0,0,0,,You're home early.
+Dialogue: 0,0:29:22.82,0:29:24.12,Default,Aoi,0,0,0,,Welcome back.
+Dialogue: 0,0:29:24.12,0:29:25.16,Default,Aoi,0,0,0,,You're home early.
 Dialogue: 0,0:29:26.62,0:29:29.79,Default,Akane,0,0,0,,I can only take so much wining and dining.
 Dialogue: 0,0:29:29.79,0:29:33.63,Default,Akane,0,0,0,,I'm just going to skip bath and go to bed.
 Dialogue: 0,0:29:35.46,0:29:37.88,Default,Akane,0,0,0,,Hey, wanna sleep together?
@@ -506,7 +506,7 @@ Dialogue: 0,0:29:49.81,0:29:52.73,Default,Aoi,0,0,0,,Tell me about Shinnosuke Ka
 Dialogue: 0,0:29:53.48,0:29:54.98,Default,Akane,0,0,0,,He's just a drunk.
 Dialogue: 0,0:29:54.98,0:29:58.11,Default,Aoi,0,0,0,,Not how he is now, how he used to be.
 Dialogue: 0,0:29:58.11,0:30:01.49,Default,Akane,0,0,0,,It's been so long that I've forgotten.
-Dialogue: 0,0:30:01.49,0:30:03.87,Default,Aoi,0,0,0,,I do have a bad memory.
+Dialogue: 0,0:30:01.49,0:30:03.87,Default,Akane,0,0,0,,I do have a bad memory.
 Dialogue: 0,0:30:06.58,0:30:10.29,Default,Aoi,0,0,0,,But in all these years, \Nyou've never had a boyfriend.
 Dialogue: 0,0:30:11.29,0:30:14.21,Default,Akane,0,0,0,,I did, from time to time.
 Dialogue: 0,0:30:16.84,0:30:19.30,Default,Aoi,0,0,0,,No way! You never let it show!
@@ -610,7 +610,7 @@ Dialogue: 0,0:35:46.12,0:35:48.04,Default,Band Member,0,0,0,,If I'd waited, this
 Dialogue: 0,0:35:48.04,0:35:48.67,Default,Band Member,0,0,0,,That'd be you!
 Dialogue: 0,0:35:49.00,0:35:52.96,Default,Chika,0,0,0,,Wow, they're like real rock musicians!
 Dialogue: 0,0:35:49.71,0:35:52.38,Top,Staff,0,0,0,,Anyway, you'll both have to fast for a week,
-Dialogue: 0,0:35:52.38,0:35:54.38,Top,Manager,0,0,0,,until the inflammation subsides.
+Dialogue: 0,0:35:52.38,0:35:54.38,Top,Staff,0,0,0,,until the inflammation subsides.
 Dialogue: 0,0:35:54.38,0:35:56.97,Default,Manager,0,0,0,,It doesn't seem like they'll be able to perform.
 Dialogue: 0,0:35:56.97,0:35:59.26,Default,Manager,0,0,0,,But you'll get plenty of nutrients through an IV drip.
 Dialogue: 0,0:35:59.26,0:36:02.14,Default,Manager,0,0,0,,Worst-case scenario, \Nit won't be a live performance.
@@ -633,7 +633,7 @@ Dialogue: 0,0:36:43.47,0:36:44.72,Default,Band Member,0,0,0,,It sounds like fun.
 Dialogue: 0,0:36:44.72,0:36:45.89,Default,Shinnosuke,0,0,0,,It won't work.
 Dialogue: 0,0:36:45.89,0:36:48.98,Default,Manager,0,0,0,,But Mr. Nitobe loves the idea.
 Dialogue: 0,0:36:48.98,0:36:51.81,Default,Manager,0,0,0,,He's at City Hall right now, explaining it.
-Dialogue: 0,0:36:51.81,0:36:53.94,Top,Masamichi,0,0,0,,Mr. Nitobe went there himself?
+Dialogue: 0,0:36:51.81,0:36:53.94,Top,Band Member,0,0,0,,Mr. Nitobe went there himself?
 Dialogue: 0,0:36:52.15,0:36:55.65,Default,Masamichi,0,0,0,,Why is this happening?
 Dialogue: 0,0:36:55.65,0:36:58.07,Default,Shinnosuke,0,0,0,,I don't want to be part of a brat's playtime.
 Dialogue: 0,0:36:58.49,0:37:01.07,Default,Shinnosuke,0,0,0,,I'm a professional.
@@ -669,7 +669,7 @@ Dialogue: 0,0:39:42.03,0:39:43.57,Default,Aoi,0,0,0,,N-Nothing.
 Dialogue: 0,0:39:43.57,0:39:45.57,Default,Aoi,0,0,0,,What about you, Akane?
 Dialogue: 0,0:39:47.49,0:39:48.32,Default,Akane,0,0,0,,Um...
 Dialogue: 0,0:39:48.74,0:39:52.08,Default,Akane,0,0,0,,I'm sorry, about getting you mixed up in this.
-Dialogue: 0,0:39:53.08,0:39:57.46,Default,Aoi,0,0,0,,I couldn't help it when I imagined \Nyou standing on a big stage.
+Dialogue: 0,0:39:53.08,0:39:57.46,Default,Akane,0,0,0,,I couldn't help it when I imagined \Nyou standing on a big stage.
 Dialogue: 0,0:39:58.71,0:40:00.21,Default,Aoi,0,0,0,,Oh, that's {\alpha&FF}alright.
 Dialogue: 0,0:40:00.21,0:40:01.05,Default,Aoi,0,0,0,,Oh, that's alright.
 Dialogue: 0,0:40:01.05,0:40:05.59,Default,Aoi,0,0,0,,I'm kinda looking forward to it actually.
@@ -682,8 +682,8 @@ Dialogue: 0,0:40:19.90,0:40:21.11,Default,Aoi,0,0,0,,Yeah.
 Dialogue: 0,0:40:23.23,0:40:25.11,Default,Tsugu,0,0,0,,You had me scared!
 Dialogue: 0,0:40:25.90,0:40:28.03,Default,Shinno,0,0,0,,She's grown into an old lady.
 Dialogue: 0,0:40:28.03,0:40:30.03,Default,Aoi,0,0,0,,Well,
-Dialogue: 0,0:40:31.08,0:40:33.74,Default,Aoi,0,0,0,,an incredibly cute old lady.
-Dialogue: 0,0:40:34.75,0:40:41.17,Default,Aoi,0,0,0,,An old lady more cute and\N beautiful than any idol or model.
+Dialogue: 0,0:40:31.08,0:40:33.74,Default,Shinno,0,0,0,,an incredibly cute old lady.
+Dialogue: 0,0:40:34.75,0:40:41.17,Default,Shinno,0,0,0,,An old lady more cute and\N beautiful than any idol or model.
 Dialogue: 0,0:40:43.25,0:40:45.51,Default,Tsugu,0,0,0,,Um, are you okay?
 Dialogue: 0,0:40:46.26,0:40:48.01,Default,Shinno,0,0,0,,What do you mean?
 Dialogue: 0,0:40:48.93,0:40:51.97,Default,Shinno,0,0,0,,Akane must've been through a lot in all these years.
@@ -694,22 +694,22 @@ Dialogue: 0,0:41:05.28,0:41:10.78,Default,Shinno,0,0,0,,Still, I bet now that I'
 Dialogue: 0,0:41:10.78,0:41:12.74,Default,Aoi,0,0,0,,Well, yeah.
 Dialogue: 0,0:41:12.74,0:41:13.95,Default,Shinno,0,0,0,,For real?
 Dialogue: 0,0:41:13.95,0:41:16.33,Default,Tsugu,0,0,0,,Want me to record it for you? You playing.
-Dialogue: 0,0:41:17.00,0:41:18.08,Default,Shinno,0,0,0,,With this.
+Dialogue: 0,0:41:17.00,0:41:18.08,Default,Tsugu,0,0,0,,With this.
 Dialogue: 0,0:41:18.08,0:41:19.37,Default,Shinno,0,0,0,,You can do that?
 Dialogue: 0,0:41:19.92,0:41:21.50,Default,Shinno,0,0,0,,Man, smartphones these days!
 Dialogue: 0,0:41:21.50,0:41:23.54,Default,Shinno,0,0,0,,That game was amazing too.
 Dialogue: 0,0:41:23.54,0:41:25.30,Default,Shinno,0,0,0,,Let me borrow it for the night.
 Dialogue: 0,0:41:25.30,0:41:26.46,Default,Tsugu,0,0,0,,Forget it.
 Dialogue: 0,0:41:26.46,0:41:27.63,Default,Aoi,0,0,0,,Then how about mine?
-Dialogue: 0,0:41:28.38,0:41:29.22,Default,Tsugu,0,0,0,,It's okay?
+Dialogue: 0,0:41:28.38,0:41:29.22,Default,Shinno,0,0,0,,It's okay?
 Dialogue: 0,0:41:29.22,0:41:31.47,Default,Aoi,0,0,0,,I don't mind if it's just one night.
 Dialogue: 0,0:41:31.47,0:41:34.30,Default,Aoi,0,0,0,,Besides, Akane and Tsugu \Nare the only ones who call me.
 Dialogue: 0,0:41:34.30,0:41:35.97,Default,Aoi,0,0,0,,Um, the password is—
 Dialogue: 0,0:41:35.97,0:41:37.43,Default,Aoi,0,0,0,,Hey! That's personal information!
-Dialogue: 0,0:41:37.43,0:41:38.64,Default,Aoi,0,0,0,,Thank you, Ao!
-Dialogue: 0,0:41:38.64,0:41:41.15,Default,Aoi,0,0,0,,Your sister really raised you well!
+Dialogue: 0,0:41:37.43,0:41:38.64,Default,Shinno,0,0,0,,Thank you, Ao!
+Dialogue: 0,0:41:38.64,0:41:41.15,Default,Shinno,0,0,0,,Your sister really raised you well!
 Dialogue: 0,0:41:41.15,0:41:43.56,Default,Aoi,0,0,0,,Hey! Don't touch my head like that!
-Dialogue: 0,0:41:47.32,0:41:48.69,Default,Shinno,0,0,0,,Hey.
+Dialogue: 0,0:41:47.32,0:41:48.69,Default,Aoi,0,0,0,,Hey.
 Dialogue: 0,0:41:50.32,0:41:52.66,Default,Aoi,0,0,0,,Are you really gonna record it?
 Dialogue: 0,0:41:52.66,0:41:54.03,Default,Tsugu,0,0,0,,Why not?
 Dialogue: 0,0:41:54.66,0:41:58.91,Default,Aoi,0,0,0,,He might be disappointed to see his present self.
@@ -752,7 +752,7 @@ Dialogue: 0,0:43:48.48,0:43:52.53,Default,Shinnosuke,0,0,0,,You're following the
 Dialogue: 0,0:43:52.53,0:43:55.32,Default,Shinnosuke,0,0,0,,If the drummer can't keep the rhythm, \Nhe's got no business—
 Dialogue: 0,0:43:55.32,0:43:57.03,Top,Townsperson,0,0,0,,Hey there! Shin!
 Dialogue: 0,0:43:57.03,0:43:58.91,Top,Townsperson,0,0,0,,There you are!
-Dialogue: 0,0:43:58.91,0:44:00.12,Top,Band Member,0,0,0,,This place is so big!
+Dialogue: 0,0:43:58.91,0:44:00.12,Top,Townsperson,0,0,0,,This place is so big!
 Dialogue: 0,0:43:59.16,0:44:01.16,Default,Band Member,0,0,0,,Hey, Eiko!
 Dialogue: 0,0:44:01.16,0:44:02.04,Default,Townsperson,0,0,0,,Hi!
 Dialogue: 0,0:44:02.04,0:44:04.25,Default,Townsperson,0,0,0,,We're here, Shin!
@@ -760,14 +760,14 @@ Dialogue: 0,0:44:05.08,0:44:06.04,Default,Shinnosuke,0,0,0,,Why?
 Dialogue: 0,0:44:06.04,0:44:07.71,Default,Akane,0,0,0,,It seems they've come to pick you up.
 Dialogue: 0,0:44:07.71,0:44:10.79,Default,Akane,0,0,0,,Mr. Nitobe is already on his way.
 Dialogue: 0,0:44:10.79,0:44:14.51,Default,Akane,0,0,0,,Professionals really are something, eh?
-Dialogue: 0,0:44:14.51,0:44:15.09,Default,Akane,0,0,0,,Uh, well—
+Dialogue: 0,0:44:14.51,0:44:15.09,Default,Shinnosuke,0,0,0,,Uh, well—
 Dialogue: 0,0:44:15.09,0:44:16.22,Default,Townsperson,0,0,0,,Come on, Shin.
 Dialogue: 0,0:44:16.22,0:44:17.51,Top,Townsperson,0,0,0,,Let's go!
-Dialogue: 0,0:44:17.51,0:44:19.93,Top,Band Member,0,0,0,,You're a real grouch when you're drunk, Shinnosuke.
-Dialogue: 0,0:44:20.35,0:44:23.31,Top,Chika,0,0,0,,Come on, Dan is waiting.
+Dialogue: 0,0:44:17.51,0:44:19.93,Top,Townsperson,0,0,0,,You're a real grouch when you're drunk, Shinnosuke.
+Dialogue: 0,0:44:20.35,0:44:23.31,Top,Townsperson,0,0,0,,Come on, Dan is waiting.
 Dialogue: 0,0:44:20.35,0:44:23.31,Default,Chika,0,0,0,,Woha, he's the wild type.
-Dialogue: 0,0:44:23.31,0:44:25.27,Default,Chika,0,0,0,,I guess that's all for today.
-Dialogue: 0,0:44:27.60,0:44:29.44,Default,Chika,0,0,0,,What're you up to?
+Dialogue: 0,0:44:23.31,0:44:25.27,Default,Tsugu,0,0,0,,I guess that's all for today.
+Dialogue: 0,0:44:27.60,0:44:29.44,Default,Tsugu,0,0,0,,What're you up to?
 Dialogue: 0,0:44:29.44,0:44:33.36,Default,Chika,0,0,0,,I sent the recording to Aioi's phone.
 Dialogue: 0,0:44:36.95,0:44:41.20,Default,Shinno,0,0,0,,Y-You... rotten old man!
 Dialogue: 0,0:44:41.20,0:44:42.45,Default,Tsugu,0,0,0,,He saw it already.
@@ -779,7 +779,7 @@ Dialogue: 0,0:44:55.92,0:44:58.18,Default,Shinno,0,0,0,,But still...
 Dialogue: 0,0:45:00.64,0:45:04.68,Default,Shinno,0,0,0,,I really did become a professional, huh?
 Dialogue: 0,0:45:05.31,0:45:08.27,Default,Shinno,0,0,0,,Damn, that bastard.
 Dialogue: 0,0:45:08.27,0:45:11.31,Default,Shinno,0,0,0,,Acting cool and all when he's even got an outie.
-Dialogue: 0,0:45:11.31,0:45:12.31,Default,Shinno,0,0,0,,An outie?
+Dialogue: 0,0:45:11.31,0:45:12.31,Default,Aoi,0,0,0,,An outie?
 Dialogue: 0,0:45:12.31,0:45:12.65,Default,Shinno,0,0,0,,Yeah.
 Dialogue: 0,0:45:13.23,0:45:14.78,Default,Shinno,0,0,0,,Here, wanna see?
 Dialogue: 0,0:45:14.78,0:45:16.15,Default,Aoi,0,0,0,,No thanks.
@@ -807,7 +807,7 @@ Dialogue: 0,0:46:41.11,0:46:42.45,Default,Aoi,0,0,0,,That jerk!
 Dialogue: 0,0:46:43.28,0:46:45.99,Default,Aoi,0,0,0,,I'm sick of him looking down on us!
 Dialogue: 0,0:46:45.99,0:46:48.37,Default,Aoi,0,0,0,,He's totally different from Shinno.
 Dialogue: 0,0:46:48.37,0:46:49.95,Default,Aoi,0,0,0,,How'd he turn out like this?
-Dialogue: 0,0:46:49.95,0:46:50.95,Default,Masamichi,0,0,0,,Shinno?
+Dialogue: 0,0:46:49.95,0:46:50.95,Default,Chika,0,0,0,,Shinno?
 Dialogue: 0,0:46:50.95,0:46:54.88,Default,Masamichi,0,0,0,,Yeah, that's what we used \Nto call Shinnosuke back in the day.
 Dialogue: 0,0:46:54.88,0:46:59.00,Default,Aoi,0,0,0,,Wrong! Shinno isn't Shinnosuke at all!
 Dialogue: 0,0:46:59.00,0:47:00.76,Default,Chika,0,0,0,,Huh?
@@ -836,12 +836,12 @@ Dialogue: 0,0:48:27.43,0:48:29.05,Default,Shinno,0,0,0,,Don't you have to study?
 Dialogue: 0,0:48:29.05,0:48:30.51,Default,Aoi,0,0,0,,Don't worry about it.
 Dialogue: 0,0:48:30.51,0:48:33.27,Default,Aoi,0,0,0,,It's not like I'm going to college anyway.
 Dialogue: 0,0:48:33.27,0:48:35.35,Default,Shinno,0,0,0,,Huh, so what're you gonna do?
-Dialogue: 0,0:48:38.10,0:48:40.19,Default,Shinno,0,0,0,,Go to Tokyo and join a band.
+Dialogue: 0,0:48:38.10,0:48:40.19,Default,Aoi,0,0,0,,Go to Tokyo and join a band.
 Dialogue: 0,0:48:40.19,0:48:41.31,Default,Shinno,0,0,0,,Woah!
 Dialogue: 0,0:48:41.31,0:48:44.78,Default,Shinno,0,0,0,,Someone who'll follow in my footsteps, \Nright in front of me!
 Dialogue: 0,0:48:44.78,0:48:48.24,Default,Aoi,0,0,0,,Don't praise me so squarely like that.
 Dialogue: 0,0:48:48.24,0:48:51.37,Default,Aoi,0,0,0,,I'm not doing it for a logical reason.
-Dialogue: 0,0:48:51.37,0:48:52.24,Default,Aoi,0,0,0,,You're not?
+Dialogue: 0,0:48:51.37,0:48:52.24,Default,Shinno,0,0,0,,You're not?
 Dialogue: 0,0:48:53.45,0:48:56.75,Default,Aoi,0,0,0,,I want to leave this town
 Dialogue: 0,0:48:58.12,0:49:01.92,Default,Aoi,0,0,0,,so Akane can live the way she wants to.
 Dialogue: 0,0:49:02.46,0:49:10.22,Default,Aoi,0,0,0,,I'm sure she's been holding back on doing \Nthe things she wants to because of me.
@@ -948,7 +948,7 @@ Dialogue: 0,0:55:26.72,0:55:28.51,Default,Aoi,0,0,0,,Akane, you're
 Dialogue: 0,0:55:29.60,0:55:30.77,Default,Aoi,0,0,0,,Akane, you're
 Dialogue: 0,0:55:30.77,0:55:33.23,Italics,Aoi,0,0,0,,I really am
 Dialogue: 0,0:55:33.23,0:55:34.85,Default,Aoi,0,0,0,,such an idiot!
-Dialogue: 0,0:55:39.36,0:55:41.57,Default,Aoi,0,0,0,,An idiot, huh?
+Dialogue: 0,0:55:39.36,0:55:41.57,Default,Akane,0,0,0,,An idiot, huh?
 Dialogue: 0,0:55:46.82,0:55:48.24,Default,Akane,0,0,0,,Hey, Aoi?
 Dialogue: 0,0:56:40.25,0:56:42.25,Default,Akane,0,0,0,,Oh, it's open.
 Dialogue: 0,0:56:43.76,0:56:47.26,Default,Akane,0,0,0,,Aoi! Are you in here?
@@ -982,11 +982,11 @@ Dialogue: 0,0:59:49.86,0:59:50.90,Default,Chika,0,0,0,,Hey, Akane?
 Dialogue: 0,0:59:52.78,0:59:54.86,Default,Chika,0,0,0,,Where should I put this?
 Dialogue: 0,0:59:54.86,0:59:57.03,Default,Akane,0,0,0,,Oh, I'll take it.
 Dialogue: 0,0:59:57.66,1:00:00.28,Default,Akane,0,0,0,,Sorry for making you do all this on a weekend.
-Dialogue: 0,1:00:00.28,1:00:04.29,Default,Akane,0,0,0,,Not at all! I'm not in a club \Nso I have plenty of free time.
-Dialogue: 0,1:00:04.29,1:00:08.13,Default,Akane,0,0,0,,I'll help all I can till the show begins,\N day after tomorrow.
-Dialogue: 0,1:00:08.13,1:00:10.84,Default,Akane,0,0,0,,Aioi!
-Dialogue: 0,1:00:10.84,1:00:12.80,Default,Akane,0,0,0,,Hey!
-Dialogue: 0,1:00:16.13,1:00:18.43,Default,Akane,0,0,0,,Ignored again.
+Dialogue: 0,1:00:00.28,1:00:04.29,Default,Chika,0,0,0,,Not at all! I'm not in a club \Nso I have plenty of free time.
+Dialogue: 0,1:00:04.29,1:00:08.13,Default,Chika,0,0,0,,I'll help all I can till the show begins,\N day after tomorrow.
+Dialogue: 0,1:00:08.13,1:00:10.84,Default,Chika,0,0,0,,Aioi!
+Dialogue: 0,1:00:10.84,1:00:12.80,Default,Chika,0,0,0,,Hey!
+Dialogue: 0,1:00:16.13,1:00:18.43,Default,Chika,0,0,0,,Ignored again.
 Dialogue: 0,1:00:24.73,1:00:26.48,Default,Akane,0,0,0,,Hello.
 Dialogue: 0,1:00:27.48,1:00:30.73,Default,Akane,0,0,0,,The lighting director was \Nlooking for you to confirm positions.
 Dialogue: 0,1:00:30.73,1:00:32.23,Default,Band Member,0,0,0,,Oh, got it.
@@ -996,7 +996,7 @@ Dialogue: 0,1:00:37.20,1:00:40.58,Default,Band Member,0,0,0,,Alright then, I'll 
 Dialogue: 0,1:00:40.58,1:00:42.49,Default,Akane,0,0,0,,What? But...
 Dialogue: 0,1:00:42.49,1:00:44.70,Default,Band Member,0,0,0,,This is his hometown, right?
 Dialogue: 0,1:00:44.70,1:00:47.62,Default,Band Member,0,0,0,,I suppose it's complicated for him.
-Dialogue: 0,1:00:47.62,1:00:48.71,Default,Band Member,0,0,0,,Complicated?
+Dialogue: 0,1:00:47.62,1:00:48.71,Default,Akane,0,0,0,,Complicated?
 Dialogue: 0,1:00:49.13,1:00:54.17,Default,Band Member,0,0,0,,I've always been in the background,\Nbut he actually made a solo debut a while back.
 Dialogue: 0,1:00:54.17,1:00:57.18,Default,Band Member,0,0,0,,But it was with just one song and that was it.
 Dialogue: 0,1:01:07.77,1:01:08.60,Default,Shinno,0,0,0,,Yama.
@@ -1048,10 +1048,10 @@ Dialogue: 0,1:03:38.34,1:03:42.92,Default,Chika,0,0,0,,Where's the prince who'll
 Dialogue: 0,1:03:42.92,1:03:46.64,Top,Staff,0,0,0,,Ohtaki, where's the sign-in sheet \NI asked you to take care of?
 Dialogue: 0,1:03:46.64,1:03:51.10,Default,Chika,0,0,0,,Sorry! I left it on top of the cart by the entrance!
 Dialogue: 0,1:04:48.53,1:04:50.57,Default,Akane,0,0,0,,Why'd you stop?
-Dialogue: 0,1:04:53.54,1:04:55.25,Default,Shinnosuke,0,0,0,,Keep playing.
+Dialogue: 0,1:04:53.54,1:04:55.25,Default,Akane,0,0,0,,Keep playing.
 Dialogue: 0,1:05:04.26,1:05:11.35,Default,Shinnosuke,0,0,0,,I had a feeling that when I moved to Tokyo,\N all my dreams would come true.
 Dialogue: 0,1:05:11.35,1:05:14.01,Default,Shinnosuke,0,0,0,,But they didn't.
-Dialogue: 0,1:05:15.14,1:05:19.44,Default,Shinnosuke,0,0,0,,But your dream did come true. \NYou play guitar for a living.
+Dialogue: 0,1:05:15.14,1:05:19.44,Default,Akane,0,0,0,,But your dream did come true. \NYou play guitar for a living.
 Dialogue: 0,1:05:19.44,1:05:24.32,Default,Shinnosuke,0,0,0,,It's not like I planned on joining \Na backup band for an enka singer.
 Dialogue: 0,1:05:24.32,1:05:25.07,Default,Akane,0,0,0,,Still—
 Dialogue: 0,1:05:25.07,1:05:27.90,Default,Shinnosuke,0,0,0,,I'm not complaining.
@@ -1087,7 +1087,7 @@ Dialogue: 0,1:08:25.21,1:08:26.71,Italics,Aoi,0,0,0,,Don't!
 Dialogue: 0,1:08:26.71,1:08:29.59,Italics,Aoi,0,0,0,,If you do that, then Shinno will disappear!
 Dialogue: 0,1:08:29.59,1:08:31.30,Default,Akane,0,0,0,,What're you on about?
 Dialogue: 0,1:08:31.67,1:08:36.05,Default,Akane,0,0,0,,In this day and age,\N thirty or so is still a youngster, right?
-Dialogue: 0,1:08:36.05,1:08:39.18,Default,Shinnosuke,0,0,0,,It's too early to settle down.
+Dialogue: 0,1:08:36.05,1:08:39.18,Default,Akane,0,0,0,,It's too early to settle down.
 Dialogue: 0,1:08:41.26,1:08:44.77,Default,Akane,0,0,0,,For me, there's something here that only I can do.
 Dialogue: 0,1:08:44.77,1:08:47.69,Default,Akane,0,0,0,,I haven't given up on anything yet.
 Dialogue: 0,1:08:48.10,1:08:50.86,Default,Akane,0,0,0,,Yep. It's from here on and out.
@@ -1122,8 +1122,8 @@ Dialogue: 0,1:13:29.89,1:13:32.18,Default,Shinno,0,0,0,,Oh. It's just you, Ao.
 Dialogue: 0,1:13:32.18,1:13:33.81,Default,Shinno,0,0,0,,What happened to using our password?
 Dialogue: 0,1:13:33.81,1:13:35.06,Default,Shinno,0,0,0,,Jeez, you scared me.
 Dialogue: 0,1:13:35.06,1:13:36.81,Default,Aoi,0,0,0,,I like you, Shinno.
-Dialogue: 0,1:13:44.40,1:13:49.70,Default,Aoi,0,0,0,,Listen, I'm flattered but \Nthink about it properly for once.
-Dialogue: 0,1:13:49.70,1:13:50.70,Default,Aoi,0,0,0,,I'm just a living spir—
+Dialogue: 0,1:13:44.40,1:13:49.70,Default,Shinno,0,0,0,,Listen, I'm flattered but \Nthink about it properly for once.
+Dialogue: 0,1:13:49.70,1:13:50.70,Default,Shinno,0,0,0,,I'm just a living spir—
 Dialogue: 0,1:13:50.70,1:13:51.87,Default,Aoi,0,0,0,,Shut up!
 Dialogue: 0,1:13:54.91,1:13:58.54,Default,Aoi,0,0,0,,I mean, your voice is so kind.
 Dialogue: 0,1:13:58.54,1:14:05.30,Default,Aoi,0,0,0,,Someone with a voice like that generally says \Ncomforting and compassionate things!
@@ -1158,18 +1158,18 @@ Dialogue: 0,1:16:00.58,1:16:04.83,Default,Shinno,0,0,0,,I can't even if I wanted
 Dialogue: 0,1:16:06.42,1:16:09.00,Default,Shinno,0,0,0,,All I can do is see you off from here.
 Dialogue: 0,1:16:10.71,1:16:17.93,Default,Shinno,0,0,0,,I don't have any idea either, \Nof what'd happen to me if I returned to my original self.
 Dialogue: 0,1:16:18.68,1:16:27.52,Default,Shinno,0,0,0,,But watching you run off crying like a brat \Nand being unable to do anything about it...
-Dialogue: 0,1:16:29.86,1:16:31.19,Default,Shinno,0,0,0,,I'm not crying.
-Dialogue: 0,1:16:32.57,1:16:34.40,Default,Shinno,0,0,0,,I'm not crying!
-Dialogue: 0,1:16:34.40,1:16:36.07,Default,Shinno,0,0,0,,It's the rain!
+Dialogue: 0,1:16:29.86,1:16:31.19,Default,Aoi,0,0,0,,I'm not crying.
+Dialogue: 0,1:16:32.57,1:16:34.40,Default,Aoi,0,0,0,,I'm not crying!
+Dialogue: 0,1:16:34.40,1:16:36.07,Default,Aoi,0,0,0,,It's the rain!
 Dialogue: 0,1:16:44.12,1:16:48.21,Default,Shinno,0,0,0,,Hey, why am I even here?
 Dialogue: 0,1:16:52.13,1:16:53.51,Default,Shinno,0,0,0,,Why?
-Dialogue: 0,1:17:26.16,1:17:27.71,Default,Aoi,0,0,0,,Morning.
-Dialogue: 0,1:17:29.17,1:17:31.00,Default,Chika,0,0,0,,Morning.
-Dialogue: 0,1:17:31.00,1:17:31.67,Default,Chika,0,0,0,,Um...
-Dialogue: 0,1:17:32.84,1:17:35.01,Default,Chika,0,0,0,,I'm sorry about yesterday.
-Dialogue: 0,1:17:35.67,1:17:37.92,Default,Aoi,0,0,0,,Th-There's no need to apologize!
-Dialogue: 0,1:17:37.92,1:17:40.51,Default,Aoi,0,0,0,,I was totally pushing it.
-Dialogue: 0,1:17:40.14,1:17:40.51,Alternative,Chika,0,0,0,,But—
+Dialogue: 0,1:17:26.16,1:17:27.71,Default,Chika,0,0,0,,Morning.
+Dialogue: 0,1:17:29.17,1:17:31.00,Default,Aoi,0,0,0,,Morning.
+Dialogue: 0,1:17:31.00,1:17:31.67,Default,Aoi,0,0,0,,Um...
+Dialogue: 0,1:17:32.84,1:17:35.01,Default,Aoi,0,0,0,,I'm sorry about yesterday.
+Dialogue: 0,1:17:35.67,1:17:37.92,Default,Chika,0,0,0,,Th-There's no need to apologize!
+Dialogue: 0,1:17:37.92,1:17:40.51,Default,Chika,0,0,0,,I was totally pushing it.
+Dialogue: 0,1:17:40.14,1:17:40.51,Alternative,Aoi,0,0,0,,But—
 Dialogue: 0,1:17:40.51,1:17:41.76,Default,Chika,0,0,0,,Well, uh—
 Dialogue: 0,1:17:41.76,1:17:45.06,Default,Nitobe,0,0,0,,It's not here!
 Dialogue: 0,1:17:45.06,1:17:47.27,Default,Masamichi,0,0,0,,Are you missing something, Mr. Nitobe?
@@ -1202,7 +1202,7 @@ Dialogue: 0,1:19:00.17,1:19:01.68,Default,Nitobe,0,0,0,,Ah, that tunnel!
 Dialogue: 0,1:19:01.68,1:19:03.51,Default,Nitobe,0,0,0,,Charming, isn't it?
 Dialogue: 0,1:19:03.51,1:19:06.85,Default,Nitobe,0,0,0,,There was a fence but I just went through it like this.
 Dialogue: 0,1:19:06.85,1:19:07.85,Default,Chika & Akane,0,0,0,,That's it!
-Dialogue: 0,1:19:07.85,1:19:12.60,Default,Chika & Akane,0,0,0,,Yeah, it did have this sort \Nof survival instinct feeling to it.
+Dialogue: 0,1:19:07.85,1:19:12.60,Default,Nitobe,0,0,0,,Yeah, it did have this sort \Nof survival instinct feeling to it.
 Dialogue: 0,1:19:12.60,1:19:14.56,Default,Akane,0,0,0,,Then I'll go look for it.
 Dialogue: 0,1:19:14.56,1:19:17.07,Default,Nitobe,0,0,0,,Huh? Are you sure?
 Dialogue: 0,1:19:17.07,1:19:19.73,Default,Akane,0,0,0,,In the meantime, please prepare for rehearsal, Mr. Nitobe.
@@ -1237,10 +1237,10 @@ Dialogue: 0,1:21:43.59,1:21:47.92,Default,Masamichi,0,0,0,,I gotta go back and i
 Dialogue: 0,1:21:47.92,1:21:48.88,Default,Manager,0,0,0,,A landslide?
 Dialogue: 0,1:21:48.88,1:21:49.88,Default,Nitobe,0,0,0,,What?!
 Dialogue: 0,1:21:49.88,1:21:56.06,Default,Masamichi,0,0,0,,Apparently it happened in the mountains, \Nso we don't have any confirmed damage at the moment.
-Dialogue: 0,1:21:56.06,1:21:56.68,Default,Chika,0,0,0,,Oh, I see.
+Dialogue: 0,1:21:56.06,1:21:56.68,Default,Nitobe,0,0,0,,Oh, I see.
 Dialogue: 0,1:21:56.68,1:21:58.56,Default,Chika,0,0,0,,That must've been the earthquake I felt!
 Dialogue: 0,1:21:58.56,1:22:01.15,Default,Tsugu,0,0,0,,It's been raining a lot lately.
-Dialogue: 0,1:21:58.56,1:22:01.15,Top,Chika,0,0,0,,That's a small mercy.
+Dialogue: 0,1:21:58.56,1:22:01.15,Top,Nitobe,0,0,0,,That's a small mercy.
 Dialogue: 0,1:22:01.15,1:22:03.98,Default,Tsugu,0,0,0,,Hino? That's near the tunnel where Akane went!
 Dialogue: 0,1:22:05.90,1:22:06.73,Default,Aoi,0,0,0,,Is Akane—
 Dialogue: 0,1:22:06.73,1:22:08.28,Default,Tsugu,0,0,0,,Ao!
@@ -1303,7 +1303,7 @@ Dialogue: 0,1:25:00.16,1:25:01.99,Default,Aoi,0,0,0,,Shinno.
 Dialogue: 0,1:25:01.99,1:25:07.83,Default,Shinno,0,0,0,,Weren't you supposed to become a big musician \Nand come back to take Akane with you?
 Dialogue: 0,1:25:08.58,1:25:11.34,Default,Shinno,0,0,0,,Instead you're a member of some backup band.
 Dialogue: 0,1:25:11.34,1:25:12.38,Default,Shinno,0,0,0,,And to an enka singer?
-Dialogue: 0,1:25:12.92,1:25:14.34,Default,Shinnosuke,0,0,0,,That's outrageous!
+Dialogue: 0,1:25:12.92,1:25:14.34,Default,Shinno,0,0,0,,That's outrageous!
 Dialogue: 0,1:25:14.34,1:25:14.88,Default,Shinnosuke,0,0,0,,Shut up.
 Dialogue: 0,1:25:14.88,1:25:17.26,Default,Shinno,0,0,0,,Pathetic!
 Dialogue: 0,1:25:17.26,1:25:19.30,Default,Shinno,0,0,0,,I feel like I've been dunked in a swamp of puke!
@@ -1372,10 +1372,10 @@ Dialogue: 0,1:29:24.42,1:29:27.84,Default,Shinnosuke,0,0,0,,Don't think you can 
 Dialogue: 0,1:29:29.76,1:29:32.60,Default,Aoi,0,0,0,,Wait! Shinno!
 Dialogue: 0,1:29:32.93,1:29:34.85,Default,Aoi,0,0,0,,You're going too fast!
 Dialogue: 0,1:29:35.98,1:29:37.64,Default,Aoi,0,0,0,,Hey! Wai—
-Dialogue: 0,1:29:37.64,1:29:40.06,Default,Aoi,0,0,0,,No way!
+Dialogue: 0,1:29:37.64,1:29:40.06,Default,Shinno,0,0,0,,No way!
 Dialogue: 0,1:29:45.48,1:29:49.20,Default,Shinno,0,0,0,,Here I come, Akane!
-Dialogue: 0,1:29:54.58,1:29:56.58,Default,Aoi,0,0,0,,He's flying? What the hell!
-Dialogue: 0,1:29:57.00,1:29:58.58,Default,Shinno,0,0,0,,Where'd that come from?
+Dialogue: 0,1:29:54.58,1:29:56.58,Default,Shinnosuke,0,0,0,,He's flying? What the hell!
+Dialogue: 0,1:29:57.00,1:29:58.58,Default,Shinnosuke,0,0,0,,Where'd that come from?
 Dialogue: 0,1:30:04.42,1:30:06.76,Default,Shinno,0,0,0,,This is awesome! How am I doing this?
 Dialogue: 0,1:30:06.76,1:30:10.38,Default,Aoi,0,0,0,,That's what I wanna know!
 Dialogue: 0,1:30:11.34,1:30:15.72,Default,Shinnosuke,0,0,0,,Aren't there any taxis around here? Damn countryside!
@@ -1408,8 +1408,8 @@ Dialogue: 0,1:32:19.85,1:32:21.14,Default,Shinno,0,0,0,,Ao?
 Dialogue: 0,1:32:21.14,1:32:28.06,Default,Aoi,0,0,0,,That's why I'm gonna help you and Shinnosuke.
 Dialogue: 0,1:32:34.49,1:32:35.53,Default,Aoi,0,0,0,,Wha—
 Dialogue: 0,1:32:51.38,1:32:52.92,Default,Aoi,0,0,0,,What was that for?!
-Dialogue: 0,1:32:52.92,1:32:53.71,Default,Aoi,0,0,0,,Well,
-Dialogue: 0,1:32:54.17,1:32:59.10,Default,Aoi,0,0,0,,They say babies stop crying if you blow a puff of air.
+Dialogue: 0,1:32:52.92,1:32:53.71,Default,Shinno,0,0,0,,Well,
+Dialogue: 0,1:32:54.17,1:32:59.10,Default,Shinno,0,0,0,,They say babies stop crying if you blow a puff of air.
 Dialogue: 0,1:33:06.73,1:33:08.69,Default,Aoi,0,0,0,,The heck?
 Dialogue: 0,1:33:08.69,1:33:10.23,Default,Shinno,0,0,0,,Shut up.
 Dialogue: 0,1:33:14.74,1:33:17.78,Default,Aoi,0,0,0,,The sky is so blue.
@@ -1439,7 +1439,7 @@ Dialogue: 0,1:34:54.96,1:34:56.88,Default,Akane,0,0,0,,What? When? Where?
 Dialogue: 0,1:34:56.88,1:34:57.84,Default,Shinno,0,0,0,,In that temple room.
 Dialogue: 0,1:34:59.01,1:35:03.55,Default,Shinno,0,0,0,,When you went to check on Ao \Nand when you brought rice balls.
 Dialogue: 0,1:35:04.05,1:35:05.60,Default,Akane,0,0,0,,Really?
-Dialogue: 0,1:35:05.60,1:35:07.72,Default,Akane,0,0,0,,They were kelp again.
+Dialogue: 0,1:35:05.60,1:35:07.72,Default,Shinno,0,0,0,,They were kelp again.
 Dialogue: 0,1:35:08.85,1:35:12.06,Default,Shinno,0,0,0,,The rice balls. I kept telling you \NI wanted mayonnaise and tuna,
 Dialogue: 0,1:35:12.06,1:35:14.56,Default,Shinno,0,0,0,,but you always used Ao's favorite kelp.
 Dialogue: 0,1:35:15.27,1:35:16.69,Default,Akane,0,0,0,,Sorry about that.
