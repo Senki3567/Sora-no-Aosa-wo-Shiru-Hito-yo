@@ -316,11 +316,11 @@ Dialogue: 0,0:18:54.28,0:18:57.62,Default,Masamichi,0,0,0,,unless he samples the
 Dialogue: 0,0:18:57.62,0:19:00.16,Default,Akane,0,0,0,,And City Hall is paying for that, isn't it?
 Dialogue: 0,0:19:00.58,0:19:04.46,Default,Tsugu,0,0,0,,Isn't that what you'd call sponging someone off?
 Dialogue: 0,0:19:05.87,0:19:07.25,Default,Aoi,0,0,0,,Tsugu?
-Dialogue: 0,0:19:11.46,0:19:12.80,Top,Masamichi,0,0,0,,What the—
+Dialogue: 0,0:19:11.46,0:19:12.80,Top,Townsperson,0,0,0,,What the—
 Dialogue: 0,0:19:17.14,0:19:20.31,Default,Nitobe,0,0,0,,Ladies and gentlemen, sorry to keep you waiting.
 Dialogue: 0,0:19:20.31,0:19:23.06,Default,Nitobe,0,0,0,,One lone man, Dankichi Nitobe
 Dialogue: 0,0:19:23.06,0:19:30.40,Default,Nitobe,0,0,0,,has crossed lands from afar and traversed\Nmountains to bring you the gift of a smile.
-Dialogue: 0,0:19:30.40,0:19:32.15,Default,Townsperson,0,0,0,,A f-feint?
+Dialogue: 0,0:19:30.40,0:19:32.15,Default,Masamichi,0,0,0,,A f-feint?
 Dialogue: 0,0:19:32.15,0:19:33.49,Top,Townsperson,0,0,0,,Isn't that Dan?!
 Dialogue: 0,0:19:33.49,0:19:34.95,Top,Townsperson,0,0,0,,What's he doing here?
 Dialogue: 0,0:19:36.70,0:19:38.45,Default,Aoi,0,0,0,,Akane?
@@ -425,9 +425,9 @@ Dialogue: 0,0:25:06.74,0:25:09.78,Default,Nitobe,0,0,0,,I'll have to give him a 
 Dialogue: 0,0:25:09.78,0:25:13.41,Default,Band Member,0,0,0,,That's so cool, I wanna do a solo too!
 Dialogue: 0,0:25:13.41,0:25:14.74,Top,Band Member,0,0,0,,You guys, that's still mostly raw.
 Dialogue: 0,0:25:13.41,0:25:16.62,Default,Band Member,0,0,0,,You sax doesn't have enough soul in it.
-Dialogue: 0,0:25:14.74,0:25:18.25,Top,Masamichi,0,0,0,,Excuse me, another plate of this firm kind of meat.
+Dialogue: 0,0:25:14.74,0:25:18.25,Top,Band Member,0,0,0,,Excuse me, another plate of this firm kind of meat.
 Dialogue: 0,0:25:16.62,0:25:18.25,Default,Band Member,0,0,0,,No no, it does.
-Dialogue: 0,0:25:18.25,0:25:21.12,Default,Masamichi,0,0,0,,So you told Aoi that Shinno was coming back?
+Dialogue: 0,0:25:18.25,0:25:21.12,Default,Akane,0,0,0,,So you told Aoi that Shinno was coming back?
 Dialogue: 0,0:25:21.96,0:25:24.13,Default,Masamichi,0,0,0,,Did you say something, Akane?
 Dialogue: 0,0:25:25.05,0:25:26.46,Default,Nitobe,0,0,0,,What's this?
 Dialogue: 0,0:25:26.46,0:25:29.26,Default,Nitobe,0,0,0,,Are the two of you together?
@@ -438,7 +438,7 @@ Dialogue: 0,0:25:37.02,0:25:38.27,Default,Band Member,0,0,0,,Bring the expensive
 Dialogue: 0,0:25:38.27,0:25:39.68,Default,Band Member,0,0,0,,And more meat!
 Dialogue: 0,0:25:42.31,0:25:43.94,Default,Aoi,0,0,0,,So he can't leave here?
 Dialogue: 0,0:25:43.94,0:25:46.19,Default,Aoi,0,0,0,,Living spirit? He's more like a bound spirit.
-Dialogue: 0,0:25:46.19,0:25:49.15,Default,Aoi,0,0,0,,He knew that and yet he flung himself.
+Dialogue: 0,0:25:46.19,0:25:49.15,Default,Tsugu,0,0,0,,He knew that and yet he flung himself.
 Dialogue: 0,0:25:50.99,0:25:54.12,Default,Shinno,0,0,0,,So my wish does come true.
 Dialogue: 0,0:25:55.66,0:25:57.83,Default,Shinno,0,0,0,,At that time, I thought to myself.
 Dialogue: 0,0:25:57.83,0:26:05.75,Default,Shinno,0,0,0,,Hurry up and graduate. Go to Tokyo. Race to the future. \NAnd then come back for Akane as soon as possible.
@@ -592,7 +592,7 @@ Dialogue: 0,0:35:02.79,0:35:07.04,Top,Chika,0,0,0,,I mean, I like the idea of a 
 Dialogue: 0,0:35:03.87,0:35:09.17,Italics,Aoi,0,0,0,,I can't get through to her,\N but her hopeless positivity...
 Dialogue: 0,0:35:07.04,0:35:10.13,Top,Chika,0,0,0,,but I really want to go to a university cafeteria!
 Dialogue: 0,0:35:10.09,0:35:12.38,Italics,Aoi,0,0,0,,kinda reminds me of Michinko.
-Dialogue: 0,0:35:14.47,0:35:16.09,Default,Aoi,0,0,0,,Is he here?
+Dialogue: 0,0:35:14.47,0:35:16.09,Default,Chika,0,0,0,,Is he here?
 Dialogue: 0,0:35:16.09,0:35:17.47,Default,Akane,0,0,0,,Huh?
 Dialogue: 0,0:35:17.47,0:35:20.26,Default,Akane,0,0,0,,Is that your friend? Hello!
 Dialogue: 0,0:35:20.26,0:35:23.27,Default,Chika,0,0,0,,Oh, h-hello.
@@ -611,9 +611,9 @@ Dialogue: 0,0:35:48.04,0:35:48.67,Default,Band Member,0,0,0,,That'd be you!
 Dialogue: 0,0:35:49.00,0:35:52.96,Default,Chika,0,0,0,,Wow, they're like real rock musicians!
 Dialogue: 0,0:35:49.71,0:35:52.38,Top,Staff,0,0,0,,Anyway, you'll both have to fast for a week,
 Dialogue: 0,0:35:52.38,0:35:54.38,Top,Staff,0,0,0,,until the inflammation subsides.
-Dialogue: 0,0:35:54.38,0:35:56.97,Default,Manager,0,0,0,,It doesn't seem like they'll be able to perform.
-Dialogue: 0,0:35:56.97,0:35:59.26,Default,Manager,0,0,0,,But you'll get plenty of nutrients through an IV drip.
-Dialogue: 0,0:35:59.26,0:36:02.14,Default,Manager,0,0,0,,Worst-case scenario, \Nit won't be a live performance.
+Dialogue: 0,0:35:54.38,0:35:56.97,Default,Masamichi,0,0,0,,It doesn't seem like they'll be able to perform.
+Dialogue: 0,0:35:56.97,0:35:59.26,Default,Masamichi,0,0,0,,But you'll get plenty of nutrients through an IV drip.
+Dialogue: 0,0:35:59.26,0:36:02.14,Default,Masamichi,0,0,0,,Worst-case scenario, \Nit won't be a live performance.
 Dialogue: 0,0:36:02.14,0:36:05.52,Default,Nitobe,0,0,0,,{\fnCrapGPPB\fs90\fscx90}I'm afraid not, my friend. I'm afraid not.
 Dialogue: 0,0:36:05.52,0:36:07.19,Default,Masamichi,0,0,0,,Mr. Nitobe?
 Dialogue: 0,0:36:07.19,0:36:08.73,Default,Nitobe,0,0,0,,Sound is a living thing.
@@ -1179,7 +1179,7 @@ Dialogue: 0,1:17:57.94,1:18:00.45,Default,Nitobe,0,0,0,,It's the source of my en
 Dialogue: 0,1:18:00.45,1:18:05.33,Default,Nitobe,0,0,0,,All the feelings I've received from people\Nall across this land are stored inside of it.
 Dialogue: 0,1:18:05.79,1:18:09.04,Default,Nitobe,0,0,0,,Without it, I won't be able to sing the local heart.
 Dialogue: 0,1:18:09.04,1:18:12.88,Default,Nitobe,0,0,0,,I won't be able to sing the heart of enka!
-Dialogue: 0,1:18:12.88,1:18:16.21,Default,Masamichi,0,0,0,,That phrase sounds awfully familiar to me.
+Dialogue: 0,1:18:12.88,1:18:16.21,Default,Akane,0,0,0,,That phrase sounds awfully familiar to me.
 Dialogue: 0,1:18:17.30,1:18:20.72,Default,Manager,0,0,0,,Mr. Nitobe, it wasn't in the car either.
 Dialogue: 0,1:18:22.05,1:18:23.18,Default,Manager,0,0,0,,Mr. Nitobe.
 Dialogue: 0,1:18:23.18,1:18:26.89,Default,Band Member,0,0,0,,Well, when was the last time you saw it?
@@ -1196,8 +1196,8 @@ Dialogue: 0,1:18:50.71,1:18:51.46,Default,Akane,0,0,0,,Ah, check this.
 Dialogue: 0,1:18:51.46,1:18:53.79,Default,Akane,0,0,0,,The pendant's missing from this photo on.
 Dialogue: 0,1:18:53.79,1:18:54.92,Default,Manager,0,0,0,,Oh, right.
 Dialogue: 0,1:18:54.92,1:18:56.50,Default,Akane,0,0,0,,Which means...
-Dialogue: 0,1:18:56.50,1:18:58.92,Default,Akane,0,0,0,,The last place he had it on it was...
-Dialogue: 0,1:18:58.92,1:19:00.17,Default,Akane,0,0,0,,There!
+Dialogue: 0,1:18:56.50,1:18:58.92,Default,Masamichi,0,0,0,,The last place he had it on it was...
+Dialogue: 0,1:18:58.92,1:19:00.17,Default,Masamichi,0,0,0,,There!
 Dialogue: 0,1:19:00.17,1:19:01.68,Default,Nitobe,0,0,0,,Ah, that tunnel!
 Dialogue: 0,1:19:01.68,1:19:03.51,Default,Nitobe,0,0,0,,Charming, isn't it?
 Dialogue: 0,1:19:03.51,1:19:06.85,Default,Nitobe,0,0,0,,There was a fence but I just went through it like this.
@@ -1218,7 +1218,7 @@ Dialogue: 0,1:19:55.65,1:19:57.98,Default,Nitobe,0,0,0,,Having faith that my pen
 Dialogue: 0,1:19:57.98,1:20:01.78,Default,Nitobe,0,0,0,,let's do what we've set out to do.
 Dialogue: 0,1:20:01.78,1:20:04.57,Default,Nitobe,0,0,0,,Let's make the most out of everyone's support.
 Dialogue: 0,1:20:04.57,1:20:07.24,Default,Nitobe,0,0,0,,There's no time to relax!
-Dialogue: 0,1:20:07.24,1:20:09.78,Default,Chika,0,0,0,,The fact that it's coming from you amazes me.
+Dialogue: 0,1:20:07.24,1:20:09.78,Default,Tsugu,0,0,0,,The fact that it's coming from you amazes me.
 Dialogue: 0,1:20:09.78,1:20:11.62,Default,Chika,0,0,0,,By the way, where's Shinnosuke?
 Dialogue: 0,1:20:11.62,1:20:14.33,Default,Masamichi,0,0,0,,Ah, he said he had to stop by somewhere,
 Dialogue: 0,1:20:14.33,1:20:16.71,Default,Masamichi,0,0,0,,so he'll meet up with us later.

@@ -277,11 +277,11 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 275	0:18:57.62	0:19:00.16	Default	Akane	正嗣	And City Hall is paying for that, isn't it?	その費用・市役所持ちでしょ？ // うっ！	その土地の魂は歌えない とかなんとか // その費用 市役所持ちでしょ？ // （正嗣） それ たかられてるよね？
 276	0:19:00.58	0:19:04.46	Default	Tsugu	正嗣	Isn't that what you'd call sponging someone off?	うっ！ // それたかられてるよね確実… // …に！？	（正嗣） それ たかられてるよね？ // 確実に…
 277	0:19:05.87	0:19:07.25	Default	Aoi	あおい,次々に鳴るシャッター音	Tsugu?	ソグ？	（あおい）ツグ？ // （次々に鳴るシャッター音）
-278	0:19:11.46	0:19:12.80	Top	Masamichi		What the—	何だ！？	なんだ？
+278	0:19:11.46	0:19:12.80	Top	Townsperson		What the—	何だ！？	なんだ？
 279	0:19:17.14	0:19:20.31	Default	Nitobe	新渡戸	Ladies and gentlemen, sorry to keep you waiting.	皆さま、お待たせしました // 男一匹新渡戸団吉	（新渡戸）皆様 お待たせしました // 男一匹 新渡戸団吉
 280	0:19:20.31	0:19:23.06	Default	Nitobe	新渡戸	One lone man, Dankichi Nitobe	男一匹新渡戸団吉	（新渡戸）皆様 お待たせしました // 男一匹 新渡戸団吉
 281	0:19:23.06	0:19:30.40	Default	Nitobe		has crossed lands from afar and traversed\Nmountains to bring you the gift of a smile.	はるばる野を越え、山を超え、 // 笑顔のギフトをお届けにやってまいりました。 // うおっフェ…フェイント？	男一匹 新渡戸団吉 // はるばる野を越え山を越え // 笑顔のギフトをお届けに やって参りました // うおっ フェ… フェイント？
-282	0:19:30.40	0:19:32.15	Default	Townsperson	男性	A f-feint?	うおっフェ…フェイント？ // おっ、団ちゃんじゃんし	うおっ フェ… フェイント？ // （男性）おっ 団(だん)ちゃんじゃん
+282	0:19:30.40	0:19:32.15	Default	Masamichi	男性	A f-feint?	うおっフェ…フェイント？ // おっ、団ちゃんじゃんし	うおっ フェ… フェイント？ // （男性）おっ 団(だん)ちゃんじゃん
 283	0:19:32.15	0:19:33.49	Top	Townsperson	男性	Isn't that Dan?!	うおっフェ…フェイント？ // おっ、団ちゃんじゃんし	うおっ フェ… フェイント？ // （男性）おっ 団(だん)ちゃんじゃん
 284	0:19:33.49	0:19:34.95	Top	Townsperson	男性	What's he doing here?	おっ、団ちゃんじゃんし	（男性）おっ 団(だん)ちゃんじゃん
 285	0:19:36.70	0:19:38.45	Default	Aoi	あおい	Akane?	ん？あか姉？	（あおい）ん？　あか姉？
@@ -386,9 +386,9 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 384	0:25:09.78	0:25:13.41	Default	Band Member	サックス,トランペット	That's so cool, I wanna do a solo too!	あっいいなー俺もやらして下さいよ！ // お前のサックスはコアンが入ってねえからな	ここは ひとつ ギターソロの見せ場を取って // （サックス）あっ いいな 俺もやらしてくださいよ // （トランペット）お前のサックスは こぶしが入ってねえからなあ
 385	0:25:13.41	0:25:14.74	Top	Band Member	サックス,トランペット	You guys, that's still mostly raw.	お前のサックスはコアンが入ってねえからな	（サックス）あっ いいな 俺もやらしてくださいよ // （トランペット）お前のサックスは こぶしが入ってねえからなあ
 386	0:25:13.41	0:25:16.62	Default	Band Member	サックス,トランペット,サックス	You sax doesn't have enough soul in it.	お前のサックスはコアンが入ってねえからな // しいやいや、コブシって…	（サックス）あっ いいな 俺もやらしてくださいよ // （トランペット）お前のサックスは こぶしが入ってねえからなあ // （サックス） いやいや こぶしって！
-387	0:25:14.74	0:25:18.25	Top	Masamichi	トランペット,サックス	Excuse me, another plate of this firm kind of meat.	お前のサックスはコアンが入ってねえからな // しいやいや、コブシって… // あおいにしんのが戻ってくること話してたんだ	（トランペット）お前のサックスは こぶしが入ってねえからなあ // （サックス） いやいや こぶしって！ // あおいに しんのが戻ってくること 話してたんだ
+387	0:25:14.74	0:25:18.25	Top	Band Member	トランペット,サックス	Excuse me, another plate of this firm kind of meat.	お前のサックスはコアンが入ってねえからな // しいやいや、コブシって… // あおいにしんのが戻ってくること話してたんだ	（トランペット）お前のサックスは こぶしが入ってねえからなあ // （サックス） いやいや こぶしって！ // あおいに しんのが戻ってくること 話してたんだ
 388	0:25:16.62	0:25:18.25	Default	Band Member	トランペット,サックス	No no, it does.	しいやいや、コブシって… // あおいにしんのが戻ってくること話してたんだ	（トランペット）お前のサックスは こぶしが入ってねえからなあ // （サックス） いやいや こぶしって！ // あおいに しんのが戻ってくること 話してたんだ
-389	0:25:18.25	0:25:21.12	Default	Masamichi	サックス	So you told Aoi that Shinno was coming back?	しいやいや、コブシって… // あおいにしんのが戻ってくること話してたんだ // ん？何か言ったかあかね	（サックス） いやいや こぶしって！ // あおいに しんのが戻ってくること 話してたんだ // ん？　なんか言ったか あかね
+389	0:25:18.25	0:25:21.12	Default	Akane	サックス	So you told Aoi that Shinno was coming back?	しいやいや、コブシって… // あおいにしんのが戻ってくること話してたんだ // ん？何か言ったかあかね	（サックス） いやいや こぶしって！ // あおいに しんのが戻ってくること 話してたんだ // ん？　なんか言ったか あかね
 390	0:25:21.96	0:25:24.13	Default	Masamichi		Did you say something, Akane?	ん？何か言ったかあかね // ううん	ん？　なんか言ったか あかね // ううん
 391	0:25:25.05	0:25:26.46	Default	Nitobe	新渡戸	What's this?	ううん // おや〜？お二人はそういうご関係？	ううん // （新渡戸）おや？ // お二人は そういうご関係？
 392	0:25:26.46	0:25:29.26	Default	Nitobe	新渡戸,あかね	Are the two of you together?	おや〜？お二人はそういうご関係？ // は？	（新渡戸）おや？ // お二人は そういうご関係？ // （あかね）はっ？
@@ -399,7 +399,7 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 397	0:25:38.27	0:25:39.68	Default	Band Member	ドラム,ベース	And more meat!	あっ肉も追加で！	（ドラム） もっと高いの おかわり！ // （ベース）あっ 肉も追加で
 398	0:25:42.31	0:25:43.94	Default	Aoi		So he can't leave here?	ここから出られないとか生霊ってより地縛霊？	ここから出られないとか 生き霊ってより地縛霊？
 399	0:25:43.94	0:25:46.19	Default	Aoi		Living spirit? He's more like a bound spirit.	ここから出られないとか生霊ってより地縛霊？ // それがわかっててあれだけ勢いよく…	ここから出られないとか 生き霊ってより地縛霊？ // それが分かってて あれだけ勢いよく…
-400	0:25:46.19	0:25:49.15	Default	Aoi		He knew that and yet he flung himself.	それがわかっててあれだけ勢いよく…	ここから出られないとか 生き霊ってより地縛霊？ // それが分かってて あれだけ勢いよく…
+400	0:25:46.19	0:25:49.15	Default	Tsugu		He knew that and yet he flung himself.	それがわかっててあれだけ勢いよく…	ここから出られないとか 生き霊ってより地縛霊？ // それが分かってて あれだけ勢いよく…
 401	0:25:50.99	0:25:54.12	Default	Shinno	しんの,あおい	So my wish does come true.	願い叶うんだな // ん？	（しんの）願い かなうんだなあ // （あおい）ん？
 402	0:25:55.66	0:25:57.83	Default	Shinno	しんの	At that time, I thought to myself.	あん時俺思った // 早く卒業して早く東京出て、早く未来になって	（しんの）あんとき 俺 思った // 早く卒業して 早く東京出て 早く未来になって
 403	0:25:57.83	0:26:05.75	Default	Shinno	しんの	Hurry up and graduate. Go to Tokyo. Race to the future. \NAnd then come back for Akane as soon as possible.	早く卒業して早く東京出て、早く未来になって // 早くあかね迎えに行きたいって… // ん…！	（しんの）あんとき 俺 思った // 早く卒業して 早く東京出て 早く未来になって // 早く あかね迎えに行きたいって
@@ -553,7 +553,7 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 551	0:35:03.87	0:35:09.17	Italics	Aoi	あおい	I can't get through to her,\N but her hopeless positivity...	話は通じないがこの無駄にポジティブな感じ…	友達に学生いない？ いや 社会人も… // （あおい）話は通じないが このムダにポジティブな感じ…
 552	0:35:07.04	0:35:10.13	Top	Chika	あおい	but I really want to go to a university cafeteria!	話は通じないがこの無駄にポジティブな感じ… // みちんこに似てんのか…	（あおい）話は通じないが このムダにポジティブな感じ… // みちんこに似てんのか
 553	0:35:10.09	0:35:12.38	Italics	Aoi	クラクション	kinda reminds me of Michinko.	みちんこに似てんのか…	みちんこに似てんのか // （クラクション）
-554	0:35:14.47	0:35:16.09	Default	Aoi	あかね	Is he here?	あっ来た！？ // あれ～お友達？	あっ 来た？ // （あかね）あれ～？　お友達？
+554	0:35:14.47	0:35:16.09	Default	Chika	あかね	Is he here?	あっ来た！？ // あれ～お友達？	あっ 来た？ // （あかね）あれ～？　お友達？
 555	0:35:16.09	0:35:17.47	Default	Akane	あかね	Huh?	あれ～お友達？	（あかね）あれ～？　お友達？
 556	0:35:17.47	0:35:20.26	Default	Akane	あかね,千佳	Is that your friend? Hello!	あれ～お友達？ // こんにちは！ // あ〜：ここんちわ〜…	（あかね）あれ～？　お友達？ // こんにちは～ // （千佳）あ… こ… こんちは～
 557	0:35:20.26	0:35:23.27	Default	Chika	千佳,着信音,あかね	Oh, h-hello.	こんにちは！ // あ〜：ここんちわ〜… // 携帯電話の着信音	こんにちは～ // （千佳）あ… こ… こんちは～ // （着信音） （あかね）あっ
@@ -572,9 +572,9 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 570	0:35:49.00	0:35:52.96	Default	Chika	ベース,あおい	Wow, they're like real rock musicians!	お前だろそりゃ！？ // うわーロック〜！ミュージシャンって感じ // ん〜？	（ベース）お前だろ それは！ // うわあ ロック！ ミュージシャンって感じ // （あおい）ん～？
 571	0:35:49.71	0:35:52.38	Top	Staff		Anyway, you'll both have to fast for a week,	うわーロック〜！ミュージシャンって感じ	うわあ ロック！ ミュージシャンって感じ
 572	0:35:52.38	0:35:54.38	Top	Staff	あおい	until the inflammation subsides.	うわーロック〜！ミュージシャンって感じ // ん〜？ // 本番は厳しいですかね	うわあ ロック！ ミュージシャンって感じ // （あおい）ん～？ // 本番は厳しいですかね？
-573	0:35:54.38	0:35:56.97	Default	Manager	あおい	It doesn't seem like they'll be able to perform.	ん〜？ // 本番は厳しいですかね // まあ一応音源はありますし、最悪生音じゃなくても…	（あおい）ん～？ // 本番は厳しいですかね？ // まあ 一応音源はありますし
-574	0:35:56.97	0:35:59.26	Default	Manager		But you'll get plenty of nutrients through an IV drip.	まあ一応音源はありますし、最悪生音じゃなくても…	本番は厳しいですかね？ // まあ 一応音源はありますし // 最悪 生音じゃなくても…
-575	0:35:59.26	0:36:02.14	Default	Manager	新渡戸	Worst-case scenario, \Nit won't be a live performance.	まあ一応音源はありますし、最悪生音じゃなくても… // ♪却下だね〜え却下さね	まあ 一応音源はありますし // 最悪 生音じゃなくても… // （新渡戸）却下だね～ 却下だね♪
+573	0:35:54.38	0:35:56.97	Default	Masamichi	あおい	It doesn't seem like they'll be able to perform.	ん〜？ // 本番は厳しいですかね // まあ一応音源はありますし、最悪生音じゃなくても…	（あおい）ん～？ // 本番は厳しいですかね？ // まあ 一応音源はありますし
+574	0:35:56.97	0:35:59.26	Default	Masamichi		But you'll get plenty of nutrients through an IV drip.	まあ一応音源はありますし、最悪生音じゃなくても…	本番は厳しいですかね？ // まあ 一応音源はありますし // 最悪 生音じゃなくても…
+575	0:35:59.26	0:36:02.14	Default	Masamichi	新渡戸	Worst-case scenario, \Nit won't be a live performance.	まあ一応音源はありますし、最悪生音じゃなくても… // ♪却下だね〜え却下さね	まあ 一応音源はありますし // 最悪 生音じゃなくても… // （新渡戸）却下だね～ 却下だね♪
 576	0:36:02.14	0:36:05.52	Default	Nitobe	新渡戸,正道	{\fnCrapGPPB\fs90\fscx90}I'm afraid not, my friend. I'm afraid not.	♪却下だね〜え却下さね // 新渡戸先生！？	最悪 生音じゃなくても… // （新渡戸）却下だね～ 却下だね♪ // （正道）新渡戸先生？
 577	0:36:05.52	0:36:07.19	Default	Masamichi	新渡戸,正道,新渡戸	Mr. Nitobe?	新渡戸先生！？ // 音は生き物ですよ、命です	（新渡戸）却下だね～ 却下だね♪ // （正道）新渡戸先生？ // （新渡戸） 音は生き物(もん)ですよ　命です
 578	0:36:07.19	0:36:08.73	Default	Nitobe	正道,新渡戸	Sound is a living thing.	音は生き物ですよ、命です	（正道）新渡戸先生？ // （新渡戸） 音は生き物(もん)ですよ　命です
@@ -1140,7 +1140,7 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 1138	1:18:00.45	1:18:05.33	Default	Nitobe		All the feelings I've received from people\Nall across this land are stored inside of it.	あれは私の元気玉なんです // さまざまな場所でさまさまな方から受け止めた思いを閉じ込めている	あれは私の元気玉なんです // さまざまな場所で さまざまな方から受け止めた思いを // 閉じ込めている
 1139	1:18:05.79	1:18:09.04	Default	Nitobe		Without it, I won't be able to sing the local heart.	あれがなければ地元の心は歌えません // 演歌の心は歌えませんよ	あれがなければ 地元の心は歌えません // 演歌の心は歌えませんよ
 1140	1:18:09.04	1:18:12.88	Default	Nitobe	正道	I won't be able to sing the heart of enka!	演歌の心は歌えませんよ // ええっ！？ // この手のセリフ前にも聞いた気が…	あれがなければ 地元の心は歌えません // 演歌の心は歌えませんよ // （正道）ええっ // この手のセリフ 前にも聞いた気が…
-1141	1:18:12.88	1:18:16.21	Default	Masamichi	正道	That phrase sounds awfully familiar to me.	ええっ！？ // この手のセリフ前にも聞いた気が… // この手のセリフ前にも聞いた気が…あおいうつ	（正道）ええっ // この手のセリフ 前にも聞いた気が…
+1141	1:18:12.88	1:18:16.21	Default	Akane	正道	That phrase sounds awfully familiar to me.	ええっ！？ // この手のセリフ前にも聞いた気が… // この手のセリフ前にも聞いた気が…あおいうつ	（正道）ええっ // この手のセリフ 前にも聞いた気が…
 1142	1:18:17.30	1:18:20.72	Default	Manager	マネージャー	Mr. Nitobe, it wasn't in the car either.	先生〜やっぱり車にもありませんでした // ああ…	（マネージャー）先生 やっぱり 車にもありませんでした // ああっ
 1143	1:18:22.05	1:18:23.18	Default	Manager	トロンボーン	Mr. Nitobe.	ああ… // 先生… // とりあえず、最後に見たのっていつ頃なんですか？	ああっ // 先生 // （トロンボーン） とりあえず 最後に見たのって
 1144	1:18:23.18	1:18:26.89	Default	Band Member	トロンボーン,新渡戸	Well, when was the last time you saw it?	先生… // とりあえず、最後に見たのっていつ頃なんですか？ // うん？最後に？	先生 // （トロンボーン） とりあえず 最後に見たのって // いつごろなんですか？ // （新渡戸）ん？　最後に？
@@ -1157,8 +1157,8 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 1155	1:18:51.46	1:18:53.79	Default	Akane	あかね,マネージャー	The pendant's missing from this photo on.	ああこれここからバンダントしてませんね // あっほんとだだ。あかね、ということは…	（あかね）あっ これ ここからペンダントしてませんね // （マネージャー）あっ ホントだ
 1156	1:18:53.79	1:18:54.92	Default	Manager	あかね,マネージャー,あかね	Oh, right.	あっほんとだだ。あかね、ということは…	（あかね）あっ これ ここからペンダントしてませんね // （マネージャー）あっ ホントだ // （あかね）ということは…
 1157	1:18:54.92	1:18:56.50	Default	Akane	マネージャー,あかね	Which means...	あっほんとだだ。あかね、ということは… // 最後につけてたのは…	（マネージャー）あっ ホントだ // （あかね）ということは… // 最後に着けてたのは…
-1158	1:18:56.50	1:18:58.92	Default	Akane	あかね	The last place he had it on it was...	最後につけてたのは… // あった！	（あかね）ということは… // 最後に着けてたのは… // あった
-1159	1:18:58.92	1:19:00.17	Default	Akane	新渡戸	There!	最後につけてたのは… // あった！ // 新渡戸，ああ、このトンネル・風情があるでしょう？	最後に着けてたのは… // あった // （新渡戸）ああ このトンネル 風情があるでしょう
+1158	1:18:56.50	1:18:58.92	Default	Masamichi	あかね	The last place he had it on it was...	最後につけてたのは… // あった！	（あかね）ということは… // 最後に着けてたのは… // あった
+1159	1:18:58.92	1:19:00.17	Default	Masamichi	新渡戸	There!	最後につけてたのは… // あった！ // 新渡戸，ああ、このトンネル・風情があるでしょう？	最後に着けてたのは… // あった // （新渡戸）ああ このトンネル 風情があるでしょう
 1160	1:19:00.17	1:19:01.68	Default	Nitobe	新渡戸	Ah, that tunnel!	あった！ // 新渡戸，ああ、このトンネル・風情があるでしょう？	あった // （新渡戸）ああ このトンネル 風情があるでしょう
 1161	1:19:01.68	1:19:03.51	Default	Nitobe	新渡戸	Charming, isn't it?	新渡戸，ああ、このトンネル・風情があるでしょう？ // 柵があったんですがこう…	（新渡戸）ああ このトンネル 風情があるでしょう // 柵があったんですが こう ちょいちょいっと くぐって
 1162	1:19:03.51	1:19:06.85	Default	Nitobe	新渡戸,千佳･あかね	There was a fence but I just went through it like this.	柵があったんですがこう… // ちょちょいっとくぐって… // それだ！！	（新渡戸）ああ このトンネル 風情があるでしょう // 柵があったんですが こう ちょいちょいっと くぐって // （千佳･あかね）それだ！
@@ -1179,7 +1179,7 @@ idx	start	end	style	actor	cc_speakers	en_text	bd_text	cc_text
 1177	1:19:57.98	1:20:01.78	Default	Nitobe	新渡戸	let's do what we've set out to do.	我々は我々のすべきことをしましょう！ // 地元の皆さんの思いを無駄にしないように	（新渡戸）さあ ペンダントが 返ってくることを信じて // 我々は 我々のすべきことをしましょう // 地元の皆さんの思いを ムダにしないように
 1178	1:20:01.78	1:20:04.57	Default	Nitobe		Let's make the most out of everyone's support.	地元の皆さんの思いを無駄にしないように // 休んでる暇はありませんよ	我々は 我々のすべきことをしましょう // 地元の皆さんの思いを ムダにしないように // 休んでる暇はありませんよ
 1179	1:20:04.57	1:20:07.24	Default	Nitobe		There's no time to relax!	休んでる暇はありませんよ // お前が言うな感がすごい	地元の皆さんの思いを ムダにしないように // 休んでる暇はありませんよ // お前が言うな感がすごい
-1180	1:20:07.24	1:20:09.78	Default	Chika	千佳	The fact that it's coming from you amazes me.	お前が言うな感がすごい // それより慎之介さんは？	休んでる暇はありませんよ // お前が言うな感がすごい // （千佳）それより慎之介さんは？
+1180	1:20:07.24	1:20:09.78	Default	Tsugu	千佳	The fact that it's coming from you amazes me.	お前が言うな感がすごい // それより慎之介さんは？	休んでる暇はありませんよ // お前が言うな感がすごい // （千佳）それより慎之介さんは？
 1181	1:20:09.78	1:20:11.62	Default	Chika	千佳,正道	By the way, where's Shinnosuke?	それより慎之介さんは？ // ああちょっと寄る所があるとかで後から合流するってよ	お前が言うな感がすごい // （千佳）それより慎之介さんは？ // （正道）ああ ちょっと寄るところがあるとかで
 1182	1:20:11.62	1:20:14.33	Default	Masamichi	千佳,正道	Ah, he said he had to stop by somewhere,	ああちょっと寄る所があるとかで後から合流するってよ	（千佳）それより慎之介さんは？ // （正道）ああ ちょっと寄るところがあるとかで // あとから合流するってよ
 1183	1:20:14.33	1:20:16.71	Default	Masamichi	正道,千佳	so he'll meet up with us later.	ああちょっと寄る所があるとかで後から合流するってよ // え〜…	（正道）ああ ちょっと寄るところがあるとかで // あとから合流するってよ // （千佳）え～
